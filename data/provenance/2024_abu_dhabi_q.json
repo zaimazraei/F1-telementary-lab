@@ -1,0 +1,265 @@
+{
+  "repository": "https://github.com/TracingInsights/2024",
+  "commit": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "retrieved_at_utc": "2026-11-15T13:18:57.438279+00:00",
+  "session_id": "2024_abu_dhabi_q",
+  "selection": "Fastest accurate, non-deleted flying lap across Q1/Q2/Q3 for each driver.",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/ALB/5_tel.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/ALB_5_tel.json",
+      "sha256": "9e4ad017786abaa065771a0ebe10f7e52d7fc917c26a1b86a75dc644817a95f1",
+      "bytes": 123250
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/ALB/laptimes.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/ALB_laptimes.json",
+      "sha256": "8077aff6c35f37a3562c9ada91d93cabd0e0577eeb7583f9f9fc6f9ec77b3e52",
+      "bytes": 1937
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/ALO/18_tel.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/ALO_18_tel.json",
+      "sha256": "630c688aaeca6295aea1d7ddb6e1a482509ba773bcbe9e8ecd4a6527346fe3bd",
+      "bytes": 128348
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/ALO/laptimes.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/ALO_laptimes.json",
+      "sha256": "d09c600a48db5b51fb2ff6558bff6b5dbe4c40aa8d7d61645fa98a879103df69",
+      "bytes": 5540
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/BOT/14_tel.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/BOT_14_tel.json",
+      "sha256": "1ebd0137641dbf2f174545f12f8e3eacc9329493cb71ecfbde9505bd0c2d41c6",
+      "bytes": 127482
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/BOT/laptimes.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/BOT_laptimes.json",
+      "sha256": "3ab166eac9da5b8932af0cfcbc357b8f125b25c51b8baecaeee9baa74bdc1169",
+      "bytes": 4423
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/COL/5_tel.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/COL_5_tel.json",
+      "sha256": "acdfd4db11d14602bc7866f68e75255b3ac89dff564f0a9d062edce08ae4927e",
+      "bytes": 117029
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/COL/laptimes.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/COL_laptimes.json",
+      "sha256": "929252d29527bd0218ee84a871aff7cdca09c2d4da1588e3576df7eaec0f3311",
+      "bytes": 1970
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/DOO/5_tel.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/DOO_5_tel.json",
+      "sha256": "a68ba490fea778c3d165091bad7a2ce4ab001cb061e31bae229ba72de5029bec",
+      "bytes": 126894
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/DOO/laptimes.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/DOO_laptimes.json",
+      "sha256": "c1f875a945636d42edaad4f09f5cb80b4f8a2c844f35bc9c98f6abc853ce8960",
+      "bytes": 1936
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/GAS/17_tel.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/GAS_17_tel.json",
+      "sha256": "8277c2dc7d7de210e7efbe09b88bfbf5b06bb294664dd861bc3f49253fb6b13e",
+      "bytes": 127693
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/GAS/laptimes.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/GAS_laptimes.json",
+      "sha256": "e3d04931f82c99cd488e43b1cd2c8f7b3fe42ecba3c76f581da37d514707d289",
+      "bytes": 5152
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/HAM/3_tel.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/HAM_3_tel.json",
+      "sha256": "4a6a012cf336379fd5a91a6cf4f4a21cb275fec773e957ce282ab91ed8716c91",
+      "bytes": 123091
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/HAM/laptimes.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/HAM_laptimes.json",
+      "sha256": "7f246d4eb6527466844d2e1095b35c937012f0fe67f69c1d73b57bfc0eb29902",
+      "bytes": 2214
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/HUL/16_tel.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/HUL_16_tel.json",
+      "sha256": "93de7105f961b2232c43a5600fb078bfe97df69dfeea0b789b94d9dd52ead933",
+      "bytes": 126525
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/HUL/laptimes.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/HUL_laptimes.json",
+      "sha256": "512252664fee7fb00e392b5680491b090bf81d1492afa09f94132aa4ade600d9",
+      "bytes": 4997
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/LAW/11_tel.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/LAW_11_tel.json",
+      "sha256": "688099428beb2f7a64b7ba4e4eeb389e13c7694ac7cf61d4aa75d2c90f682abf",
+      "bytes": 119663
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/LAW/laptimes.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/LAW_laptimes.json",
+      "sha256": "bc0742c9abc190d3378c017f3b3c66da220cd4211a4e7db4017902f59b6c8c11",
+      "bytes": 3497
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/LEC/5_tel.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/LEC_5_tel.json",
+      "sha256": "c6c36ca57df118deadb821485d0ef9f8bfe5fb096214d124e787594862372e81",
+      "bytes": 124791
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/LEC/laptimes.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/LEC_laptimes.json",
+      "sha256": "aa222234219a80cb84231e78a40d6801497c5e3f84122ddb515b68b63bc1837f",
+      "bytes": 3586
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/MAG/2_tel.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/MAG_2_tel.json",
+      "sha256": "3436dce9f05ad5ce8455ae60fff93740d211fe741c6f9720bec2151d2cd76384",
+      "bytes": 120039
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/MAG/laptimes.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/MAG_laptimes.json",
+      "sha256": "fac900ecf7cbba9469c0663778667ca8adcf78bbe12be88b7bd2b5d1abf7a902",
+      "bytes": 3343
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/NOR/15_tel.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/NOR_15_tel.json",
+      "sha256": "21f6dabc77361c005314cd01b95e5afbea09729a6c9075e4fe60f76b71a4b001",
+      "bytes": 127276
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/NOR/laptimes.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/NOR_laptimes.json",
+      "sha256": "466a48dee8f2cca3b8f061133724c8952163b729ca09af55d26ece5f3d8484ef",
+      "bytes": 4628
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/PER/17_tel.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/PER_17_tel.json",
+      "sha256": "1ed9776efd0873c427678ea409addded584925120316700e16830ae99a915fe7",
+      "bytes": 130164
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/PER/laptimes.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/PER_laptimes.json",
+      "sha256": "23774149943004d6aa6d7ea1de10387c8cbcc38d9a5dd2227283e2981b76cbb0",
+      "bytes": 5322
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/PIA/15_tel.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/PIA_15_tel.json",
+      "sha256": "80eea106371e670717c2a08cfc652b1e6babbfd7bc0e771538de745a06629f7c",
+      "bytes": 127565
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/PIA/laptimes.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/PIA_laptimes.json",
+      "sha256": "039f7c2ba00d374bc01998093b930421b903da3b6b59160531a204fbc22fa191",
+      "bytes": 4639
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/RUS/18_tel.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/RUS_18_tel.json",
+      "sha256": "2bc6dcb0cce700dfe1849a96e99a1f527ae6a0f5c66eb6f4de86ad6a95d2da8b",
+      "bytes": 125145
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/RUS/laptimes.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/RUS_laptimes.json",
+      "sha256": "d6be55dfe8e72bb86da61f5e408267f717f42615678da1d2d1a5f2ddba5f9f32",
+      "bytes": 5461
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/SAI/15_tel.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/SAI_15_tel.json",
+      "sha256": "4937732c4c77ab9a5255f34c8aaa0ce26cab7f9332e775a0233cf545b8e5fce0",
+      "bytes": 127339
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/SAI/laptimes.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/SAI_laptimes.json",
+      "sha256": "b98b33f08f9fef6fc8e861bd870160a90b472aed81bf669606ecfd639f1a5880",
+      "bytes": 4640
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/STR/5_tel.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/STR_5_tel.json",
+      "sha256": "2feafcef7277db8641a177e2a94bfebcc57dd0f55c873d774a81377ffa360ead",
+      "bytes": 117768
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/STR/laptimes.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/STR_laptimes.json",
+      "sha256": "2746e7b284c50491a284ed50c135bec31ab6d6a667d3f2aa98e2e6ea5adfbd71",
+      "bytes": 4175
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/TSU/11_tel.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/TSU_11_tel.json",
+      "sha256": "4809e1d49232a3bbf8044d950724e22a3412bcbb57aaf07cd2bba6921ad51950",
+      "bytes": 121478
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/TSU/laptimes.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/TSU_laptimes.json",
+      "sha256": "428d4f5d251270f25bea3e2e8c5b34a6038726666934c1c862f6305f4e822958",
+      "bytes": 3494
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/VER/11_tel.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/VER_11_tel.json",
+      "sha256": "bcda7881784f63daefbec464c2ef810624fca1b2d20eaaf55f63e8781163871a",
+      "bytes": 129337
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/VER/laptimes.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/VER_laptimes.json",
+      "sha256": "fde65b4a8f861405aa985cacc8a66faba594058d68c9e1d17b3395e2f2c0ba79",
+      "bytes": 4466
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/ZHO/5_tel.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/ZHO_5_tel.json",
+      "sha256": "a85685fda57f55ec12dfdfebad3adf0e712fde5fa952f189cfc25ca9aeb129ec",
+      "bytes": 127107
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/ZHO/laptimes.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/ZHO_laptimes.json",
+      "sha256": "f2be7a136e8249080383c933bffa5fa76015852ffff76aaf0dfe376e97424077",
+      "bytes": 1965
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/drivers.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/drivers.json",
+      "sha256": "3b7de2f85880945cc34831238f6b4b908eb0a214af588e85b3c4193dab0b34b5",
+      "bytes": 4505
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Abu%20Dhabi%20Grand%20Prix/Qualifying/session_info.json",
+      "local_file": "data/raw/2024_abu_dhabi_q/session_info.json",
+      "sha256": "47183948e672b8d5e8c657261fb7ffd77170fa069f9cb83216693965ff4335db",
+      "bytes": 1129
+    }
+  ],
+  "transformation": "Retain fastest valid lap metadata and source time, distance, speed, throttle, brake, x, y arrays unchanged. Resampling occurs only at comparison time.",
+  "validation": "Usable telemetry spans the lap within 0.5 s at each end, without a gap longer than 3 s. Missing fastest telemetry is reported; no slower lap is silently substituted.",
+  "unavailable_drivers": [],
+  "license_file": "data/TRACINGINSIGHTS_LICENSE.txt"
+}

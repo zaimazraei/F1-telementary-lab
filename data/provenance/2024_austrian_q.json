@@ -1,0 +1,265 @@
+{
+  "repository": "https://github.com/TracingInsights/2024",
+  "commit": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "retrieved_at_utc": "2026-11-15T13:18:57.008024+00:00",
+  "session_id": "2024_austrian_q",
+  "selection": "Fastest accurate, non-deleted flying lap across Q1/Q2/Q3 for each driver.",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/ALB/8_tel.json",
+      "local_file": "data/raw/2024_austrian_q/ALB_8_tel.json",
+      "sha256": "ee62a3eacb9d60a00eb3006a221e83156468051a4ac342deb0454311eabd664c",
+      "bytes": 97469
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/ALB/laptimes.json",
+      "local_file": "data/raw/2024_austrian_q/ALB_laptimes.json",
+      "sha256": "3b0da65c5ffd9e8c2c73ed48a69799f5e643f88f2fce42c8864eb2a27383bb18",
+      "bytes": 3057
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/ALO/11_tel.json",
+      "local_file": "data/raw/2024_austrian_q/ALO_11_tel.json",
+      "sha256": "49b68b6987391dae81e103c4d0d0534cfa7779baa14af3b0c19ec17814cbfc7f",
+      "bytes": 98569
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/ALO/laptimes.json",
+      "local_file": "data/raw/2024_austrian_q/ALO_laptimes.json",
+      "sha256": "42ade820cae11ab1cdc651f7f2e5b80740b2b5c49b231146f479b7f493789714",
+      "bytes": 4946
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/BOT/5_tel.json",
+      "local_file": "data/raw/2024_austrian_q/BOT_5_tel.json",
+      "sha256": "37773c5275ea183bb7829520e2f342fb42bc7a9376c8015aa512c88fece0d63b",
+      "bytes": 94608
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/BOT/laptimes.json",
+      "local_file": "data/raw/2024_austrian_q/BOT_laptimes.json",
+      "sha256": "a128cf892fe5feee1050dabcb423219e6ab8d4879d6f031a4d734b68e50a01aa",
+      "bytes": 3098
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/GAS/14_tel.json",
+      "local_file": "data/raw/2024_austrian_q/GAS_14_tel.json",
+      "sha256": "645c8aac032e0425362e0697c448c038df787cb0667280d07694c53a6aa54631",
+      "bytes": 98712
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/GAS/laptimes.json",
+      "local_file": "data/raw/2024_austrian_q/GAS_laptimes.json",
+      "sha256": "18f6f60b8b76f7a9ec450f84225ff327ac389683d775f08d9ca4612769ff19ac",
+      "bytes": 5778
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/HAM/17_tel.json",
+      "local_file": "data/raw/2024_austrian_q/HAM_17_tel.json",
+      "sha256": "500ec203c82a95c9b6a1768d9d18023e01ff3f2b19fadeaba3a5ad5ab8689513",
+      "bytes": 100746
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/HAM/laptimes.json",
+      "local_file": "data/raw/2024_austrian_q/HAM_laptimes.json",
+      "sha256": "ef1688d09260068976933348d9e0ef1e0ad88cfc736b60e5636230b5d6c6d8f0",
+      "bytes": 5796
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/HUL/14_tel.json",
+      "local_file": "data/raw/2024_austrian_q/HUL_14_tel.json",
+      "sha256": "ecbf5c667f2914caa9f7359c626969737a9a8d63f7bcd9220a1fccf41632f28c",
+      "bytes": 100069
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/HUL/laptimes.json",
+      "local_file": "data/raw/2024_austrian_q/HUL_laptimes.json",
+      "sha256": "5f1b3c4b55e2bc38db67c49bc4ec798c8701c0e189046005cdcd8e5a6654416e",
+      "bytes": 6781
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/LEC/18_tel.json",
+      "local_file": "data/raw/2024_austrian_q/LEC_18_tel.json",
+      "sha256": "0018d1654264a7d0d69ecd4708f52240e185b474f0cac56eb2aa38fb9133ee85",
+      "bytes": 98685
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/LEC/laptimes.json",
+      "local_file": "data/raw/2024_austrian_q/LEC_laptimes.json",
+      "sha256": "2a66fc811e3b3cfe725edc686748386f089be39fd1dd0583a5a8c49e55fc020d",
+      "bytes": 7013
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/MAG/14_tel.json",
+      "local_file": "data/raw/2024_austrian_q/MAG_14_tel.json",
+      "sha256": "231ae00b6bfe9a11f59161defa6b3e7e0c5b432a07e18a57ab7b1dccc5cc5332",
+      "bytes": 101012
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/MAG/laptimes.json",
+      "local_file": "data/raw/2024_austrian_q/MAG_laptimes.json",
+      "sha256": "9506f237507f2352cd734d314623c9d41c7669dc62cb65113ca23898800ae323",
+      "bytes": 4950
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/NOR/19_tel.json",
+      "local_file": "data/raw/2024_austrian_q/NOR_19_tel.json",
+      "sha256": "d923e2a635b31585e169d97972de261a1e612eb67e6bf3fe2b011ca5dfd13597",
+      "bytes": 100353
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/NOR/laptimes.json",
+      "local_file": "data/raw/2024_austrian_q/NOR_laptimes.json",
+      "sha256": "4a0513fd5c92454db39f42e7417fb0b60b4e482763bf379f23e8d3cb6574a60b",
+      "bytes": 6366
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/OCO/17_tel.json",
+      "local_file": "data/raw/2024_austrian_q/OCO_17_tel.json",
+      "sha256": "518f06c0f051f17200145f6702a851060eeeb823ab65c9d510ebf1c0439d2469",
+      "bytes": 95593
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/OCO/laptimes.json",
+      "local_file": "data/raw/2024_austrian_q/OCO_laptimes.json",
+      "sha256": "32af32caed0ed968b0853e62d15ddd1ebdba52384b8ef742a81ed40c92893c95",
+      "bytes": 7557
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/PER/14_tel.json",
+      "local_file": "data/raw/2024_austrian_q/PER_14_tel.json",
+      "sha256": "f5896602945c21bd18fe4b086aeea3632c6b77eaf94a0d11304621a70d1162ff",
+      "bytes": 99925
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/PER/laptimes.json",
+      "local_file": "data/raw/2024_austrian_q/PER_laptimes.json",
+      "sha256": "0038e0fa0a1906f03d6b7bcfe78fcc985412707d1db080727834c303096ddfae",
+      "bytes": 6844
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/PIA/13_tel.json",
+      "local_file": "data/raw/2024_austrian_q/PIA_13_tel.json",
+      "sha256": "1b84833da9f069db167a6f26c0c1fe5ce99d43ad2e0174600d61e0fa55c430e5",
+      "bytes": 95790
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/PIA/laptimes.json",
+      "local_file": "data/raw/2024_austrian_q/PIA_laptimes.json",
+      "sha256": "7242c129a0e4b27d26a7e8f1e18e83b8c2ccf5ed8c4f529e4b2936b374b7d6d1",
+      "bytes": 5492
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/RIC/14_tel.json",
+      "local_file": "data/raw/2024_austrian_q/RIC_14_tel.json",
+      "sha256": "55b652f9b5b3045b769df9fbb37a0a26ebb3d53925c67dc32b84924826ba92c3",
+      "bytes": 100537
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/RIC/laptimes.json",
+      "local_file": "data/raw/2024_austrian_q/RIC_laptimes.json",
+      "sha256": "abfe16ed3627b472c69cc906302c1423ff4dc27400edc846c3ecb336f226ca98",
+      "bytes": 4769
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/RUS/17_tel.json",
+      "local_file": "data/raw/2024_austrian_q/RUS_17_tel.json",
+      "sha256": "6a5fe1ca6f15df384dde2770e87f5b2af4755c10c519fac5cbe7840cee4920bc",
+      "bytes": 101641
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/RUS/laptimes.json",
+      "local_file": "data/raw/2024_austrian_q/RUS_laptimes.json",
+      "sha256": "1cbb7af2ceab0463ce626912dad7e790a3433f5fcdfc4a749eaf2d90fc696ce0",
+      "bytes": 5793
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/SAI/17_tel.json",
+      "local_file": "data/raw/2024_austrian_q/SAI_17_tel.json",
+      "sha256": "46900ff9e0519b242867fa6e96af8e11688de7116159edcb79e2cf00e24b4faf",
+      "bytes": 100904
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/SAI/laptimes.json",
+      "local_file": "data/raw/2024_austrian_q/SAI_laptimes.json",
+      "sha256": "6d4a90cb0f8273dabb4e4d0304548096f60e848215fafe9be0ca85c7b37ade88",
+      "bytes": 5760
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/SAR/8_tel.json",
+      "local_file": "data/raw/2024_austrian_q/SAR_8_tel.json",
+      "sha256": "772c0bcc8b63c3882e3908ed98411221e829ee0d499df55e9e41653a9930f80d",
+      "bytes": 97419
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/SAR/laptimes.json",
+      "local_file": "data/raw/2024_austrian_q/SAR_laptimes.json",
+      "sha256": "0be25b674d38f83fce7f7810fe9d800f5792934f58d8e99155550c415577d14e",
+      "bytes": 3056
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/STR/8_tel.json",
+      "local_file": "data/raw/2024_austrian_q/STR_8_tel.json",
+      "sha256": "afe58c6b6aae647c1de289b2a81a7be5c93c2642c3b69058596cfb29a01b2f07",
+      "bytes": 97416
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/STR/laptimes.json",
+      "local_file": "data/raw/2024_austrian_q/STR_laptimes.json",
+      "sha256": "7136150507130d77766b863d3a2319710c5b0e867ca3fabdd0d7a5cff4cacd50",
+      "bytes": 3098
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/TSU/11_tel.json",
+      "local_file": "data/raw/2024_austrian_q/TSU_11_tel.json",
+      "sha256": "72fd93b0337b8a84f0406eb13910b1b5a525b12805d0ca4069af24cce725261f",
+      "bytes": 93371
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/TSU/laptimes.json",
+      "local_file": "data/raw/2024_austrian_q/TSU_laptimes.json",
+      "sha256": "b8cfba17bcd45c88a6605b0654037e76fa228cfe8a1fe58d91e26f28421c4aed",
+      "bytes": 4821
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/VER/17_tel.json",
+      "local_file": "data/raw/2024_austrian_q/VER_17_tel.json",
+      "sha256": "ded07a9b4613d34c4fbed7a58ae03525e93405d388d05262511cd265626ba9f6",
+      "bytes": 98650
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/VER/laptimes.json",
+      "local_file": "data/raw/2024_austrian_q/VER_laptimes.json",
+      "sha256": "2ab52ccd8031a74182c1139c6fa4663b58bd0fe21c6042799716e38d0626bc93",
+      "bytes": 5906
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/ZHO/8_tel.json",
+      "local_file": "data/raw/2024_austrian_q/ZHO_8_tel.json",
+      "sha256": "1019d9dc0a3fa871f8e5fa98542608a8aa38d6d3fe64cd13cbe95024605a35df",
+      "bytes": 97040
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/ZHO/laptimes.json",
+      "local_file": "data/raw/2024_austrian_q/ZHO_laptimes.json",
+      "sha256": "e4c13989e5d2fd962743a8793502fd2490bded78feef8c9a04c5fa8fad4164ef",
+      "bytes": 3091
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/drivers.json",
+      "local_file": "data/raw/2024_austrian_q/drivers.json",
+      "sha256": "43421f1b0712d5d999215fd23ff73e97feba8b2d2b28c5122ef0f1700de77919",
+      "bytes": 4945
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Austrian%20Grand%20Prix/Qualifying/session_info.json",
+      "local_file": "data/raw/2024_austrian_q/session_info.json",
+      "sha256": "cae426900f41c0b5ec12aaf5c7422c42529b646a4ca35c8739a7c56a6630ebe9",
+      "bytes": 909
+    }
+  ],
+  "transformation": "Retain fastest valid lap metadata and source time, distance, speed, throttle, brake, x, y arrays unchanged. Resampling occurs only at comparison time.",
+  "validation": "Usable telemetry spans the lap within 0.5 s at each end, without a gap longer than 3 s. Missing fastest telemetry is reported; no slower lap is silently substituted.",
+  "unavailable_drivers": [],
+  "license_file": "data/TRACINGINSIGHTS_LICENSE.txt"
+}

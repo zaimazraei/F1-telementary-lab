@@ -1,0 +1,265 @@
+{
+  "repository": "https://github.com/TracingInsights/2024",
+  "commit": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "retrieved_at_utc": "2026-11-15T13:19:04.809460+00:00",
+  "session_id": "2024_sao_paulo_q",
+  "selection": "Fastest accurate, non-deleted flying lap across Q1/Q2/Q3 for each driver.",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/ALB/24_tel.json",
+      "local_file": "data/raw/2024_sao_paulo_q/ALB_24_tel.json",
+      "sha256": "06084f15cc644321ba4928b7a6262c2f5919566b085f5992805c352ec08fbc6a",
+      "bytes": 125200
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/ALB/laptimes.json",
+      "local_file": "data/raw/2024_sao_paulo_q/ALB_laptimes.json",
+      "sha256": "8850c3531a1b9f245253f4cd0f688c61de61066c53c39d9b9710a229c0b7e82f",
+      "bytes": 8993
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/ALO/17_tel.json",
+      "local_file": "data/raw/2024_sao_paulo_q/ALO_17_tel.json",
+      "sha256": "e9de2d3696298f318ed148d4964a4384e19391d2de857f2fd46eac7734e3b49e",
+      "bytes": 129453
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/ALO/laptimes.json",
+      "local_file": "data/raw/2024_sao_paulo_q/ALO_laptimes.json",
+      "sha256": "9ea69ed5cda70696423b3ef4b78a91a60ca0997401d5af90239a8e7b4c6c4097",
+      "bytes": 6863
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/BEA/10_tel.json",
+      "local_file": "data/raw/2024_sao_paulo_q/BEA_10_tel.json",
+      "sha256": "2aba2d7af5879a53969008117f58e3a948a76103e0563e2d874658ce4013e0c0",
+      "bytes": 140626
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/BEA/laptimes.json",
+      "local_file": "data/raw/2024_sao_paulo_q/BEA_laptimes.json",
+      "sha256": "a6f4bcbd687de0bfc5271149b9e013d5e37fc869355bc3ebe28ed5bc8d4dade7",
+      "bytes": 3709
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/BOT/20_tel.json",
+      "local_file": "data/raw/2024_sao_paulo_q/BOT_20_tel.json",
+      "sha256": "c6f5083adf4a94fdbcd13845bc9c1e1ba936c20ab83f121fe9772885bf7d6be1",
+      "bytes": 132457
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/BOT/laptimes.json",
+      "local_file": "data/raw/2024_sao_paulo_q/BOT_laptimes.json",
+      "sha256": "fd8add829b056f1e7593b75aaefdb7251aa34456dcbc136a7cd40662b34bb86b",
+      "bytes": 6836
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/COL/3_tel.json",
+      "local_file": "data/raw/2024_sao_paulo_q/COL_3_tel.json",
+      "sha256": "9ee9551d57b8688ee36c28fe41c3d25996dde2a5b4fd8e55030c21e8cdabf911",
+      "bytes": 135834
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/COL/laptimes.json",
+      "local_file": "data/raw/2024_sao_paulo_q/COL_laptimes.json",
+      "sha256": "bd722de6d0aa585b55863b6413c8306ce2186d9be686a70b5dbf651580c2ba9e",
+      "bytes": 1847
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/GAS/12_tel.json",
+      "local_file": "data/raw/2024_sao_paulo_q/GAS_12_tel.json",
+      "sha256": "cf9e5d2e7da4551e5b87162e364cb66a0d6ca3a99d915c750c9dd717e912c1ad",
+      "bytes": 130883
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/GAS/laptimes.json",
+      "local_file": "data/raw/2024_sao_paulo_q/GAS_laptimes.json",
+      "sha256": "b29071c10acb4123eaaf03e78d025c01b321ef10ad3c79274a6f92bb5815885a",
+      "bytes": 6674
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/HAM/10_tel.json",
+      "local_file": "data/raw/2024_sao_paulo_q/HAM_10_tel.json",
+      "sha256": "7595f60ae84db4e680c18d564518ba6a1f68e89fb8b40345caaf1462ab413399",
+      "bytes": 139704
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/HAM/laptimes.json",
+      "local_file": "data/raw/2024_sao_paulo_q/HAM_laptimes.json",
+      "sha256": "2d40c192040100bf08c750d0e9ffb52e3262dc5bdcecebc80020cfa9b0aa6691",
+      "bytes": 3737
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/HUL/10_tel.json",
+      "local_file": "data/raw/2024_sao_paulo_q/HUL_10_tel.json",
+      "sha256": "ce1b36d997722a901c5fac16a7e2979befe0cc61986ce3bc500ff6a108887904",
+      "bytes": 138269
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/HUL/laptimes.json",
+      "local_file": "data/raw/2024_sao_paulo_q/HUL_laptimes.json",
+      "sha256": "582971944c0b7594db91bf7b546a9805ce455671c773ab11e9aa1271cfd08e13",
+      "bytes": 4036
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/LAW/29_tel.json",
+      "local_file": "data/raw/2024_sao_paulo_q/LAW_29_tel.json",
+      "sha256": "90c4399589f29595218481c3f8cffbb38a90d5da5f001a92d3270942cb213b42",
+      "bytes": 124572
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/LAW/laptimes.json",
+      "local_file": "data/raw/2024_sao_paulo_q/LAW_laptimes.json",
+      "sha256": "b887a76c17791d842b5cf433e4c26db3777b24d60ddc95e8096eab23d462ea2a",
+      "bytes": 9364
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/LEC/28_tel.json",
+      "local_file": "data/raw/2024_sao_paulo_q/LEC_28_tel.json",
+      "sha256": "b38353cdec6ff06c5c56088e8f131078697b0e5292a497c4fca49d13c3843c36",
+      "bytes": 128470
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/LEC/laptimes.json",
+      "local_file": "data/raw/2024_sao_paulo_q/LEC_laptimes.json",
+      "sha256": "d9e47d2cd78a905d79b69f9fba983a76848841551f518a35938c31aa6724761f",
+      "bytes": 9201
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/NOR/32_tel.json",
+      "local_file": "data/raw/2024_sao_paulo_q/NOR_32_tel.json",
+      "sha256": "c042f524823edbcc5d32f356900ae5e4693e90f0232398d7bbc974ce689ad6be",
+      "bytes": 120007
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/NOR/laptimes.json",
+      "local_file": "data/raw/2024_sao_paulo_q/NOR_laptimes.json",
+      "sha256": "630a3ee41c3e4d5c31e0a2df4c9e7eacfa7b24668071cf53b5d1c2377c889346",
+      "bytes": 10390
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/OCO/30_tel.json",
+      "local_file": "data/raw/2024_sao_paulo_q/OCO_30_tel.json",
+      "sha256": "f9fe667bbad7d031111e0b0444fd8f0d85d3afc0f2be17f577926c210779c34b",
+      "bytes": 126325
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/OCO/laptimes.json",
+      "local_file": "data/raw/2024_sao_paulo_q/OCO_laptimes.json",
+      "sha256": "d60f09c250333f84e80597e8e48139006ae31b0480724f857674a2295cdd8473",
+      "bytes": 9761
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/PER/12_tel.json",
+      "local_file": "data/raw/2024_sao_paulo_q/PER_12_tel.json",
+      "sha256": "a625a9bb3e18e09d5eb19b5f641163b673b9e8841d8f6ce7f16b899d5b874fcc",
+      "bytes": 130279
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/PER/laptimes.json",
+      "local_file": "data/raw/2024_sao_paulo_q/PER_laptimes.json",
+      "sha256": "8a722cfe01469bd5a51b8099e93dd2e04c4c75fcc1c93180f64a192c114c8df4",
+      "bytes": 5962
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/PIA/22_tel.json",
+      "local_file": "data/raw/2024_sao_paulo_q/PIA_22_tel.json",
+      "sha256": "b898116a6d3da783430ad7735d6c269891d49c61aeb7dca01d7810d91aa8b919",
+      "bytes": 124551
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/PIA/laptimes.json",
+      "local_file": "data/raw/2024_sao_paulo_q/PIA_laptimes.json",
+      "sha256": "cd80e67917324ee8c8f6f6807a846c1bc697b11d9dfd3c550a6f2c40a283af60",
+      "bytes": 8883
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/RUS/28_tel.json",
+      "local_file": "data/raw/2024_sao_paulo_q/RUS_28_tel.json",
+      "sha256": "655c9f5686243970edd733067b422062c00f20259d4622885d49e0a083212e48",
+      "bytes": 126397
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/RUS/laptimes.json",
+      "local_file": "data/raw/2024_sao_paulo_q/RUS_laptimes.json",
+      "sha256": "3d9f5c00e4eba81ec384b4f7489d7dc2e98832a24656f60d0f61f0e85bab3c88",
+      "bytes": 9302
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/SAI/13_tel.json",
+      "local_file": "data/raw/2024_sao_paulo_q/SAI_13_tel.json",
+      "sha256": "d681bcb8966bc4f4c6d20478df1435e5ca5c288d8d1d668949fbfabc3b226841",
+      "bytes": 133045
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/SAI/laptimes.json",
+      "local_file": "data/raw/2024_sao_paulo_q/SAI_laptimes.json",
+      "sha256": "bd111e074595047739b0f500763ca36ade8585856d1dc3c98d8783d7643acf39",
+      "bytes": 5500
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/STR/18_tel.json",
+      "local_file": "data/raw/2024_sao_paulo_q/STR_18_tel.json",
+      "sha256": "0bc288d873e0b0c3edb2218bcf513cf855b096555259cfd6c0c89f4976e7362c",
+      "bytes": 132922
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/STR/laptimes.json",
+      "local_file": "data/raw/2024_sao_paulo_q/STR_laptimes.json",
+      "sha256": "93db15baa8a327eebe997724bafbfedd67ea2db6d8a90677c09ad1b7de40b91e",
+      "bytes": 6250
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/TSU/29_tel.json",
+      "local_file": "data/raw/2024_sao_paulo_q/TSU_29_tel.json",
+      "sha256": "3836134af973f4a70da988a0cc4fd24cd1972181860b14ca309027d788182d57",
+      "bytes": 126052
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/TSU/laptimes.json",
+      "local_file": "data/raw/2024_sao_paulo_q/TSU_laptimes.json",
+      "sha256": "afe0b975cf157ff2749058aefc77ebc95005e60c50b5a356c5e607fd00f8cc4e",
+      "bytes": 9386
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/VER/13_tel.json",
+      "local_file": "data/raw/2024_sao_paulo_q/VER_13_tel.json",
+      "sha256": "691093c5faf93942d40987eeebf118a33ce23314b23bb5732dd86e12f1cdb73e",
+      "bytes": 132156
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/VER/laptimes.json",
+      "local_file": "data/raw/2024_sao_paulo_q/VER_laptimes.json",
+      "sha256": "1109e681fc448012d4924a6bf0b36a7ee1c88743ba7910879867ec176b3da113",
+      "bytes": 6238
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/ZHO/11_tel.json",
+      "local_file": "data/raw/2024_sao_paulo_q/ZHO_11_tel.json",
+      "sha256": "3c4c5afc873ff7b3788fa944f02a5c1efc4c58b432769621d760437bfc746ee8",
+      "bytes": 139822
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/ZHO/laptimes.json",
+      "local_file": "data/raw/2024_sao_paulo_q/ZHO_laptimes.json",
+      "sha256": "f810512cd287a30ffb95b12da003e14503ca2e89fa3378e654e010ffe576ec23",
+      "bytes": 3990
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/drivers.json",
+      "local_file": "data/raw/2024_sao_paulo_q/drivers.json",
+      "sha256": "1ca7cc01f1fd69917a61d4300d1dc663482539c8872a3ae0a7400877b7d41ef1",
+      "bytes": 809
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/S%C3%A3o%20Paulo%20Grand%20Prix/Qualifying/session_info.json",
+      "local_file": "data/raw/2024_sao_paulo_q/session_info.json",
+      "sha256": "167fc646e7d41b684ee925b1474a9df85abd1c1ce5fb8491c406a98feb8474a4",
+      "bytes": 1860
+    }
+  ],
+  "transformation": "Retain fastest valid lap metadata and source time, distance, speed, throttle, brake, x, y arrays unchanged. Resampling occurs only at comparison time.",
+  "validation": "Usable telemetry spans the lap within 0.5 s at each end, without a gap longer than 3 s. Missing fastest telemetry is reported; no slower lap is silently substituted.",
+  "unavailable_drivers": [],
+  "license_file": "data/TRACINGINSIGHTS_LICENSE.txt"
+}

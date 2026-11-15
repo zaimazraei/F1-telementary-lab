@@ -1,0 +1,265 @@
+{
+  "repository": "https://github.com/TracingInsights/2024",
+  "commit": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "retrieved_at_utc": "2026-11-15T13:18:58.971562+00:00",
+  "session_id": "2024_canadian_q",
+  "selection": "Fastest accurate, non-deleted flying lap across Q1/Q2/Q3 for each driver.",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/ALB/18_tel.json",
+      "local_file": "data/raw/2024_canadian_q/ALB_18_tel.json",
+      "sha256": "6911f48c35c5435a136d27cc15dd6c0a050ed17d9691cce2a3f241d898682a1a",
+      "bytes": 111030
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/ALB/laptimes.json",
+      "local_file": "data/raw/2024_canadian_q/ALB_laptimes.json",
+      "sha256": "cb490f0f39fe3a952819cf81d2fccc7dfaf738cc83f20b53011b7c250575dd62",
+      "bytes": 8036
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/ALO/22_tel.json",
+      "local_file": "data/raw/2024_canadian_q/ALO_22_tel.json",
+      "sha256": "70435402b0f49f89d4f53d2b1cd23db5cf8111a62f691ab8a482143c144173da",
+      "bytes": 104859
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/ALO/laptimes.json",
+      "local_file": "data/raw/2024_canadian_q/ALO_laptimes.json",
+      "sha256": "b614857062d57c657e5084a2f37325fa22ab134bb10b38425d4e2da9927b05c3",
+      "bytes": 7245
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/BOT/9_tel.json",
+      "local_file": "data/raw/2024_canadian_q/BOT_9_tel.json",
+      "sha256": "e1241d6d7455e0c31b083f1094fe90947079dec772a04df59b41eaa37fdac1db",
+      "bytes": 106857
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/BOT/laptimes.json",
+      "local_file": "data/raw/2024_canadian_q/BOT_laptimes.json",
+      "sha256": "ba02158117c1ee5d8c9dd5f9bc44028764c9ad5f0c9b7410eed0d95e9eb5328a",
+      "bytes": 3346
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/GAS/17_tel.json",
+      "local_file": "data/raw/2024_canadian_q/GAS_17_tel.json",
+      "sha256": "7c2978719a5debc613f9af0404bf37c308579d65c91442703c0df4f824a5d234",
+      "bytes": 111659
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/GAS/laptimes.json",
+      "local_file": "data/raw/2024_canadian_q/GAS_laptimes.json",
+      "sha256": "696aed9ef1a6e182b45a56b2e62246328bbc060b89841fa4c58588065fe9ded6",
+      "bytes": 5631
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/HAM/19_tel.json",
+      "local_file": "data/raw/2024_canadian_q/HAM_19_tel.json",
+      "sha256": "94af5dd5cc9598376c9b1bed7823a20121956dca30656bd6e3ab72fa1286b7c8",
+      "bytes": 108676
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/HAM/laptimes.json",
+      "local_file": "data/raw/2024_canadian_q/HAM_laptimes.json",
+      "sha256": "b07422adc25a125ff580a278aeedefba68942f0c9946f83092cb8afd8a4eeb31",
+      "bytes": 8073
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/HUL/9_tel.json",
+      "local_file": "data/raw/2024_canadian_q/HUL_9_tel.json",
+      "sha256": "503f4357d78d74918ba8d34d691b95c8427656c1c87e2d231d80d4d198d28cb2",
+      "bytes": 108540
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/HUL/laptimes.json",
+      "local_file": "data/raw/2024_canadian_q/HUL_laptimes.json",
+      "sha256": "c7327c08ab0df9371d6980d0b427f27a47331547f9c723a76b000ef99af0ce6a",
+      "bytes": 3350
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/LEC/20_tel.json",
+      "local_file": "data/raw/2024_canadian_q/LEC_20_tel.json",
+      "sha256": "a4f3b8a1ea21a5592ba6e5bd06faa21482fea09fa763730b81d6f8a5a8953f3a",
+      "bytes": 110246
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/LEC/laptimes.json",
+      "local_file": "data/raw/2024_canadian_q/LEC_laptimes.json",
+      "sha256": "9dc0899ee014e9b35362dc6ae66d605fd109bea2416a8b592c8a9dbf368982dd",
+      "bytes": 6541
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/MAG/13_tel.json",
+      "local_file": "data/raw/2024_canadian_q/MAG_13_tel.json",
+      "sha256": "abca06a5e0910096c04cb3d1382f4b441d3c47137d4d00be27144b5edd2d2c2d",
+      "bytes": 110694
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/MAG/laptimes.json",
+      "local_file": "data/raw/2024_canadian_q/MAG_laptimes.json",
+      "sha256": "429a92df302b7133d646b9bbe4a96c5484af36c6a8fc6c3015b630617bc0e111",
+      "bytes": 5177
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/NOR/22_tel.json",
+      "local_file": "data/raw/2024_canadian_q/NOR_22_tel.json",
+      "sha256": "6d49e9263c1669519a3310e914d7ada558901f9d90e053954c15a890ccfa5a9d",
+      "bytes": 106036
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/NOR/laptimes.json",
+      "local_file": "data/raw/2024_canadian_q/NOR_laptimes.json",
+      "sha256": "061bb14cdadeb30d3fe14843ed2a5b6cfc17db7a823510f27111877d479b9cf3",
+      "bytes": 7692
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/OCO/8_tel.json",
+      "local_file": "data/raw/2024_canadian_q/OCO_8_tel.json",
+      "sha256": "5305a8772e1b7f389b36793c0df98f299287d0d5d13c3247a778549927598119",
+      "bytes": 108727
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/OCO/laptimes.json",
+      "local_file": "data/raw/2024_canadian_q/OCO_laptimes.json",
+      "sha256": "badc70a107de4c2b134f293657f983bcdb1ceb7cd865d9c213bc850b7e9facd5",
+      "bytes": 3566
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/PER/10_tel.json",
+      "local_file": "data/raw/2024_canadian_q/PER_10_tel.json",
+      "sha256": "8fe80bcc48f0dcb04fdfc5bfba9452f6cabb3ab2a1fdaf5f5baf322585f5ac6c",
+      "bytes": 107427
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/PER/laptimes.json",
+      "local_file": "data/raw/2024_canadian_q/PER_laptimes.json",
+      "sha256": "958d6005e14f321dadcc866bb3682250a5b42e6de91dfde5cd62881554fe8a17",
+      "bytes": 3667
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/PIA/26_tel.json",
+      "local_file": "data/raw/2024_canadian_q/PIA_26_tel.json",
+      "sha256": "5578d2fe7d396532ae6e40f291f862811ef43b3b116142b8dbbd1688a3ff1147",
+      "bytes": 101542
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/PIA/laptimes.json",
+      "local_file": "data/raw/2024_canadian_q/PIA_laptimes.json",
+      "sha256": "0c0876115753d14d10a13abc732a8306c4b7cc536f3085c74e2858e54965b0a2",
+      "bytes": 8908
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/RIC/24_tel.json",
+      "local_file": "data/raw/2024_canadian_q/RIC_24_tel.json",
+      "sha256": "016b4f4b7f2b2a4c25b7bb9ff4eae72013a42fc125ed3eb1399647676142e685",
+      "bytes": 104940
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/RIC/laptimes.json",
+      "local_file": "data/raw/2024_canadian_q/RIC_laptimes.json",
+      "sha256": "830bc25edf880708db837425ce583ca81c9f92aefcb71ca0454535e83cc16fff",
+      "bytes": 7576
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/RUS/19_tel.json",
+      "local_file": "data/raw/2024_canadian_q/RUS_19_tel.json",
+      "sha256": "ec99c3f3c1cb084fa33f475c348c7f6f44baea13c296b0eda6e28550faf9e14f",
+      "bytes": 108885
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/RUS/laptimes.json",
+      "local_file": "data/raw/2024_canadian_q/RUS_laptimes.json",
+      "sha256": "5817ccbdf6df0ea60bd043a883af7ad3300c7d146dd57841ffd6456bc2c4b4dd",
+      "bytes": 8072
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/SAI/21_tel.json",
+      "local_file": "data/raw/2024_canadian_q/SAI_21_tel.json",
+      "sha256": "27ed46c54f556415bbf1a45ae2c3914d092478703630a69aceacf64ae118c08d",
+      "bytes": 110388
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/SAI/laptimes.json",
+      "local_file": "data/raw/2024_canadian_q/SAI_laptimes.json",
+      "sha256": "b713476754542d4ef0d8e61f1cff31c133a6786ae67920cbfdd24ebd40206b4b",
+      "bytes": 6883
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/SAR/21_tel.json",
+      "local_file": "data/raw/2024_canadian_q/SAR_21_tel.json",
+      "sha256": "b80d4ef1d1bd9401ce38073431eff63c78bbed2da6077408b8d50b9f15511b75",
+      "bytes": 104260
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/SAR/laptimes.json",
+      "local_file": "data/raw/2024_canadian_q/SAR_laptimes.json",
+      "sha256": "147f43a143e591df4605ed65c4241ea4b77d52f4dd3653eb41079980258109dc",
+      "bytes": 6827
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/STR/16_tel.json",
+      "local_file": "data/raw/2024_canadian_q/STR_16_tel.json",
+      "sha256": "10e825ea17d969b6c8290d55a30c9751101e0abaf0c7b92f1777b8a9664c3227",
+      "bytes": 110410
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/STR/laptimes.json",
+      "local_file": "data/raw/2024_canadian_q/STR_laptimes.json",
+      "sha256": "01afd629aa43303b4cc5ee128f632590aa0244080345c87a6f0997dd7cb782d9",
+      "bytes": 7841
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/TSU/16_tel.json",
+      "local_file": "data/raw/2024_canadian_q/TSU_16_tel.json",
+      "sha256": "5dc2c95a14c6cf1b115290d602eb481a4b560d2e580e33c77af0718eb027eb2f",
+      "bytes": 108083
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/TSU/laptimes.json",
+      "local_file": "data/raw/2024_canadian_q/TSU_laptimes.json",
+      "sha256": "eb3eec03dab48ee5a30e59c7a8c4f31e5863207093be893d3c8164858ed5e301",
+      "bytes": 7317
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/VER/26_tel.json",
+      "local_file": "data/raw/2024_canadian_q/VER_26_tel.json",
+      "sha256": "0970b2a74b8c7bbbcc82acb9a5389ddcce68f38f5ff3fd40b9cf64170e986afe",
+      "bytes": 105866
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/VER/laptimes.json",
+      "local_file": "data/raw/2024_canadian_q/VER_laptimes.json",
+      "sha256": "6a14554688dcb66971bd7f112fae535737f67fdf7cc51a09a8af001df9db6f21",
+      "bytes": 8503
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/ZHO/10_tel.json",
+      "local_file": "data/raw/2024_canadian_q/ZHO_10_tel.json",
+      "sha256": "d55dfbd6f0e05b445e2baaa76cdb83916f391b3d2d974ed638e6d087776180f1",
+      "bytes": 109097
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/ZHO/laptimes.json",
+      "local_file": "data/raw/2024_canadian_q/ZHO_laptimes.json",
+      "sha256": "1b54c4cc27c3fe3294623ab3cad769fd7580cd860fc1300bffa1e165dfdfba44",
+      "bytes": 3624
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/drivers.json",
+      "local_file": "data/raw/2024_canadian_q/drivers.json",
+      "sha256": "c5f90c0b855d8e7d7ffba42aa84ab8618be628446717c11d5040f5901e4432a3",
+      "bytes": 4945
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Canadian%20Grand%20Prix/Qualifying/session_info.json",
+      "local_file": "data/raw/2024_canadian_q/session_info.json",
+      "sha256": "fa5fe4e3a90f7f692749cad7d3b30f16ff4374e13512a2e16c786ac196e47392",
+      "bytes": 1074
+    }
+  ],
+  "transformation": "Retain fastest valid lap metadata and source time, distance, speed, throttle, brake, x, y arrays unchanged. Resampling occurs only at comparison time.",
+  "validation": "Usable telemetry spans the lap within 0.5 s at each end, without a gap longer than 3 s. Missing fastest telemetry is reported; no slower lap is silently substituted.",
+  "unavailable_drivers": [],
+  "license_file": "data/TRACINGINSIGHTS_LICENSE.txt"
+}

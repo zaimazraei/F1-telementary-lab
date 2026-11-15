@@ -1,0 +1,266 @@
+{
+  "repository": "https://github.com/TracingInsights/2024",
+  "commit": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "retrieved_at_utc": "2026-11-15T13:19:04.703473+00:00",
+  "session_id": "2024_spanish_q",
+  "selection": "Fastest accurate, non-deleted flying lap across Q1/Q2/Q3 for each driver.",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/ALB/5_tel.json",
+      "local_file": "data/raw/2024_spanish_q/ALB_5_tel.json",
+      "sha256": "c8797f923e9a4d0bb586770d1e9c6a27ebdf4e66bc298bf7773fcc7303b6f6b0",
+      "bytes": 104597
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/ALB/laptimes.json",
+      "local_file": "data/raw/2024_spanish_q/ALB_laptimes.json",
+      "sha256": "2eab36b6b793a2292d672fc83d589368a6a3b71c8d9ee07f97407953e9d6cddb",
+      "bytes": 2130
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/ALO/11_tel.json",
+      "local_file": "data/raw/2024_spanish_q/ALO_11_tel.json",
+      "sha256": "04d756821bbde9376ea11f9131e593da71b99691407690648008f72f113a16dc",
+      "bytes": 110862
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/ALO/laptimes.json",
+      "local_file": "data/raw/2024_spanish_q/ALO_laptimes.json",
+      "sha256": "a811378dbb2b11803132679af5b8e8708bc41854fdf468f2616860ff9f8de2b5",
+      "bytes": 3947
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/BOT/11_tel.json",
+      "local_file": "data/raw/2024_spanish_q/BOT_11_tel.json",
+      "sha256": "7ddbd1bf4965e9f18a97b4536a9fca5a4558e1d8a56255583a6738045d453fe9",
+      "bytes": 109251
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/BOT/laptimes.json",
+      "local_file": "data/raw/2024_spanish_q/BOT_laptimes.json",
+      "sha256": "69e768dd28e9107e07c7cbbb0c07bf496bb949385d9f9496485a52aeaf063117",
+      "bytes": 3938
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/GAS/17_tel.json",
+      "local_file": "data/raw/2024_spanish_q/GAS_17_tel.json",
+      "sha256": "4a002aab1860dc1970bb2a898e6c8693195a929ea703bd04b09b2cc7ba1fb7e4",
+      "bytes": 109122
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/GAS/laptimes.json",
+      "local_file": "data/raw/2024_spanish_q/GAS_laptimes.json",
+      "sha256": "a74a2b02d301353ff8972b1f552e1fbae0c93348496a673360d53f2fc234b176",
+      "bytes": 5650
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/HAM/17_tel.json",
+      "local_file": "data/raw/2024_spanish_q/HAM_17_tel.json",
+      "sha256": "12240a991c381ed491902559916ab5aa7140fc70cca6551732b6cdd003dfa0a1",
+      "bytes": 109654
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/HAM/laptimes.json",
+      "local_file": "data/raw/2024_spanish_q/HAM_laptimes.json",
+      "sha256": "5c96e2d42fd434ebe1259d66cfdb838aed497db3037ad8818cad89e3b71d906c",
+      "bytes": 5681
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/HUL/11_tel.json",
+      "local_file": "data/raw/2024_spanish_q/HUL_11_tel.json",
+      "sha256": "a2b0eea3e0ad1922184d01de17d15b32dfe813a1fd9a80cf2f1ab09b526317a8",
+      "bytes": 108597
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/HUL/laptimes.json",
+      "local_file": "data/raw/2024_spanish_q/HUL_laptimes.json",
+      "sha256": "ab9a09bd6f4f36a2061a52f3601f442cc40fe8261408289b962f662ab8a6c137",
+      "bytes": 3939
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/LEC/11_tel.json",
+      "local_file": "data/raw/2024_spanish_q/LEC_11_tel.json",
+      "sha256": "6b05d8b85b112208dc5508429ba7866f7e623ffbd638051136abd05233958d79",
+      "bytes": 106613
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/LEC/laptimes.json",
+      "local_file": "data/raw/2024_spanish_q/LEC_laptimes.json",
+      "sha256": "37cd2fb9b7e57d08e3764caddb232992e75974cc4e42808f99494094945eb782",
+      "bytes": 3886
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/MAG/5_tel.json",
+      "local_file": "data/raw/2024_spanish_q/MAG_5_tel.json",
+      "sha256": "dab28d6849077faf08143ad9cd13ca67dfe108f1581a5aa1150c00befd08a9cc",
+      "bytes": 111425
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/MAG/laptimes.json",
+      "local_file": "data/raw/2024_spanish_q/MAG_laptimes.json",
+      "sha256": "f9d728e914d1baa2e7c463a8b59404988e609ec86c6b0ae129a4c81c825311f0",
+      "bytes": 2150
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/NOR/11_tel.json",
+      "local_file": "data/raw/2024_spanish_q/NOR_11_tel.json",
+      "sha256": "26468320df28da4873f79a363ef33bb582f849134b9e0f98c7450c885326f513",
+      "bytes": 107965
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/NOR/laptimes.json",
+      "local_file": "data/raw/2024_spanish_q/NOR_laptimes.json",
+      "sha256": "9c151985f1d8e6ef5e862d8141ef46ab7adfcab086f761b2c762b81eb40cf18c",
+      "bytes": 3882
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/OCO/11_tel.json",
+      "local_file": "data/raw/2024_spanish_q/OCO_11_tel.json",
+      "sha256": "5578cc757e44f450fa847522c2724fd8643aab8c319ce0b816d55dd16b8923b4",
+      "bytes": 108798
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/OCO/laptimes.json",
+      "local_file": "data/raw/2024_spanish_q/OCO_laptimes.json",
+      "sha256": "fbe3654c8b4f881bf52bd2e8595de46a6d5ebe4b86cf370fb651d10b53914cbb",
+      "bytes": 5644
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/PER/11_tel.json",
+      "local_file": "data/raw/2024_spanish_q/PER_11_tel.json",
+      "sha256": "b4f9a8ee17a3cfda47a77c835772b0a1bd0402c9f1824788647155b151508022",
+      "bytes": 109039
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/PER/laptimes.json",
+      "local_file": "data/raw/2024_spanish_q/PER_laptimes.json",
+      "sha256": "a2da806325dcc33be8bdb3593c13e195bd97c334273c784663332f80f79a006c",
+      "bytes": 5813
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/PIA/8_tel.json",
+      "local_file": "data/raw/2024_spanish_q/PIA_8_tel.json",
+      "sha256": "1f6b3fdd6fcbb25b03a42ecb58b56976f1d7ef131270da1f3d61470a7dc240c9",
+      "bytes": 106817
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/PIA/laptimes.json",
+      "local_file": "data/raw/2024_spanish_q/PIA_laptimes.json",
+      "sha256": "a4b8003632243e6bfc2e9e9ad459d9486d77da28dd239d74f450e7e52cf759b7",
+      "bytes": 5105
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/RIC/8_tel.json",
+      "local_file": "data/raw/2024_spanish_q/RIC_8_tel.json",
+      "sha256": "3ac6177ae22c1ac2efc0a668355661be1da78272143c1f133842f2290c599b1f",
+      "bytes": 111471
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/RIC/laptimes.json",
+      "local_file": "data/raw/2024_spanish_q/RIC_laptimes.json",
+      "sha256": "06875066d4fc0d6ee45530cd53f9b1344f55fdce29e14af546fbc34cf67b35e0",
+      "bytes": 2941
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/RUS/15_tel.json",
+      "local_file": "data/raw/2024_spanish_q/RUS_15_tel.json",
+      "sha256": "27694a982d3cca3248dfc0a9b01ad2dda746453e9352279f30d06e67db79df07",
+      "bytes": 110128
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/RUS/laptimes.json",
+      "local_file": "data/raw/2024_spanish_q/RUS_laptimes.json",
+      "sha256": "25e827221a7c709e3e11869ada10b09201c60b06613b9bd748c8eaa7ce35eac1",
+      "bytes": 5086
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/SAI/11_tel.json",
+      "local_file": "data/raw/2024_spanish_q/SAI_11_tel.json",
+      "sha256": "a6870e739a2b44e8849637f72c3ff78619dbda8d65b50672370d3863e8946f93",
+      "bytes": 107168
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/SAI/laptimes.json",
+      "local_file": "data/raw/2024_spanish_q/SAI_laptimes.json",
+      "sha256": "adfd52d5b67cd6a42afe0c931e6db187e889c17dee1bdda0386d6e5746dd078f",
+      "bytes": 3888
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/SAR/8_tel.json",
+      "local_file": "data/raw/2024_spanish_q/SAR_8_tel.json",
+      "sha256": "3afe66b3a98c061acf0d6a600cf787500591e28bc67f53ff6ea6256dca8f0fa8",
+      "bytes": 111927
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/SAR/laptimes.json",
+      "local_file": "data/raw/2024_spanish_q/SAR_laptimes.json",
+      "sha256": "12e88845216a355d2dfefd77e4863507e8794d2d6353a44f4590a02750b7eca2",
+      "bytes": 2982
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/STR/laptimes.json",
+      "local_file": "data/raw/2024_spanish_q/STR_laptimes.json",
+      "sha256": "729b40f30ce16915ef250ce36ee2ff4a61d8d866a940a76dcbd422a90db1e619",
+      "bytes": 4852
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/TSU/8_tel.json",
+      "local_file": "data/raw/2024_spanish_q/TSU_8_tel.json",
+      "sha256": "cc371fb7845d8f4b0110b1c60d6bf5bfe3d0ae5e7dd55b010964e1fa491c90ca",
+      "bytes": 109691
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/TSU/laptimes.json",
+      "local_file": "data/raw/2024_spanish_q/TSU_laptimes.json",
+      "sha256": "78afa95defdda928fa4d13904d72587dd1cb250de6253bd34e6dfc965eca5f02",
+      "bytes": 2948
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/VER/11_tel.json",
+      "local_file": "data/raw/2024_spanish_q/VER_11_tel.json",
+      "sha256": "1bd3fae4f2488a33a1ae650e9bed2de7d3df6026068431a975a209d027a8cdbb",
+      "bytes": 108180
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/VER/laptimes.json",
+      "local_file": "data/raw/2024_spanish_q/VER_laptimes.json",
+      "sha256": "5eb86d4dfafdc6d29f3e9aff3c2decb147857c0593ea84526650f159fcb998f2",
+      "bytes": 3971
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/ZHO/14_tel.json",
+      "local_file": "data/raw/2024_spanish_q/ZHO_14_tel.json",
+      "sha256": "1b378d1cde4d749909d1f0e1ed85224e1f3e9dfcd5a4e44eccfd0a42e15cfb7c",
+      "bytes": 111198
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/ZHO/laptimes.json",
+      "local_file": "data/raw/2024_spanish_q/ZHO_laptimes.json",
+      "sha256": "2a0bc8aadc3b3c0c595124767db3a144130f6fd08e7e1f390c8083a0d331df03",
+      "bytes": 4825
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/drivers.json",
+      "local_file": "data/raw/2024_spanish_q/drivers.json",
+      "sha256": "69a065e2d97179b09f2cacb57ffa5634fc6f365de43536400778061a2251636c",
+      "bytes": 4945
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Spanish%20Grand%20Prix/Qualifying/session_info.json",
+      "local_file": "data/raw/2024_spanish_q/session_info.json",
+      "sha256": "bf52c42a947f1913e3f9f96230029137129dbdfc0570ac3197430a66dd5f9dda",
+      "bytes": 941
+    }
+  ],
+  "transformation": "Retain fastest valid lap metadata and source time, distance, speed, throttle, brake, x, y arrays unchanged. Resampling occurs only at comparison time.",
+  "validation": "Usable telemetry spans the lap within 0.5 s at each end, without a gap longer than 3 s. Missing fastest telemetry is reported; no slower lap is silently substituted.",
+  "unavailable_drivers": [
+    {
+      "code": "STR",
+      "name": "Lance Stroll",
+      "reason": "Source file 'STR/14_tel.json' is absent at the pinned repository commit (HTTP 404).",
+      "kind": "data_unavailable"
+    }
+  ],
+  "license_file": "data/TRACINGINSIGHTS_LICENSE.txt"
+}

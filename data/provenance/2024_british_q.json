@@ -1,0 +1,265 @@
+{
+  "repository": "https://github.com/TracingInsights/2024",
+  "commit": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "retrieved_at_utc": "2026-11-15T13:18:58.973633+00:00",
+  "session_id": "2024_british_q",
+  "selection": "Fastest accurate, non-deleted flying lap across Q1/Q2/Q3 for each driver.",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/ALB/22_tel.json",
+      "local_file": "data/raw/2024_british_q/ALB_22_tel.json",
+      "sha256": "26edcd174ec89737228124cc64601521d9c3dcb949bcb6d428ebe72f5eede6b4",
+      "bytes": 130663
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/ALB/laptimes.json",
+      "local_file": "data/raw/2024_british_q/ALB_laptimes.json",
+      "sha256": "47a97c342c7c2e83f497dc03401d3026e0286067867e0f8e749dd0b4f0c4794e",
+      "bytes": 7477
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/ALO/18_tel.json",
+      "local_file": "data/raw/2024_british_q/ALO_18_tel.json",
+      "sha256": "e8cbcb2e622419e3688052edc4ba2037715c481277f41c002c99a905014a3377",
+      "bytes": 129060
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/ALO/laptimes.json",
+      "local_file": "data/raw/2024_british_q/ALO_laptimes.json",
+      "sha256": "8c23e0ca07fdbca3c1eacb3ca6210cfbcc961eea6fdd1f3da456f455da211bd9",
+      "bytes": 7887
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/BOT/8_tel.json",
+      "local_file": "data/raw/2024_british_q/BOT_8_tel.json",
+      "sha256": "b38d40dfc02375b07dbccbfb33568f0d3fb44b83561a774ae460c0136720e4a3",
+      "bytes": 134395
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/BOT/laptimes.json",
+      "local_file": "data/raw/2024_british_q/BOT_laptimes.json",
+      "sha256": "80b2789a139e43b8f90d91fec738980f6042181593e9c8a5bf0dc3b5647c2374",
+      "bytes": 3775
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/GAS/2_tel.json",
+      "local_file": "data/raw/2024_british_q/GAS_2_tel.json",
+      "sha256": "e53b14938c69f6cec797b3bbc332eb94a849d72c9b982d04b65ee21f233aa09b",
+      "bytes": 150194
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/GAS/laptimes.json",
+      "local_file": "data/raw/2024_british_q/GAS_laptimes.json",
+      "sha256": "a0ee10c32f4bc9e61b6decaa820394107f34f89913a747941e1f5e2834e2282a",
+      "bytes": 2520
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/HAM/24_tel.json",
+      "local_file": "data/raw/2024_british_q/HAM_24_tel.json",
+      "sha256": "b6c3751161bb06ffb6b289b7da1e85ac9d2350b68a899c985e440644fa3dd7a3",
+      "bytes": 131614
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/HAM/laptimes.json",
+      "local_file": "data/raw/2024_british_q/HAM_laptimes.json",
+      "sha256": "7db1a9131d3ee6fb145ef1e629bec66fbed0f988cde026917a8f2fa461a228be",
+      "bytes": 8055
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/HUL/16_tel.json",
+      "local_file": "data/raw/2024_british_q/HUL_16_tel.json",
+      "sha256": "769acd12483f84cab97dc0cbd509f780dac7ceb3faee98e76bc6d91e06e83ee8",
+      "bytes": 129444
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/HUL/laptimes.json",
+      "local_file": "data/raw/2024_british_q/HUL_laptimes.json",
+      "sha256": "1767c6fdb246b42a9f80c3a2d1b4d2b09ce4ecdfb8dffa26ee8da168de2559f4",
+      "bytes": 5642
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/LEC/17_tel.json",
+      "local_file": "data/raw/2024_british_q/LEC_17_tel.json",
+      "sha256": "33fafd391cb104506b0e437da361b03ba1802b5d9bb79ee8b9e740c0d6ed1039",
+      "bytes": 132032
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/LEC/laptimes.json",
+      "local_file": "data/raw/2024_british_q/LEC_laptimes.json",
+      "sha256": "1a3b49338ab96f51699b2d6eb015cc37cce9b3946d0ff9b183ab241a401b6f88",
+      "bytes": 5888
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/MAG/5_tel.json",
+      "local_file": "data/raw/2024_british_q/MAG_5_tel.json",
+      "sha256": "4eb3b4f0f186723ad200d26a8316a930764f1d41fd8b57a168ff743cbb9f43a0",
+      "bytes": 143185
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/MAG/laptimes.json",
+      "local_file": "data/raw/2024_british_q/MAG_laptimes.json",
+      "sha256": "1f95d8e760a5352db85340184c9662a24b1d83341859f1f5b3a56f429ead3a4f",
+      "bytes": 2238
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/NOR/19_tel.json",
+      "local_file": "data/raw/2024_british_q/NOR_19_tel.json",
+      "sha256": "6e4c5160a4c966ff61ee46399b9a44f80274d35ea78faf5ef7b6260a4700a7d4",
+      "bytes": 127193
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/NOR/laptimes.json",
+      "local_file": "data/raw/2024_british_q/NOR_laptimes.json",
+      "sha256": "9988974911735e41b2246af77fcd0c4a229ae0a1ff51eda83561ce9c90dc3344",
+      "bytes": 7130
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/OCO/9_tel.json",
+      "local_file": "data/raw/2024_british_q/OCO_9_tel.json",
+      "sha256": "6cebb3bdf113db00c1450f5f724739b774708df6f87cff637405bad863037ecd",
+      "bytes": 143123
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/OCO/laptimes.json",
+      "local_file": "data/raw/2024_british_q/OCO_laptimes.json",
+      "sha256": "a5f03614e034a5d0a8e780c2624e2aa979917ab8b47d0888d71f2547c0ae0312",
+      "bytes": 3736
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/PER/2_tel.json",
+      "local_file": "data/raw/2024_british_q/PER_2_tel.json",
+      "sha256": "76a20fb844ff653c2e7a699ff6b757472bb4e5c00cc4daa3ad87716e9a89f587",
+      "bytes": 143767
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/PER/laptimes.json",
+      "local_file": "data/raw/2024_british_q/PER_laptimes.json",
+      "sha256": "86d3d800fadbb9941eb6f7bb7a1e18f1f22a7f6357d353c18c61a35548815601",
+      "bytes": 1945
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/PIA/20_tel.json",
+      "local_file": "data/raw/2024_british_q/PIA_20_tel.json",
+      "sha256": "a96ac57ecf3bef1986271a64da4fb76edc30b5f5e9a1149fcfe7cc9ee3f9f765",
+      "bytes": 127184
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/PIA/laptimes.json",
+      "local_file": "data/raw/2024_british_q/PIA_laptimes.json",
+      "sha256": "963262d88cdefb27e52f768c383b68d6290b7fd9ce858cc6527d817b166331b3",
+      "bytes": 7742
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/RIC/17_tel.json",
+      "local_file": "data/raw/2024_british_q/RIC_17_tel.json",
+      "sha256": "5fe03867f56482213c2b80ba69eda22a7e1c702f0faa482544f9c1bfe6784010",
+      "bytes": 132977
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/RIC/laptimes.json",
+      "local_file": "data/raw/2024_british_q/RIC_laptimes.json",
+      "sha256": "8b6c269ae1dc68c87c1125b2099a08bf795e3ab3fbbc94ea417e8b775f196c08",
+      "bytes": 5787
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/RUS/25_tel.json",
+      "local_file": "data/raw/2024_british_q/RUS_25_tel.json",
+      "sha256": "e1e9d60b236e3e5a7dd16f6ca22d8c662c6afbd0f46eb3291021f708d1b5ab95",
+      "bytes": 122089
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/RUS/laptimes.json",
+      "local_file": "data/raw/2024_british_q/RUS_laptimes.json",
+      "sha256": "4a08dabbc1f5b8d5e2d257127ebba3179175d4cf386edd425a9b3ced12afaf73",
+      "bytes": 8379
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/SAI/20_tel.json",
+      "local_file": "data/raw/2024_british_q/SAI_20_tel.json",
+      "sha256": "e66d09e92532ddb02bced3ee63ab8b8f85d91df7130ace63f7ea0abaffc68b81",
+      "bytes": 127821
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/SAI/laptimes.json",
+      "local_file": "data/raw/2024_british_q/SAI_laptimes.json",
+      "sha256": "29e7efe0f43f151cf3b96bb9e04fbdfc4a81c16df0ed229f10e710e305e8743a",
+      "bytes": 7747
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/SAR/17_tel.json",
+      "local_file": "data/raw/2024_british_q/SAR_17_tel.json",
+      "sha256": "92acfa3257ce42758790828b2f5edf15423d3ece659533efaa6e6417a4d7fa66",
+      "bytes": 134299
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/SAR/laptimes.json",
+      "local_file": "data/raw/2024_british_q/SAR_laptimes.json",
+      "sha256": "ed63d189e0080d4bb46ba05c0ff3e593759c04f3be779899cf02470b9ac1261f",
+      "bytes": 6515
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/STR/23_tel.json",
+      "local_file": "data/raw/2024_british_q/STR_23_tel.json",
+      "sha256": "2e2fbdabcb9d6aec4af7e3bc4c42a069a3d6c3559fb330f946048c1a1fc43492",
+      "bytes": 131273
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/STR/laptimes.json",
+      "local_file": "data/raw/2024_british_q/STR_laptimes.json",
+      "sha256": "8e0c9131849c44361fca84c18d888f84313fd621220790ced68420831f22df94",
+      "bytes": 7807
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/TSU/16_tel.json",
+      "local_file": "data/raw/2024_british_q/TSU_16_tel.json",
+      "sha256": "fff90004a160d1db95a7c1d8c5f6319d63f06184a7ab4c049d0c5d574a32c4d7",
+      "bytes": 129114
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/TSU/laptimes.json",
+      "local_file": "data/raw/2024_british_q/TSU_laptimes.json",
+      "sha256": "0eeb4841542cabcbcff42861d4eb23be8cc99ecd65764b5ed7a5fd75ac7c5940",
+      "bytes": 5512
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/VER/23_tel.json",
+      "local_file": "data/raw/2024_british_q/VER_23_tel.json",
+      "sha256": "5d1e998baf1d914ca4fa1581a39b05b429474d2e79f3d434e87fab5c9a1f7987",
+      "bytes": 130811
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/VER/laptimes.json",
+      "local_file": "data/raw/2024_british_q/VER_laptimes.json",
+      "sha256": "2ca57beb82c1181fe96e4e4561657e8cc20de99657b3937e6945d4df0f4b0d11",
+      "bytes": 7922
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/ZHO/19_tel.json",
+      "local_file": "data/raw/2024_british_q/ZHO_19_tel.json",
+      "sha256": "93bbfc920b1b1cc019129cc6b9c9aa57403f3994498f03e7747a482d494066a8",
+      "bytes": 127848
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/ZHO/laptimes.json",
+      "local_file": "data/raw/2024_british_q/ZHO_laptimes.json",
+      "sha256": "19fa294cf14185f2056efa9a0f679aa1a1fde575d7bb35a3462da70281d33941",
+      "bytes": 7226
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/drivers.json",
+      "local_file": "data/raw/2024_british_q/drivers.json",
+      "sha256": "e5e7081e1032532c0a83714007e0950ab384dc18e5fec9ad152eda7277097326",
+      "bytes": 4945
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/British%20Grand%20Prix/Qualifying/session_info.json",
+      "local_file": "data/raw/2024_british_q/session_info.json",
+      "sha256": "b9079c2e2da69dd9b032f617203b3a02d45910c73d4a08645c4c42568e36e0df",
+      "bytes": 1031
+    }
+  ],
+  "transformation": "Retain fastest valid lap metadata and source time, distance, speed, throttle, brake, x, y arrays unchanged. Resampling occurs only at comparison time.",
+  "validation": "Usable telemetry spans the lap within 0.5 s at each end, without a gap longer than 3 s. Missing fastest telemetry is reported; no slower lap is silently substituted.",
+  "unavailable_drivers": [],
+  "license_file": "data/TRACINGINSIGHTS_LICENSE.txt"
+}

@@ -1,0 +1,499 @@
+{
+  "sha": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "tree": [
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "312da6c63fc71afe4b7cbf7687d19e1db29d96c7",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/312da6c63fc71afe4b7cbf7687d19e1db29d96c7"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66efa119b46a8a410e63ec37a9e489aaa8cfbb9b",
+      "size": 3085,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/66efa119b46a8a410e63ec37a9e489aaa8cfbb9b"
+    },
+    {
+      "path": ".gitpod.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1c4d2bae61c8e6764577bcc72f3004bee6e571c",
+      "size": 416,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/b1c4d2bae61c8e6764577bcc72f3004bee6e571c"
+    },
+    {
+      "path": "Abu Dhabi Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "99d8fbcd71404ae711f9af855f5a5641d87c803d",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/99d8fbcd71404ae711f9af855f5a5641d87c803d"
+    },
+    {
+      "path": "Australian Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "adc070cf325fc4d4e096d47593212a156c6366b6",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/adc070cf325fc4d4e096d47593212a156c6366b6"
+    },
+    {
+      "path": "Austrian Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7f6b3794bc9203ea2960a715086b9f7098a922ee",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/7f6b3794bc9203ea2960a715086b9f7098a922ee"
+    },
+    {
+      "path": "Azerbaijan Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "02efed0dbe5b1a4fa54232f286a2611cb8f6708f",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/02efed0dbe5b1a4fa54232f286a2611cb8f6708f"
+    },
+    {
+      "path": "Bahrain Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3a7840c8030a7023332772c1601a210ff68af693",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/3a7840c8030a7023332772c1601a210ff68af693"
+    },
+    {
+      "path": "Belgian Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3275f9417e2da260aebbd19d00418eecd8324a7d",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/3275f9417e2da260aebbd19d00418eecd8324a7d"
+    },
+    {
+      "path": "British Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8ce005b7cfe9836156e13289e78e28168c22b19f",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/8ce005b7cfe9836156e13289e78e28168c22b19f"
+    },
+    {
+      "path": "Canadian Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e75da5d79c2f93f6c781c560c7b94e8a20e5c014",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/e75da5d79c2f93f6c781c560c7b94e8a20e5c014"
+    },
+    {
+      "path": "Chinese Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5fd123fcb35ce04da4cb9b8864b88a4b9465e5e0",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/5fd123fcb35ce04da4cb9b8864b88a4b9465e5e0"
+    },
+    {
+      "path": "Dutch Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "575bc3e633f16ae4459639cf096bfbc8476243e2",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/575bc3e633f16ae4459639cf096bfbc8476243e2"
+    },
+    {
+      "path": "Emilia Romagna Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a2421fd26671c73814010d964e59baa063fc07f9",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/a2421fd26671c73814010d964e59baa063fc07f9"
+    },
+    {
+      "path": "Hungarian Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4862a3271cb4a92a9a143bbf024db567d2c91077",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/4862a3271cb4a92a9a143bbf024db567d2c91077"
+    },
+    {
+      "path": "Italian Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "27c2f9e83c5426380f90f34c8bf54eaf78d06814",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/27c2f9e83c5426380f90f34c8bf54eaf78d06814"
+    },
+    {
+      "path": "Japanese Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "596350c197fc81e895c1669163e8ca11cb040359",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/596350c197fc81e895c1669163e8ca11cb040359"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0b6950e5969990282dddb6e39ed228556d52e133",
+      "size": 1080,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/0b6950e5969990282dddb6e39ed228556d52e133"
+    },
+    {
+      "path": "LapTimes.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0b7648852d5eabbc77141021603502f0f74c4af4",
+      "size": 46181,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/0b7648852d5eabbc77141021603502f0f74c4af4"
+    },
+    {
+      "path": "Las Vegas Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a45bc984b752107646c45be85ff806c2248c69da",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/a45bc984b752107646c45be85ff806c2248c69da"
+    },
+    {
+      "path": "Mexico City Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4681d849687c550df9192d5e32afa812f73e70ac",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/4681d849687c550df9192d5e32afa812f73e70ac"
+    },
+    {
+      "path": "Miami Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bd7188c374955925816a0e752d13529146f53bbe",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/bd7188c374955925816a0e752d13529146f53bbe"
+    },
+    {
+      "path": "Monaco Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "621a4d95fb5e11c92e6dda4aa7fa36aeb058620b",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/621a4d95fb5e11c92e6dda4aa7fa36aeb058620b"
+    },
+    {
+      "path": "Pre-Season Testing",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b61e17f9c9acf14928df78c5229b92694530a318",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/b61e17f9c9acf14928df78c5229b92694530a318"
+    },
+    {
+      "path": "Qatar Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "586228f43e6aff290ed6c9c7f0e3be02d8acecbc",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/586228f43e6aff290ed6c9c7f0e3be02d8acecbc"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b245a8965d813cc04152e7dbd8ac4cb3a0610f08",
+      "size": 33,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/b245a8965d813cc04152e7dbd8ac4cb3a0610f08"
+    },
+    {
+      "path": "Saudi Arabian Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "05a08ceae24617d581fc3c37ee7ccfcf14fe8f63",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/05a08ceae24617d581fc3c37ee7ccfcf14fe8f63"
+    },
+    {
+      "path": "SessionLapTimes.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a126e62e33fd2f996202d1307d8849dc242059f",
+      "size": 10788,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/8a126e62e33fd2f996202d1307d8849dc242059f"
+    },
+    {
+      "path": "Singapore Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d3db20246debe6410aedbf7cff69fe3fedfbb7c2",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/d3db20246debe6410aedbf7cff69fe3fedfbb7c2"
+    },
+    {
+      "path": "Spanish Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2b64b43fb8e740fa4c459db66f92cba59d700432",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/2b64b43fb8e740fa4c459db66f92cba59d700432"
+    },
+    {
+      "path": "São Paulo Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c055dd2d6b0646927d58e53268cce1e4190ce049",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/c055dd2d6b0646927d58e53268cce1e4190ce049"
+    },
+    {
+      "path": "United States Grand Prix",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6fced8ce00fc26dd840d9fdaac1abc22f9e330b2",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/6fced8ce00fc26dd840d9fdaac1abc22f9e330b2"
+    },
+    {
+      "path": "bot.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7f48a4dcba05b8aacf612aae4b65e3f355fe4a9a",
+      "size": 288635,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/7f48a4dcba05b8aacf612aae4b65e3f355fe4a9a"
+    },
+    {
+      "path": "cache",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3d24ce47463b8675e0cdfc7a836a274f470352a2",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/3d24ce47463b8675e0cdfc7a836a274f470352a2"
+    },
+    {
+      "path": "corners.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52d8e945450701613736f864ee2db7ace17fe6ef",
+      "size": 29751,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/52d8e945450701613736f864ee2db7ace17fe6ef"
+    },
+    {
+      "path": "corners.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16a6a579473b0a363b26e9601c9d5128630065a3",
+      "size": 1642,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/16a6a579473b0a363b26e9601c9d5128630065a3"
+    },
+    {
+      "path": "download_images.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a901d362e1c5d8d750397f888fe0adfc9bb4acd",
+      "size": 14125,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/0a901d362e1c5d8d750397f888fe0adfc9bb4acd"
+    },
+    {
+      "path": "drivers_corners.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c0919f44934ca824319c79f0d07047ce5fa833a1",
+      "size": 12363,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/c0919f44934ca824319c79f0d07047ce5fa833a1"
+    },
+    {
+      "path": "drivers_corners1.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0519f90e6cd59001dc8774205d228ebe58d1827f",
+      "size": 12364,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/0519f90e6cd59001dc8774205d228ebe58d1827f"
+    },
+    {
+      "path": "drivers_corners10.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9ed3cfb266b322794f17c10b2375dca66654f43",
+      "size": 12337,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/d9ed3cfb266b322794f17c10b2375dca66654f43"
+    },
+    {
+      "path": "drivers_corners2.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "43498eebfe5343351590ac5124e147109870e0a4",
+      "size": 12367,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/43498eebfe5343351590ac5124e147109870e0a4"
+    },
+    {
+      "path": "drivers_corners3.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "45f78e682d861c8ab31b9cd66c47f9b0561710cb",
+      "size": 12318,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/45f78e682d861c8ab31b9cd66c47f9b0561710cb"
+    },
+    {
+      "path": "drivers_corners4.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb84c6d88deb40372f954f1e6482505b98165616",
+      "size": 12320,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/bb84c6d88deb40372f954f1e6482505b98165616"
+    },
+    {
+      "path": "drivers_corners5.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a36185f862c237af377deefb1068a8640301f7fa",
+      "size": 12323,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/a36185f862c237af377deefb1068a8640301f7fa"
+    },
+    {
+      "path": "drivers_corners6.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "915cd7dfc1a243d3e39c09947ea20f9d2db251d8",
+      "size": 12337,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/915cd7dfc1a243d3e39c09947ea20f9d2db251d8"
+    },
+    {
+      "path": "drivers_corners7.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2da90b96a8ab02ff494d4fa978da423269949c81",
+      "size": 12337,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/2da90b96a8ab02ff494d4fa978da423269949c81"
+    },
+    {
+      "path": "drivers_corners8.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5764a7257e950654a04ebe2ba67d44ddfed822e",
+      "size": 12337,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/a5764a7257e950654a04ebe2ba67d44ddfed822e"
+    },
+    {
+      "path": "drivers_corners9.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d73cfe6a9c946c16834d7e2c8bb9897656a1247",
+      "size": 12337,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/4d73cfe6a9c946c16834d7e2c8bb9897656a1247"
+    },
+    {
+      "path": "ergast_client.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b7f9c623a2d36f01f970a8af01a760b18655e86e",
+      "size": 3266,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/b7f9c623a2d36f01f970a8af01a760b18655e86e"
+    },
+    {
+      "path": "images",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6e3488f815c04ef3c7b5450f1a16a66071c84f62",
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/trees/6e3488f815c04ef3c7b5450f1a16a66071c84f62"
+    },
+    {
+      "path": "laptimesR.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c634441689c1e22426d60a30f8ea4fdcb318fa2",
+      "size": 16162,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/5c634441689c1e22426d60a30f8ea4fdcb318fa2"
+    },
+    {
+      "path": "laptimes_extraction.log",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "040a762794bc9022bd4694e8af26c3818e860abc",
+      "size": 1232,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/040a762794bc9022bd4694e8af26c3818e860abc"
+    },
+    {
+      "path": "new_corners.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "836e6d96bf81295583ceaa962cbc2f9416cc7910",
+      "size": 3741,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/836e6d96bf81295583ceaa962cbc2f9416cc7910"
+    },
+    {
+      "path": "preseason.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c850c612ae6943a4463f0f34896dcb5b3d095ec2",
+      "size": 39301,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/c850c612ae6943a4463f0f34896dcb5b3d095ec2"
+    },
+    {
+      "path": "requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2e1b5f1fef084725b4bb0146ef05d651b84b6481",
+      "size": 37,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/2e1b5f1fef084725b4bb0146ef05d651b84b6481"
+    },
+    {
+      "path": "sync_hf_bucket.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33a4d45d044fa9a7a0135e11eb742ddc682c0184",
+      "size": 6212,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/33a4d45d044fa9a7a0135e11eb742ddc682c0184"
+    },
+    {
+      "path": "tel.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33ebe3aad8e9becc57958ddb0ec073887f8db3c0",
+      "size": 21565,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/33ebe3aad8e9becc57958ddb0ec073887f8db3c0"
+    },
+    {
+      "path": "telFP1.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2563217d3daa93b05340b344898288686c9f368d",
+      "size": 35982,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/2563217d3daa93b05340b344898288686c9f368d"
+    },
+    {
+      "path": "telFP2.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5c3d8e9a6bd42b48a86d900920c512b098be30a",
+      "size": 35982,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/f5c3d8e9a6bd42b48a86d900920c512b098be30a"
+    },
+    {
+      "path": "telFP3.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36a092ab919d635d4ae77014392c33df8c4dc2d5",
+      "size": 35982,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/36a092ab919d635d4ae77014392c33df8c4dc2d5"
+    },
+    {
+      "path": "telQ.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a880d214cada481abc7bcb3ce09b9147044e5511",
+      "size": 35989,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/a880d214cada481abc7bcb3ce09b9147044e5511"
+    },
+    {
+      "path": "telR.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4605939e8279703dca80c62980b5231d87ee98ff",
+      "size": 35982,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/4605939e8279703dca80c62980b5231d87ee98ff"
+    },
+    {
+      "path": "telSQ.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1fd0bdc13bd87d0fb18305d74d42b25c0b029a61",
+      "size": 35982,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/1fd0bdc13bd87d0fb18305d74d42b25c0b029a61"
+    },
+    {
+      "path": "telSR.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "428d2f18f1dcea0b6c446613935a2d713a45b678",
+      "size": 35982,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/428d2f18f1dcea0b6c446613935a2d713a45b678"
+    },
+    {
+      "path": "utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a398f2c318807ecadff0041edb4dc227d7bd2723",
+      "size": 4890,
+      "url": "https://api.github.com/repos/TracingInsights/2024/git/blobs/a398f2c318807ecadff0041edb4dc227d7bd2723"
+    }
+  ],
+  "truncated": false
+}

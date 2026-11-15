@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f5f4ef">
+  <meta name="description" content="Explore Formula 1 qualifying telemetry and discover where drivers gain time.">
+  <title>Apex — F1 Telemetry Lab</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  <script defer src="{{ url_for('static', filename='plotly.min.js') }}"></script>
+  <script defer src="{{ url_for('static', filename='app.js') }}"></script>
+</head>
+<body data-hosted="{{ 'false' if fastf1_import_enabled else 'true' }}">
+  <a class="skip-link" href="#main">Skip to telemetry</a>
+  <aside class="rail" aria-label="Main navigation">
+    <a class="brand-symbol" href="#main" aria-label="Apex home">A<span>╱</span></a>
+    <a class="rail-link active" href="#telemetry" aria-label="Telemetry charts" title="Telemetry charts"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 18V5m0 13h18M5 14l4-5 4 3 6-7"/></svg></a>
+    <a class="rail-link" href="#sectors" aria-label="Sector comparison" title="Sector comparison"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="4" y="4" width="6" height="6" rx="1"/><rect x="14" y="4" width="6" height="6" rx="1"/><rect x="4" y="14" width="6" height="6" rx="1"/><rect x="14" y="14" width="6" height="6" rx="1"/></svg></a>
+    <a class="rail-link" href="#data-notes" aria-label="About the data" title="About the data"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="8"/><path d="M12 11v6m0-10v1"/></svg></a>
+    <span class="rail-caption">TELEMETRY LAB</span>
+    <span class="rail-foot">01</span>
+  </aside>
+
+  <main id="main">
+    <header class="topbar"><a class="wordmark" href="#main">apex<span> / telemetry lab</span></a><div class="local-status"><span class="status-dot"></span> {{ 'LOCAL WORKSPACE' if fastf1_import_enabled else '2024 TELEMETRY ARCHIVE' }}</div></header>
+    <section class="intro">
+      <div><p class="eyebrow">FORMULA 1 · QUALIFYING ANALYSIS</p><h1>Every tenth has a story<span>.</span></h1><p class="intro-copy">Two drivers. One circuit. Discover where the difference is made.</p></div>
+      <button class="button button-outline export-button" id="export-button" disabled><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M10 2v10m-4-4 4 4 4-4M3 12v5h14v-5"/></svg>Export CSV</button>
+    </section>
+
+    <div class="season-coverage" id="season-coverage" aria-live="polite" hidden></div>
+    <section class="selection-panel" aria-label="Choose a comparison">
+      <div class="session-control"><label for="session-select">01 / SESSION</label><select id="session-select" disabled><option>Loading sessions…</option></select></div>
+      <div class="driver-control"><label for="driver-a-select"><span class="dot a-dot"></span> DRIVER A</label><select id="driver-a-select" disabled></select></div>
+      <button class="swap-button" id="swap-button" title="Swap drivers" aria-label="Swap drivers" disabled>⇄</button>
+      <div class="driver-control"><label for="driver-b-select"><span class="dot b-dot"></span> DRIVER B</label><select id="driver-b-select" disabled></select></div>
+      <button class="button button-primary" id="compare-button" disabled>Compare laps <span>↗</span></button>
+    </section>
+
+    <div class="data-line"><span><span class="status-dot"></span><span id="data-status">Preparing your workspace</span></span>{% if fastf1_import_enabled %}<details class="import-disclosure"><summary>Load another session <span>＋</span></summary><div class="import-box"><h3>Import with FastF1</h3><p>Load the fastest valid qualifying lap for each driver. First downloads can take several minutes.</p><form id="import-form"><label for="import-year">Season<input id="import-year" name="year" type="number" min="2018" max="2100" value="2024" required></label><label for="import-event">Grand Prix<input id="import-event" name="event" placeholder="e.g. British Grand Prix" required maxlength="100"></label><button class="button button-primary" id="import-button" type="submit">Load session</button></form><p class="import-note">If F1 requires authentication, sign in with FastF1 from your local terminal first. See the project README.</p><p id="import-status" role="status" aria-live="polite"></p></div></details>{% endif %}</div>
+    <details class="availability-note" id="session-availability" hidden><summary id="availability-summary"></summary><ul id="unavailable-drivers"></ul></details>
+    <div id="error-banner" class="error-banner" role="alert" hidden></div>
+    <div id="loading-state" class="loading-state" role="status"><span class="spinner"></span><p>Reading the racing line…</p></div>
+
+    <div id="results" hidden>
+      <section class="summary-grid" aria-label="Lap summary"><article class="driver-card" id="driver-card-a"></article><article class="driver-card" id="driver-card-b"></article><article class="gap-card" id="gap-card"></article></section>
+
+      <section class="analysis-grid" id="telemetry">
+        <article class="panel chart-panel"><div class="panel-heading"><div><p class="section-number">01 / THE BIG PICTURE</p><h2>Speed, meet distance.</h2></div><button class="text-button" id="reset-zoom">Reset zoom ↺</button></div><div class="chart-meta"><span>Speed <span class="unit">km/h</span></span><div class="legend" id="speed-legend"></div></div><div id="speed-chart" class="chart speed-chart" aria-label="Speed versus distance for both drivers"></div><div class="chart-foot"><span>Drag to zoom · Double-click to reset</span><span>Lap distance <span class="unit">m</span></span></div></article>
+        <article class="panel track-panel"><div class="panel-heading"><div><p class="section-number">CIRCUIT VIEW</p><h2 id="circuit-name">The racing line</h2></div><span class="small-badge">Q</span></div><div id="track-chart" class="track-chart" aria-label="Circuit telemetry positions"></div><div class="track-caption" id="track-caption">Telemetry position trace · approximate geometry</div><div class="track-stats"><div><span>ANALYSED DISTANCE</span><strong id="distance-stat">—</strong></div><div><span>COMPARISON</span><strong>Fastest laps</strong></div></div></article>
+      </section>
+
+      <section class="panel delta-panel"><div class="panel-heading"><div><p class="section-number">02 / WHERE THE TIME GOES</p><h2>The gap, corner by corner.</h2></div><span class="subtle-tag">Estimated telemetry delta</span></div><div class="delta-key" id="delta-key"></div><div id="delta-chart" class="chart delta-chart" aria-label="Estimated accumulated time difference"></div><div class="mini-sector-heading"><span>LOCAL GAINS · EQUAL-DISTANCE SEGMENTS</span><span id="gain-legend"></span></div><div id="mini-sectors" class="mini-sectors" aria-label="Which driver gains in each segment"></div><p class="chart-explanation">Each segment shows who gained time within that section. The line shows the accumulated gap, zeroed at the first shared distance. Telemetry alignment is approximate; official lap timing is shown in the summary.</p></section>
+
+      <section class="pedals-grid"><article class="panel"><div class="panel-heading"><div><p class="section-number">03 / DRIVER INPUTS</p><h2>On the throttle.</h2></div><span class="unit">%</span></div><div id="throttle-chart" class="chart pedal-chart" aria-label="Throttle percentage versus distance"></div></article><article class="panel"><div class="panel-heading"><div><p class="section-number">04 / BRAKING ZONES</p><h2>On the brakes.</h2></div><span class="unit">ON / OFF</span></div><div id="brake-chart" class="chart pedal-chart" aria-label="Brake state versus distance"></div><p class="brake-note">Brake is an on/off signal, not brake pressure.</p></article></section>
+
+      <section class="bottom-grid" id="sectors"><article class="panel"><div class="panel-heading"><div><p class="section-number">05 / OFFICIAL TIMING</p><h2>Three sectors. One lap.</h2></div></div><div class="table-wrap"><table><thead><tr><th>Sector</th><th id="sector-driver-a">Driver A</th><th id="sector-driver-b">Driver B</th><th>Advantage</th></tr></thead><tbody id="sector-rows"></tbody></table></div></article><article class="insight-panel"><p class="section-number">THE TAKEAWAY</p><h2>Read between the lines.</h2><ul id="insights"></ul><p class="insight-note">Observed differences describe these laps; they do not establish why one driver was faster.</p></article></section>
+
+      <details class="notes-panel" id="data-notes"><summary><span>Data sources & how to read this analysis</span><span>＋</span></summary><div class="notes-content"><p id="source-note"></p><ul id="methodology"></ul></div></details>
+    </div>
+    <footer><span class="footer-brand">apex /</span><span>A personal F1 data project · Python + FastF1 + Plotly</span><span>Built for the curious.</span></footer>
+  </main>
+</body>
+</html>
+

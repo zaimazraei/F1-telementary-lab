@@ -1,0 +1,266 @@
+{
+  "repository": "https://github.com/TracingInsights/2024",
+  "commit": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "retrieved_at_utc": "2026-11-15T13:19:03.281824+00:00",
+  "session_id": "2024_monaco_q",
+  "selection": "Fastest accurate, non-deleted flying lap across Q1/Q2/Q3 for each driver.",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/ALB/laptimes.json",
+      "local_file": "data/raw/2024_monaco_q/ALB_laptimes.json",
+      "sha256": "7ea7edf65adc8108ec125056e01ec8c25a29ee5a697930576579bbffa5a650e6",
+      "bytes": 8912
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/ALO/8_tel.json",
+      "local_file": "data/raw/2024_monaco_q/ALO_8_tel.json",
+      "sha256": "4ed5c86b33930fcd7fd6682a2158eb931266e5093f1d01ce8715dca1098fefc4",
+      "bytes": 108977
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/ALO/laptimes.json",
+      "local_file": "data/raw/2024_monaco_q/ALO_laptimes.json",
+      "sha256": "df631d97f6445e9addb407641a9ddc0cbaa987312042dd08588d5aed880db8c3",
+      "bytes": 3635
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/BOT/10_tel.json",
+      "local_file": "data/raw/2024_monaco_q/BOT_10_tel.json",
+      "sha256": "62ef60ba9e2fe300892c41179b0c4e7a273a322dbe81ab8339851b105243e373",
+      "bytes": 109917
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/BOT/laptimes.json",
+      "local_file": "data/raw/2024_monaco_q/BOT_laptimes.json",
+      "sha256": "3a0fa3eac4b4020f5dc96071c698d730e4c3b7b5226e3106f13b422f6e23ba39",
+      "bytes": 3623
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/GAS/21_tel.json",
+      "local_file": "data/raw/2024_monaco_q/GAS_21_tel.json",
+      "sha256": "27008ef3408d025ed233575a7f8ee25f2e42303e98f9da24cbc2d08d9e4a9d28",
+      "bytes": 106405
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/GAS/laptimes.json",
+      "local_file": "data/raw/2024_monaco_q/GAS_laptimes.json",
+      "sha256": "74d5b598f8c771dfd55a6af08a54a6d25d2351b3fed16f66686803dd0d5fa962",
+      "bytes": 9156
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/HAM/27_tel.json",
+      "local_file": "data/raw/2024_monaco_q/HAM_27_tel.json",
+      "sha256": "0199abe7e39efc6d9df25498ba09fe8bdd6d9c1999503b966dedcd2614e4e91f",
+      "bytes": 106724
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/HAM/laptimes.json",
+      "local_file": "data/raw/2024_monaco_q/HAM_laptimes.json",
+      "sha256": "98d27075885de57c7a5cde5a2b38ee48abf0af3797b9b7c1de27a6843b243c14",
+      "bytes": 8656
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/HUL/19_tel.json",
+      "local_file": "data/raw/2024_monaco_q/HUL_19_tel.json",
+      "sha256": "ea271e109c2c79e0f8b152e1af27f21fdb30191546e6a1bb2bb25c2bc345f95d",
+      "bytes": 106455
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/HUL/laptimes.json",
+      "local_file": "data/raw/2024_monaco_q/HUL_laptimes.json",
+      "sha256": "00c111f7a86008e6b873e7093587a345b8cce00039c3ff0814e9beee15eb04f4",
+      "bytes": 6387
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/LEC/25_tel.json",
+      "local_file": "data/raw/2024_monaco_q/LEC_25_tel.json",
+      "sha256": "a11c89b9d854d3255e3b18e824ef50b80bc9641ff881d0d05422577e2868b1ec",
+      "bytes": 106254
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/LEC/laptimes.json",
+      "local_file": "data/raw/2024_monaco_q/LEC_laptimes.json",
+      "sha256": "fd8f3efcdae4f5df26111d53abc22dc82209e037afc4a38cae35b4962e564d29",
+      "bytes": 8020
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/MAG/13_tel.json",
+      "local_file": "data/raw/2024_monaco_q/MAG_13_tel.json",
+      "sha256": "67d0ac496ca3ac2c73043636caa6a6be6e0ecc1fa9faf9b7d67d4c59ee016dec",
+      "bytes": 107519
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/MAG/laptimes.json",
+      "local_file": "data/raw/2024_monaco_q/MAG_laptimes.json",
+      "sha256": "e48d4f286a1911b158d1369892bbb9df08c3bdf459a3d50792de6632e41f8bbf",
+      "bytes": 5736
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/NOR/26_tel.json",
+      "local_file": "data/raw/2024_monaco_q/NOR_26_tel.json",
+      "sha256": "e61acbc0ff31c639bb76b08eaa3bc2506bc4b8311e6a1391b51228232adea277",
+      "bytes": 106334
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/NOR/laptimes.json",
+      "local_file": "data/raw/2024_monaco_q/NOR_laptimes.json",
+      "sha256": "300b785c1247a0c1f4185db075c0c1af6fce1e3afc2967dd05b3433bf83f84c2",
+      "bytes": 8331
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/OCO/15_tel.json",
+      "local_file": "data/raw/2024_monaco_q/OCO_15_tel.json",
+      "sha256": "e2678d2d86225bad9fc877ae2c51c7a672528330d31d2adf5b1dde5e9bcde3fa",
+      "bytes": 108771
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/OCO/laptimes.json",
+      "local_file": "data/raw/2024_monaco_q/OCO_laptimes.json",
+      "sha256": "950e591c71a4a595cd43fc0541f3ae7bc0d2ef5f1309d31abd2dfad63e6919d4",
+      "bytes": 6208
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/PER/9_tel.json",
+      "local_file": "data/raw/2024_monaco_q/PER_9_tel.json",
+      "sha256": "a92896e674dba93d19b27a0177a207a52052b5136f702066b6336d569a35662c",
+      "bytes": 108698
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/PER/laptimes.json",
+      "local_file": "data/raw/2024_monaco_q/PER_laptimes.json",
+      "sha256": "57e25c55512f28894f2f714ea6fad1699de2f4fc5399c29e407acb6308ce2618",
+      "bytes": 4028
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/PIA/23_tel.json",
+      "local_file": "data/raw/2024_monaco_q/PIA_23_tel.json",
+      "sha256": "5e7980fdd8106d425565fba7ac0b296c3f51737e64c68b0be4fbdf5fa60107c6",
+      "bytes": 106781
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/PIA/laptimes.json",
+      "local_file": "data/raw/2024_monaco_q/PIA_laptimes.json",
+      "sha256": "09b86b8ac51e8509c72ee0e77d8e6c15ba4bf6710213cadb266c99f7c7626b30",
+      "bytes": 7449
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/RIC/20_tel.json",
+      "local_file": "data/raw/2024_monaco_q/RIC_20_tel.json",
+      "sha256": "0aea46dbff454cbd9833e16c4d7e8cfa06c9384c5cd7926cd6049f95c206df8c",
+      "bytes": 107475
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/RIC/laptimes.json",
+      "local_file": "data/raw/2024_monaco_q/RIC_laptimes.json",
+      "sha256": "5f6092b380adf8723b8842ed5d1c3993900c9834a14398560cbe62a88ac1dfa6",
+      "bytes": 6485
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/RUS/27_tel.json",
+      "local_file": "data/raw/2024_monaco_q/RUS_27_tel.json",
+      "sha256": "97a9ca8048da3f5075620a2ce60c52e3768c81c49635293ed1ce1c9c1c8b312c",
+      "bytes": 106893
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/RUS/laptimes.json",
+      "local_file": "data/raw/2024_monaco_q/RUS_laptimes.json",
+      "sha256": "e621d4f32edf681d4ae7fd4efe5130419a4a62e2ccfd6bdca71a68c9b112a0c8",
+      "bytes": 8726
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/SAI/27_tel.json",
+      "local_file": "data/raw/2024_monaco_q/SAI_27_tel.json",
+      "sha256": "7ab239d4ddaa444e92ab20ef77265ce2200e3a52d3a2c4885c401aa69eb11268",
+      "bytes": 106491
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/SAI/laptimes.json",
+      "local_file": "data/raw/2024_monaco_q/SAI_laptimes.json",
+      "sha256": "cb20e2c47003d6e85c9f835701b2fc13b8f97d711220320ddc35f0922e558545",
+      "bytes": 8685
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/SAR/11_tel.json",
+      "local_file": "data/raw/2024_monaco_q/SAR_11_tel.json",
+      "sha256": "515596760e5c826e9869b542b3aefaec6204c1ae8f29254d71103190e79afa76",
+      "bytes": 110195
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/SAR/laptimes.json",
+      "local_file": "data/raw/2024_monaco_q/SAR_laptimes.json",
+      "sha256": "7f860ba22260215aa7c75d2520b4684bc85a289d71361fef90cf8427f4c93354",
+      "bytes": 3869
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/STR/13_tel.json",
+      "local_file": "data/raw/2024_monaco_q/STR_13_tel.json",
+      "sha256": "5e5fc5aacb334af514af4df329349555104372ed470d8ea3f27356f7e01f17ec",
+      "bytes": 111042
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/STR/laptimes.json",
+      "local_file": "data/raw/2024_monaco_q/STR_laptimes.json",
+      "sha256": "c2d8d6534653ab2d59f5588744eeccdc96989673d3822b81d5a66cb8eafa5acb",
+      "bytes": 5474
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/TSU/24_tel.json",
+      "local_file": "data/raw/2024_monaco_q/TSU_24_tel.json",
+      "sha256": "3200ce634a6c2f726b688bac83caa8e6a86327e9cea1cdf6d0ff9485c427f80d",
+      "bytes": 107934
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/TSU/laptimes.json",
+      "local_file": "data/raw/2024_monaco_q/TSU_laptimes.json",
+      "sha256": "c0bfd31d4fc29119cad6bee4a0ef973c9e7623a8962e84e74e8f477a2e8dacd2",
+      "bytes": 7591
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/VER/24_tel.json",
+      "local_file": "data/raw/2024_monaco_q/VER_24_tel.json",
+      "sha256": "3879a64b67fe6b6b7b708bc2f93eaf472061e6e0c05ef4ef1eabbaf254174923",
+      "bytes": 106869
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/VER/laptimes.json",
+      "local_file": "data/raw/2024_monaco_q/VER_laptimes.json",
+      "sha256": "cfe9a2a1a6f8f6f5dd701ee1f12910aa0c9d3001ea1a92a39d20e57ca094e1bb",
+      "bytes": 8792
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/ZHO/10_tel.json",
+      "local_file": "data/raw/2024_monaco_q/ZHO_10_tel.json",
+      "sha256": "e9fac5189afa1b8bb5599fac4153fa7ecaedb529e75d7324867bac0b837e3001",
+      "bytes": 108798
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/ZHO/laptimes.json",
+      "local_file": "data/raw/2024_monaco_q/ZHO_laptimes.json",
+      "sha256": "c7ec78e16454e3729df57de0e604e14a0655fd98df3db3a2faf8396114ae506b",
+      "bytes": 3657
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/drivers.json",
+      "local_file": "data/raw/2024_monaco_q/drivers.json",
+      "sha256": "7b048a3ff31127ead676ab44d9c50dd8a17283381a3051072e0e56a734731387",
+      "bytes": 4945
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Monaco%20Grand%20Prix/Qualifying/session_info.json",
+      "local_file": "data/raw/2024_monaco_q/session_info.json",
+      "sha256": "c44e8c10b7bc487ffcc70653497217dd25d72ed3ce7b3752e7639050cb3711bc",
+      "bytes": 1020
+    }
+  ],
+  "transformation": "Retain fastest valid lap metadata and source time, distance, speed, throttle, brake, x, y arrays unchanged. Resampling occurs only at comparison time.",
+  "validation": "Usable telemetry spans the lap within 0.5 s at each end, without a gap longer than 3 s. Missing fastest telemetry is reported; no slower lap is silently substituted.",
+  "unavailable_drivers": [
+    {
+      "code": "ALB",
+      "name": "Alexander Albon",
+      "reason": "Source file 'ALB/28_tel.json' is absent at the pinned repository commit (HTTP 404).",
+      "kind": "data_unavailable"
+    }
+  ],
+  "license_file": "data/TRACINGINSIGHTS_LICENSE.txt"
+}

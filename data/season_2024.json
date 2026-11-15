@@ -1,0 +1,322 @@
+{
+  "year": 2024,
+  "scope": "All 24 Grand Prix Qualifying sessions; excludes practices, races and Sprint Qualifying.",
+  "repository": "https://github.com/TracingInsights/2024",
+  "commit": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "generated_at_utc": "2026-11-15T13:19:05.968693+00:00",
+  "complete": true,
+  "session_count": 24,
+  "expected_session_count": 24,
+  "expected_driver_appearances": 478,
+  "usable_driver_appearances": 474,
+  "unique_driver_codes": [
+    "ALB",
+    "ALO",
+    "BEA",
+    "BOT",
+    "COL",
+    "DOO",
+    "GAS",
+    "HAM",
+    "HUL",
+    "LAW",
+    "LEC",
+    "MAG",
+    "NOR",
+    "OCO",
+    "PER",
+    "PIA",
+    "RIC",
+    "RUS",
+    "SAI",
+    "SAR",
+    "STR",
+    "TSU",
+    "VER",
+    "ZHO"
+  ],
+  "unique_driver_count": 24,
+  "exclusions": [
+    {
+      "event": "Saudi Arabian Grand Prix",
+      "session_id": "2024_saudi_arabian_q",
+      "code": "ZHO",
+      "name": "Guanyu Zhou",
+      "reason": "No accurate, non-deleted flying lap with a valid lap time in this qualifying session.",
+      "kind": "data_unavailable"
+    },
+    {
+      "event": "Emilia Romagna Grand Prix",
+      "session_id": "2024_emilia_romagna_q",
+      "code": "SAR",
+      "name": "Logan Sargeant",
+      "reason": "No accurate, non-deleted flying lap with a valid lap time in this qualifying session.",
+      "kind": "data_unavailable"
+    },
+    {
+      "event": "Monaco Grand Prix",
+      "session_id": "2024_monaco_q",
+      "code": "ALB",
+      "name": "Alexander Albon",
+      "reason": "Source file 'ALB/28_tel.json' is absent at the pinned repository commit (HTTP 404).",
+      "kind": "data_unavailable"
+    },
+    {
+      "event": "Spanish Grand Prix",
+      "session_id": "2024_spanish_q",
+      "code": "STR",
+      "name": "Lance Stroll",
+      "reason": "Source file 'STR/14_tel.json' is absent at the pinned repository commit (HTTP 404).",
+      "kind": "data_unavailable"
+    }
+  ],
+  "download_errors": [],
+  "sessions": [
+    {
+      "id": "2024_bahrain_q",
+      "event": "Bahrain Grand Prix",
+      "date": "2024-03-01",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 20,
+      "usable_driver_count": 20,
+      "unavailable_drivers": []
+    },
+    {
+      "id": "2024_saudi_arabian_q",
+      "event": "Saudi Arabian Grand Prix",
+      "date": "2024-03-08",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 20,
+      "usable_driver_count": 19,
+      "unavailable_drivers": [
+        {
+          "code": "ZHO",
+          "name": "Guanyu Zhou",
+          "reason": "No accurate, non-deleted flying lap with a valid lap time in this qualifying session.",
+          "kind": "data_unavailable"
+        }
+      ]
+    },
+    {
+      "id": "2024_australian_q",
+      "event": "Australian Grand Prix",
+      "date": "2024-03-23",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 19,
+      "usable_driver_count": 19,
+      "unavailable_drivers": []
+    },
+    {
+      "id": "2024_japanese_q",
+      "event": "Japanese Grand Prix",
+      "date": "2024-04-06",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 20,
+      "usable_driver_count": 20,
+      "unavailable_drivers": []
+    },
+    {
+      "id": "2024_chinese_q",
+      "event": "Chinese Grand Prix",
+      "date": "2024-04-20",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 20,
+      "usable_driver_count": 20,
+      "unavailable_drivers": []
+    },
+    {
+      "id": "2024_miami_q",
+      "event": "Miami Grand Prix",
+      "date": "2024-05-04",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 20,
+      "usable_driver_count": 20,
+      "unavailable_drivers": []
+    },
+    {
+      "id": "2024_emilia_romagna_q",
+      "event": "Emilia Romagna Grand Prix",
+      "date": "2024-05-18",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 20,
+      "usable_driver_count": 19,
+      "unavailable_drivers": [
+        {
+          "code": "SAR",
+          "name": "Logan Sargeant",
+          "reason": "No accurate, non-deleted flying lap with a valid lap time in this qualifying session.",
+          "kind": "data_unavailable"
+        }
+      ]
+    },
+    {
+      "id": "2024_monaco_q",
+      "event": "Monaco Grand Prix",
+      "date": "2024-05-25",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 20,
+      "usable_driver_count": 19,
+      "unavailable_drivers": [
+        {
+          "code": "ALB",
+          "name": "Alexander Albon",
+          "reason": "Source file 'ALB/28_tel.json' is absent at the pinned repository commit (HTTP 404).",
+          "kind": "data_unavailable"
+        }
+      ]
+    },
+    {
+      "id": "2024_canadian_q",
+      "event": "Canadian Grand Prix",
+      "date": "2024-06-08",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 20,
+      "usable_driver_count": 20,
+      "unavailable_drivers": []
+    },
+    {
+      "id": "2024_spanish_q",
+      "event": "Spanish Grand Prix",
+      "date": "2024-06-22",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 20,
+      "usable_driver_count": 19,
+      "unavailable_drivers": [
+        {
+          "code": "STR",
+          "name": "Lance Stroll",
+          "reason": "Source file 'STR/14_tel.json' is absent at the pinned repository commit (HTTP 404).",
+          "kind": "data_unavailable"
+        }
+      ]
+    },
+    {
+      "id": "2024_austrian_q",
+      "event": "Austrian Grand Prix",
+      "date": "2024-06-29",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 20,
+      "usable_driver_count": 20,
+      "unavailable_drivers": []
+    },
+    {
+      "id": "2024_british_q",
+      "event": "British Grand Prix",
+      "date": "2024-07-06",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 20,
+      "usable_driver_count": 20,
+      "unavailable_drivers": []
+    },
+    {
+      "id": "2024_hungarian_q",
+      "event": "Hungarian Grand Prix",
+      "date": "2024-07-20",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 20,
+      "usable_driver_count": 20,
+      "unavailable_drivers": []
+    },
+    {
+      "id": "2024_belgian_q",
+      "event": "Belgian Grand Prix",
+      "date": "2024-07-27",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 20,
+      "usable_driver_count": 20,
+      "unavailable_drivers": []
+    },
+    {
+      "id": "2024_dutch_q",
+      "event": "Dutch Grand Prix",
+      "date": "2024-08-24",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 19,
+      "usable_driver_count": 19,
+      "unavailable_drivers": []
+    },
+    {
+      "id": "2024_italian_q",
+      "event": "Italian Grand Prix",
+      "date": "2024-08-31",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 20,
+      "usable_driver_count": 20,
+      "unavailable_drivers": []
+    },
+    {
+      "id": "2024_azerbaijan_q",
+      "event": "Azerbaijan Grand Prix",
+      "date": "2024-09-14",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 20,
+      "usable_driver_count": 20,
+      "unavailable_drivers": []
+    },
+    {
+      "id": "2024_singapore_q",
+      "event": "Singapore Grand Prix",
+      "date": "2024-09-21",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 20,
+      "usable_driver_count": 20,
+      "unavailable_drivers": []
+    },
+    {
+      "id": "2024_united_states_q",
+      "event": "United States Grand Prix",
+      "date": "2024-10-19",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 20,
+      "usable_driver_count": 20,
+      "unavailable_drivers": []
+    },
+    {
+      "id": "2024_mexico_city_q",
+      "event": "Mexico City Grand Prix",
+      "date": "2024-10-26",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 20,
+      "usable_driver_count": 20,
+      "unavailable_drivers": []
+    },
+    {
+      "id": "2024_sao_paulo_q",
+      "event": "São Paulo Grand Prix",
+      "date": "2024-11-03",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 20,
+      "usable_driver_count": 20,
+      "unavailable_drivers": []
+    },
+    {
+      "id": "2024_las_vegas_q",
+      "event": "Las Vegas Grand Prix",
+      "date": "2024-11-22",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 20,
+      "usable_driver_count": 20,
+      "unavailable_drivers": []
+    },
+    {
+      "id": "2024_qatar_q",
+      "event": "Qatar Grand Prix",
+      "date": "2024-11-30",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 20,
+      "usable_driver_count": 20,
+      "unavailable_drivers": []
+    },
+    {
+      "id": "2024_abu_dhabi_q",
+      "event": "Abu Dhabi Grand Prix",
+      "date": "2024-12-07",
+      "date_basis": "actual_local_session_start",
+      "expected_driver_count": 20,
+      "usable_driver_count": 20,
+      "unavailable_drivers": []
+    }
+  ],
+  "raw_source_bytes": 62852997,
+  "compact_session_bytes": 21463606
+}

@@ -1,0 +1,265 @@
+{
+  "repository": "https://github.com/TracingInsights/2024",
+  "commit": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "retrieved_at_utc": "2026-11-15T13:19:04.372909+00:00",
+  "session_id": "2024_singapore_q",
+  "selection": "Fastest accurate, non-deleted flying lap across Q1/Q2/Q3 for each driver.",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/ALB/11_tel.json",
+      "local_file": "data/raw/2024_singapore_q/ALB_11_tel.json",
+      "sha256": "ce850429043f8c73504fb05d2f7778c9e2140886cb321941d2808a8afd6c9a1f",
+      "bytes": 136674
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/ALB/laptimes.json",
+      "local_file": "data/raw/2024_singapore_q/ALB_laptimes.json",
+      "sha256": "a9dfc1c00d22496507686e0622475ed0ab71cc451d72296c322739c1002e8f2a",
+      "bytes": 3561
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/ALO/16_tel.json",
+      "local_file": "data/raw/2024_singapore_q/ALO_16_tel.json",
+      "sha256": "c04a545673c54febee163d70f8ad95e3929df81e45b77fbd439561cbb1bb9818",
+      "bytes": 138583
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/ALO/laptimes.json",
+      "local_file": "data/raw/2024_singapore_q/ALO_laptimes.json",
+      "sha256": "e4a5ed9a682a02fcd5c74b866601fa05b4bdc0a6fecdff598fb8db6c0c70b965",
+      "bytes": 4981
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/BOT/8_tel.json",
+      "local_file": "data/raw/2024_singapore_q/BOT_8_tel.json",
+      "sha256": "9ca0fd52372dff302893cc4d49a14bfd0d275ea385c7bf38a7ee4c012c2f7fa5",
+      "bytes": 137900
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/BOT/laptimes.json",
+      "local_file": "data/raw/2024_singapore_q/BOT_laptimes.json",
+      "sha256": "92c1c44600b5653c5cb72d4cfe9f82cb69bba419f58c0891c5d8e5f2fa2d2493",
+      "bytes": 2777
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/COL/11_tel.json",
+      "local_file": "data/raw/2024_singapore_q/COL_11_tel.json",
+      "sha256": "2ea2bc15ce92950328e51d964eb34af6f1cf203bd3bcebbc73060e386f728dbd",
+      "bytes": 136012
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/COL/laptimes.json",
+      "local_file": "data/raw/2024_singapore_q/COL_laptimes.json",
+      "sha256": "26f7bb93da24122a84e7cf7c57e833cad34c1f159555fa62be32116ad351ffa9",
+      "bytes": 3570
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/GAS/8_tel.json",
+      "local_file": "data/raw/2024_singapore_q/GAS_8_tel.json",
+      "sha256": "916a882f2fbf12cd68e37c882d92b4a103120d9cb58075a4a13baf174e1c0e5a",
+      "bytes": 137686
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/GAS/laptimes.json",
+      "local_file": "data/raw/2024_singapore_q/GAS_laptimes.json",
+      "sha256": "1d6f25659c54f292115167bf5c5396ddbb911660afb22bccbe805949a8281d8a",
+      "bytes": 2733
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/HAM/15_tel.json",
+      "local_file": "data/raw/2024_singapore_q/HAM_15_tel.json",
+      "sha256": "f0961f90d22b6a7af7536cd8a597313e571581fe665b78c2c7f50e9c3fd6985b",
+      "bytes": 136759
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/HAM/laptimes.json",
+      "local_file": "data/raw/2024_singapore_q/HAM_laptimes.json",
+      "sha256": "a2930d6acce4653fa992e13545e638e41178767b332242120ec8f78f2efcad6e",
+      "bytes": 4645
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/HUL/17_tel.json",
+      "local_file": "data/raw/2024_singapore_q/HUL_17_tel.json",
+      "sha256": "f70c2a69a378b1bdd97b86f7f2d7c0fd1a89d94617c2407d76c7ff8c27593ebd",
+      "bytes": 138512
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/HUL/laptimes.json",
+      "local_file": "data/raw/2024_singapore_q/HUL_laptimes.json",
+      "sha256": "a4314ebf1ddf51dcbf4ac125fd01ab3f8c47e264290d4175982a66b35e742534",
+      "bytes": 5261
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/LEC/13_tel.json",
+      "local_file": "data/raw/2024_singapore_q/LEC_13_tel.json",
+      "sha256": "5d10ecc1e039af8738baff477c8f29bcaf8f700dfce5b70376e203c05deca951",
+      "bytes": 134022
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/LEC/laptimes.json",
+      "local_file": "data/raw/2024_singapore_q/LEC_laptimes.json",
+      "sha256": "b08b78866eba3afb9cf6258292bebc6ec32ad1a74595ff21de1a77d68bf76ac9",
+      "bytes": 5447
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/MAG/11_tel.json",
+      "local_file": "data/raw/2024_singapore_q/MAG_11_tel.json",
+      "sha256": "db6da8a7f6871efa5510e619ba52c569f94839ed853965c09fed33f2ff07cd40",
+      "bytes": 136187
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/MAG/laptimes.json",
+      "local_file": "data/raw/2024_singapore_q/MAG_laptimes.json",
+      "sha256": "a1b4981db2a97357b381e9152e131fabe7f58813e8419c9657e6793107173e91",
+      "bytes": 3614
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/NOR/15_tel.json",
+      "local_file": "data/raw/2024_singapore_q/NOR_15_tel.json",
+      "sha256": "b952c0848cc923f0e5b3e02a48f900f4efe15dfee708b2609d807c61e6ca64c3",
+      "bytes": 136149
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/NOR/laptimes.json",
+      "local_file": "data/raw/2024_singapore_q/NOR_laptimes.json",
+      "sha256": "45820a08da15302da74eccff7138ca4ee33a4b7b400411dd225d825136b59178",
+      "bytes": 4621
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/OCO/14_tel.json",
+      "local_file": "data/raw/2024_singapore_q/OCO_14_tel.json",
+      "sha256": "87885b9b2c9d1b0ee5e919019be205ec05b8acc74dde13798ad12fb55037134d",
+      "bytes": 128469
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/OCO/laptimes.json",
+      "local_file": "data/raw/2024_singapore_q/OCO_laptimes.json",
+      "sha256": "ed0f7907248c992851c6a1ad554c69b4c629275fdc787585a957b7c0ac476d61",
+      "bytes": 4342
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/PER/13_tel.json",
+      "local_file": "data/raw/2024_singapore_q/PER_13_tel.json",
+      "sha256": "8544045bd4bf781d884c65d1456b4b9e09d9b786c81b1232d35797adce1ac36e",
+      "bytes": 137702
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/PER/laptimes.json",
+      "local_file": "data/raw/2024_singapore_q/PER_laptimes.json",
+      "sha256": "68ec9b4f498ed407f659397dcd2e88376eb6366914042661e5660ca70c6a7df4",
+      "bytes": 4199
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/PIA/11_tel.json",
+      "local_file": "data/raw/2024_singapore_q/PIA_11_tel.json",
+      "sha256": "a0e316d3855427ce6a68ceed8dde8609690f3cc2cb14969fcb29d5a2a717e556",
+      "bytes": 132617
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/PIA/laptimes.json",
+      "local_file": "data/raw/2024_singapore_q/PIA_laptimes.json",
+      "sha256": "ca67cb605c28bb49eef80a0b67c5ec90f3c82acbcab44bd37218a02958d2d5ab",
+      "bytes": 5168
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/RIC/5_tel.json",
+      "local_file": "data/raw/2024_singapore_q/RIC_5_tel.json",
+      "sha256": "cea0ff4754e218b0765ebd83ee6a5e7dc146b22ec1c2b7bb703c427a9c466b30",
+      "bytes": 136797
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/RIC/laptimes.json",
+      "local_file": "data/raw/2024_singapore_q/RIC_laptimes.json",
+      "sha256": "3b9b95f291c484461105c6a62f32bfff56fae92a2a445f40110fce409a8d90ac",
+      "bytes": 1896
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/RUS/16_tel.json",
+      "local_file": "data/raw/2024_singapore_q/RUS_16_tel.json",
+      "sha256": "1629093e760898cf1fd9520104453cccd1b59f3a8b99b42880a52a25ae445ba2",
+      "bytes": 136859
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/RUS/laptimes.json",
+      "local_file": "data/raw/2024_singapore_q/RUS_laptimes.json",
+      "sha256": "8c28a45c352ee49e66e618fe82505c36814c413a072167d52e13185b40ed926b",
+      "bytes": 4919
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/SAI/14_tel.json",
+      "local_file": "data/raw/2024_singapore_q/SAI_14_tel.json",
+      "sha256": "3cff73f326e9936325d9734cba3ea3d56ebf2af5ece782776f72d68f1bb0c69d",
+      "bytes": 133877
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/SAI/laptimes.json",
+      "local_file": "data/raw/2024_singapore_q/SAI_laptimes.json",
+      "sha256": "21346e196eb1cf094571743b064c8ced5f17bdbd28fdb82009e9d5142cf064c4",
+      "bytes": 4634
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/STR/5_tel.json",
+      "local_file": "data/raw/2024_singapore_q/STR_5_tel.json",
+      "sha256": "8779bb57f48131438c7a1e5dee3a1ac17159dfafe8a2fc9f93f76688dafc3da4",
+      "bytes": 138301
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/STR/laptimes.json",
+      "local_file": "data/raw/2024_singapore_q/STR_laptimes.json",
+      "sha256": "94076cdbcc4fd81c4185d5c4d5b78f3f900745c024c426f9f722bb742ed16e19",
+      "bytes": 1968
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/TSU/11_tel.json",
+      "local_file": "data/raw/2024_singapore_q/TSU_11_tel.json",
+      "sha256": "d72aec759e59a5c4c53112ec24aaf21a931c5a7d5e60383435b974a2b3c64027",
+      "bytes": 137333
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/TSU/laptimes.json",
+      "local_file": "data/raw/2024_singapore_q/TSU_laptimes.json",
+      "sha256": "b9f7587854c2677d37824d3a8b672eeb7521c3a9befd4f9d081a70aca8805ebd",
+      "bytes": 4813
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/VER/11_tel.json",
+      "local_file": "data/raw/2024_singapore_q/VER_11_tel.json",
+      "sha256": "a73b144a90dbd7d68268d0ad3ccbf7d03d24b085421a688f5a1e67ad833eec50",
+      "bytes": 128029
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/VER/laptimes.json",
+      "local_file": "data/raw/2024_singapore_q/VER_laptimes.json",
+      "sha256": "a7453d6770a20006818123fd8199bfc7ddeefa8fb73dc1c048d2f1b0aa99c32d",
+      "bytes": 5349
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/ZHO/8_tel.json",
+      "local_file": "data/raw/2024_singapore_q/ZHO_8_tel.json",
+      "sha256": "2108bfd7dd8d1c93867687aaf1c529a5c623c934b66d0ed044a066fc211523c1",
+      "bytes": 138002
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/ZHO/laptimes.json",
+      "local_file": "data/raw/2024_singapore_q/ZHO_laptimes.json",
+      "sha256": "b61f4e2dfd6c36c419135ce95ea93472023462cbcc653c4760ecc6a3354297aa",
+      "bytes": 2780
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/drivers.json",
+      "local_file": "data/raw/2024_singapore_q/drivers.json",
+      "sha256": "da0f168e6a5f0a764d9c0b6342b5669a1aadd7c3389e80cb1aeb17ead5f2f144",
+      "bytes": 809
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Singapore%20Grand%20Prix/Qualifying/session_info.json",
+      "local_file": "data/raw/2024_singapore_q/session_info.json",
+      "sha256": "655202a123355ce7bb7093738e11b9429a73ff471bc9c0483eec5bc5f08fb9cb",
+      "bytes": 1043
+    }
+  ],
+  "transformation": "Retain fastest valid lap metadata and source time, distance, speed, throttle, brake, x, y arrays unchanged. Resampling occurs only at comparison time.",
+  "validation": "Usable telemetry spans the lap within 0.5 s at each end, without a gap longer than 3 s. Missing fastest telemetry is reported; no slower lap is silently substituted.",
+  "unavailable_drivers": [],
+  "license_file": "data/TRACINGINSIGHTS_LICENSE.txt"
+}

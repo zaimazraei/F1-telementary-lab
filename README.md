@@ -48,6 +48,18 @@ $env:PORT = '8051'
 
 On a fresh Windows installation with Python 3.11 or newer, run `setup.bat` once, then `start.bat`. The tested interpreter is Python 3.13. The setup uses `requirements-lock.txt` for reproducibility. `requirements.txt` lists the main dependencies for development.
 
+## Deploy the saved dashboard on Vercel
+
+1. Upload or commit the **complete project folder**, then import it into Vercel. Set the project's **Root Directory** to the folder containing `app.py` and `vercel.json`.
+2. Include `app.py`, `telemetry.py`, `requirements.txt`, `.python-version`, `vercel.json`, `scripts/prepare_vercel.py`, `templates/`, `static/`, and the compact `data/*.json` files. The dataset must include `season_2024.json` and all 24 qualifying-session files. Keep the data license with the project. The original `data/raw/` downloads and local `.venv` are not needed for hosting.
+3. Use the repository's deployment settings: `vercel.json` selects the **Flask** framework and runs **`python scripts/prepare_vercel.py`** as its Build Command. `.python-version` selects **Python 3.13**. Leave the Output Directory unset; do not add a legacy `builds` configuration or a catch-all rewrite.
+4. Deploy. The build checks the templates, browser assets and complete saved dataset, then copies `static/` into generated `public/static/` for Vercel's CDN. Templates and compact telemetry stay inside the Python function bundle. You do not need to maintain a second asset copy yourself.
+5. Open the deployed URL and verify that the session selector shows all 24 sessions, the charts load, and CSV export works.
+
+The hosted dashboard compares the saved archive. **FastF1 imports are available only when running locally**, because the import workflow uses a local sign-in, background jobs and local cache files.
+
+An `Incomplete upload` build error identifies files that must be added. A missing template or an empty deployed dataset also indicates that the upload or selected Root Directory needs checking: uploading only the Python files is insufficient. Include the folders above and redeploy. See the [Vercel Flask deployment guide](https://vercel.com/docs/frameworks/backend/flask) for platform settings.
+
 ## Explore the dashboard
 
 1. Choose a session and two different drivers, then compare their laps.

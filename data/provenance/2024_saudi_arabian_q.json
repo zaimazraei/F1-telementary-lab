@@ -1,0 +1,266 @@
+{
+  "repository": "https://github.com/TracingInsights/2024",
+  "commit": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "retrieved_at_utc": "2026-11-15T13:19:03.509403+00:00",
+  "session_id": "2024_saudi_arabian_q",
+  "selection": "Fastest accurate, non-deleted flying lap across Q1/Q2/Q3 for each driver.",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/ALB/15_tel.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/ALB_15_tel.json",
+      "sha256": "98f0dd63e35647e955005462ff01122c48b13d0e62cf318271f39d626a6eff1d",
+      "bytes": 137377
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/ALB/laptimes.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/ALB_laptimes.json",
+      "sha256": "6dcb19cefd50ad9061f211835695c5e57a04b46c89776092a4695999dfdbbe05",
+      "bytes": 5066
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/ALO/16_tel.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/ALO_16_tel.json",
+      "sha256": "8d3e0bca34062c01bb11bcff5c6455323c53dd59dc946713ab798e10e744435c",
+      "bytes": 132401
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/ALO/laptimes.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/ALO_laptimes.json",
+      "sha256": "c8fad73ed8674c27a92d40617332d65f7dafa28659865e2e5eaa0f7af732aaa7",
+      "bytes": 5443
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/BEA/17_tel.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/BEA_17_tel.json",
+      "sha256": "5c0b8188000de1e5a449ff814401c612619515a712c1f092cf5a8f69794df4fa",
+      "bytes": 136262
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/BEA/laptimes.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/BEA_laptimes.json",
+      "sha256": "a3a2bd022dbd7f8c0521ad07da47796e181435abe1defa277249c0bdec979e72",
+      "bytes": 5634
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/BOT/7_tel.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/BOT_7_tel.json",
+      "sha256": "6c72ff36be08a16ecbc4385c25b21af09bb24f09b6005ff632ecc57cded68495",
+      "bytes": 135028
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/BOT/laptimes.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/BOT_laptimes.json",
+      "sha256": "510db7125013059aa08a2e82ad78a6142828fd0ee28a729f1aff819225b67fa1",
+      "bytes": 3026
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/GAS/5_tel.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/GAS_5_tel.json",
+      "sha256": "043e727c26e616779c154dfdc08d18aa2223600c8f2a4267ca1dd995c559ed32",
+      "bytes": 136655
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/GAS/laptimes.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/GAS_laptimes.json",
+      "sha256": "dc4acf167bfb66dd95e562e227013b5924050a4fee46d7535bd7123ec71754a4",
+      "bytes": 2970
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/HAM/23_tel.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/HAM_23_tel.json",
+      "sha256": "251f5b55cb9457cf302a298c4d290de276504a328740441d19d3b856e7220a02",
+      "bytes": 125388
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/HAM/laptimes.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/HAM_laptimes.json",
+      "sha256": "2abe820fecb472743418e7be6f4c418f2ee66fce2c37e09a7c094bd5844a8577",
+      "bytes": 7444
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/HUL/7_tel.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/HUL_7_tel.json",
+      "sha256": "2adaabcfd2d7fa1817e2a2580e3ba6ace2f35ca49ad431c8dc181cac20dcc782",
+      "bytes": 133731
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/HUL/laptimes.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/HUL_laptimes.json",
+      "sha256": "a2b300a2167f64912838336df23b5e6a81252526238ba8a3e48fef8aec640266",
+      "bytes": 3337
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/LEC/22_tel.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/LEC_22_tel.json",
+      "sha256": "f3e6687b79a5405a493702acc176d5b6f0b9a8916f07c445bfe98fafbf0f4438",
+      "bytes": 133045
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/LEC/laptimes.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/LEC_laptimes.json",
+      "sha256": "7dbac9ca2eeb35c11a00c61bc553d112babe0f8e9a1d6596b3ac2f7fbc2f798e",
+      "bytes": 7107
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/MAG/13_tel.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/MAG_13_tel.json",
+      "sha256": "8fa631b03eb368236753f7b0943ea529fd00da8ca30889e2625fae89a1739882",
+      "bytes": 137005
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/MAG/laptimes.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/MAG_laptimes.json",
+      "sha256": "f477477f4afc0b3d1671645e0a4ba51db1a462c463f6cb4bc88c4fa40d1706c1",
+      "bytes": 5456
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/NOR/21_tel.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/NOR_21_tel.json",
+      "sha256": "7651bd2dbdc55c37c532ef2f25fbb265ba5cbbf073f397fbebaab1ff05beac68",
+      "bytes": 131321
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/NOR/laptimes.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/NOR_laptimes.json",
+      "sha256": "b132949939cadf6c2207ecf7af07b067d8e6051bb8c5a68fe693b3c2b8532e4d",
+      "bytes": 6795
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/OCO/9_tel.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/OCO_9_tel.json",
+      "sha256": "bda6899edf4460d1494e0b358b12dfadb99d4c8caa7cd8fa615d29a178c3de24",
+      "bytes": 134908
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/OCO/laptimes.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/OCO_laptimes.json",
+      "sha256": "94ba48bff50a6dca8ff94925fa12ba41ebe0a4061305d120d7461f1b7e3f40d5",
+      "bytes": 3270
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/PER/15_tel.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/PER_15_tel.json",
+      "sha256": "b88f626918194c5d94b8f833c8c40e67ee3f3788390aea5d7b885db82a03e86c",
+      "bytes": 133472
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/PER/laptimes.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/PER_laptimes.json",
+      "sha256": "1cc75db4030075744ca4ec8eaa2daeb47fdbef6296327d017b8b163fc359055a",
+      "bytes": 6104
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/PIA/21_tel.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/PIA_21_tel.json",
+      "sha256": "dc84c2d400a7a5f64ea3f356a009cb3ed3b9bcaa2b5626d8decdf9015df66a09",
+      "bytes": 130534
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/PIA/laptimes.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/PIA_laptimes.json",
+      "sha256": "79e087fc92cc7f1534bfd61697a8edfc96e3b8d830167205db315730f23bba48",
+      "bytes": 6807
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/RIC/8_tel.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/RIC_8_tel.json",
+      "sha256": "48a789af85e23378563236dd4858e0eb3a2294ebdf4f2d1bf3ffe84374feff76",
+      "bytes": 135980
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/RIC/laptimes.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/RIC_laptimes.json",
+      "sha256": "049cda33a52792e0b0f3d08b7140fad042473d2a0c3689b08a3adf3be8384ad0",
+      "bytes": 3813
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/RUS/19_tel.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/RUS_19_tel.json",
+      "sha256": "32f1323d9ba74815d04a95a48a8307adcbb57a1c6459a444cc88d5218476a4d0",
+      "bytes": 133648
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/RUS/laptimes.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/RUS_laptimes.json",
+      "sha256": "67fef46194cb1d135513c2ad1fec0abbe9db08b6ef5ed245fadddc4b6fcc180e",
+      "bytes": 6861
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/SAR/8_tel.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/SAR_8_tel.json",
+      "sha256": "04a0f3cf5978be1f1901e34b855757fcd4d6c3a4d7a845d4066a60cb7a015a21",
+      "bytes": 135002
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/SAR/laptimes.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/SAR_laptimes.json",
+      "sha256": "76683f1e9fd6ef74b34b43499ca38e515bbf2d3818e40caec05bc75db873b5fd",
+      "bytes": 2967
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/STR/7_tel.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/STR_7_tel.json",
+      "sha256": "317ac80741345f491e6c271f54555b2106b9f08130c61e012787b7e6272b4b66",
+      "bytes": 131980
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/STR/laptimes.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/STR_laptimes.json",
+      "sha256": "1f4b9e3cbdacb9388026868fcd291b94bf2049692aaf98ccb6035f72a23270a7",
+      "bytes": 6041
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/TSU/17_tel.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/TSU_17_tel.json",
+      "sha256": "0adfd19be6301c37e4a1f51fd680ae5cc241648057a81234bb47b8b573e89428",
+      "bytes": 130901
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/TSU/laptimes.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/TSU_laptimes.json",
+      "sha256": "c21f225b1d948d77183af31b41116178e4f91ce60966620814e4f283b4650090",
+      "bytes": 5557
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/VER/14_tel.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/VER_14_tel.json",
+      "sha256": "6ebd8eb8a1c7f64241e33013073fbecefc3a4bcf9d09340d437798f468dfa793",
+      "bytes": 134306
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/VER/laptimes.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/VER_laptimes.json",
+      "sha256": "4eb9367d722836bea5486b0e9ec9e7202a448e2148457731905e207fe5af11d9",
+      "bytes": 5778
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/ZHO/laptimes.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/ZHO_laptimes.json",
+      "sha256": "6e5a85355e65d4bcc2d0d40601eb0806e0edfd0a095b58827a2905cd8cbcbc03",
+      "bytes": 957
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/drivers.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/drivers.json",
+      "sha256": "fee789c48e55c53195531a11d53f9b716e7ff93aecd1eb7a4a5ff106f1067924",
+      "bytes": 4803
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Saudi%20Arabian%20Grand%20Prix/Qualifying/session_info.json",
+      "local_file": "data/raw/2024_saudi_arabian_q/session_info.json",
+      "sha256": "eb7908478638455b41f31a322ab29f95a659b78e3e7406506c2c862cd1b5f1d6",
+      "bytes": 1077
+    }
+  ],
+  "transformation": "Retain fastest valid lap metadata and source time, distance, speed, throttle, brake, x, y arrays unchanged. Resampling occurs only at comparison time.",
+  "validation": "Usable telemetry spans the lap within 0.5 s at each end, without a gap longer than 3 s. Missing fastest telemetry is reported; no slower lap is silently substituted.",
+  "unavailable_drivers": [
+    {
+      "code": "ZHO",
+      "name": "Guanyu Zhou",
+      "reason": "No accurate, non-deleted flying lap with a valid lap time in this qualifying session.",
+      "kind": "data_unavailable"
+    }
+  ],
+  "license_file": "data/TRACINGINSIGHTS_LICENSE.txt"
+}

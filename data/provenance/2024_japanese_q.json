@@ -1,0 +1,265 @@
+{
+  "repository": "https://github.com/TracingInsights/2024",
+  "commit": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "retrieved_at_utc": "2026-11-15T13:19:01.890481+00:00",
+  "session_id": "2024_japanese_q",
+  "selection": "Fastest accurate, non-deleted flying lap across Q1/Q2/Q3 for each driver.",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/ALB/8_tel.json",
+      "local_file": "data/raw/2024_japanese_q/ALB_8_tel.json",
+      "sha256": "6086cbbd202dd7aa418dc735e1375d6c521332bbe5ade6c16823b4791fe53419",
+      "bytes": 136284
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/ALB/laptimes.json",
+      "local_file": "data/raw/2024_japanese_q/ALB_laptimes.json",
+      "sha256": "aea1b5f3e33e44efedeac1a854f6d72b5a5aa5931a53128fe55085cac259ce31",
+      "bytes": 3020
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/ALO/11_tel.json",
+      "local_file": "data/raw/2024_japanese_q/ALO_11_tel.json",
+      "sha256": "57e723c81f995e73e2e1203c8270c28015232286eb5b20d740e3019ab26474ff",
+      "bytes": 135935
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/ALO/laptimes.json",
+      "local_file": "data/raw/2024_japanese_q/ALO_laptimes.json",
+      "sha256": "4e2aa45209a40a2b0a7662b89b95b4e036c59666aaf3771b5efa912f5598875f",
+      "bytes": 3949
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/BOT/11_tel.json",
+      "local_file": "data/raw/2024_japanese_q/BOT_11_tel.json",
+      "sha256": "9f67bd5a9a8edf74329ebd107ed226f56f61a614e6c8269caeadcc49e053d880",
+      "bytes": 135590
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/BOT/laptimes.json",
+      "local_file": "data/raw/2024_japanese_q/BOT_laptimes.json",
+      "sha256": "933b4f24823f1c1d5ddc0900972bfae8f4abd343a0fac9e3be3dfbd3d649cf2c",
+      "bytes": 3944
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/GAS/5_tel.json",
+      "local_file": "data/raw/2024_japanese_q/GAS_5_tel.json",
+      "sha256": "021f26499387153f87657623601298f9133628439cd7fb976e1e219c6a01d889",
+      "bytes": 132308
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/GAS/laptimes.json",
+      "local_file": "data/raw/2024_japanese_q/GAS_laptimes.json",
+      "sha256": "5b8eb27a83a9d6364c92e371357c6e1d86a75b5dd480cefad0da44faa788ac69",
+      "bytes": 2118
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/HAM/11_tel.json",
+      "local_file": "data/raw/2024_japanese_q/HAM_11_tel.json",
+      "sha256": "6dc3f6e4c97aaf00d0a53d08b7a1a077124cc95e35de9d909183cba17e4d0d17",
+      "bytes": 135005
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/HAM/laptimes.json",
+      "local_file": "data/raw/2024_japanese_q/HAM_laptimes.json",
+      "sha256": "6c8ca016185f721fd26ad77cbb9b8373879376f8c26a36934aaa48f17220c4bb",
+      "bytes": 4799
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/HUL/11_tel.json",
+      "local_file": "data/raw/2024_japanese_q/HUL_11_tel.json",
+      "sha256": "95d431d4ea3d76143106491ba2a1f78d3a85d70c909d8ca909de567a8ca79a90",
+      "bytes": 129696
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/HUL/laptimes.json",
+      "local_file": "data/raw/2024_japanese_q/HUL_laptimes.json",
+      "sha256": "a939b19197c955534c79bf7f9a1c6b4c15caead4051d4aa85fb502db74e8505a",
+      "bytes": 3980
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/LEC/11_tel.json",
+      "local_file": "data/raw/2024_japanese_q/LEC_11_tel.json",
+      "sha256": "9ffb3947c578cd97f0e67e646e9185669de8b148afe6fc996d3d9e2c8695a6ed",
+      "bytes": 127565
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/LEC/laptimes.json",
+      "local_file": "data/raw/2024_japanese_q/LEC_laptimes.json",
+      "sha256": "e7205469c38ebefa4912153ec0a38c2ab4352f2053a0f25e320b6f7265db6bd1",
+      "bytes": 3899
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/MAG/8_tel.json",
+      "local_file": "data/raw/2024_japanese_q/MAG_8_tel.json",
+      "sha256": "b599b9675aee33b3d2f746bce01aee4369270392355baa4e704134467d02f8bb",
+      "bytes": 125065
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/MAG/laptimes.json",
+      "local_file": "data/raw/2024_japanese_q/MAG_laptimes.json",
+      "sha256": "d4d1dcc8aa904b6d44871f02a259582537f3d08ae6fc97f992769e082e6dc605",
+      "bytes": 3042
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/NOR/9_tel.json",
+      "local_file": "data/raw/2024_japanese_q/NOR_9_tel.json",
+      "sha256": "db224acf004ad2258c71586c278325b6d95ad08e014c700bcb8c6dd615a19503",
+      "bytes": 136409
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/NOR/laptimes.json",
+      "local_file": "data/raw/2024_japanese_q/NOR_laptimes.json",
+      "sha256": "1399b9c2d30114cc8e99a806c16c7ba6eeff95a00b14df337ac3d3df2890a606",
+      "bytes": 4186
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/OCO/5_tel.json",
+      "local_file": "data/raw/2024_japanese_q/OCO_5_tel.json",
+      "sha256": "cb8f5082c011ca6023c77142a9be927b653e3910938dc01e2f9cf43b9d4d9409",
+      "bytes": 131642
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/OCO/laptimes.json",
+      "local_file": "data/raw/2024_japanese_q/OCO_laptimes.json",
+      "sha256": "0015581e1473089f76a78ae9cab6daa975f449d5270b438dccfc55314072526d",
+      "bytes": 3886
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/PER/11_tel.json",
+      "local_file": "data/raw/2024_japanese_q/PER_11_tel.json",
+      "sha256": "5e98975d309a0d7e88575de7af59aa22ec92baec13260ce1da58609d2f19c7dc",
+      "bytes": 136656
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/PER/laptimes.json",
+      "local_file": "data/raw/2024_japanese_q/PER_laptimes.json",
+      "sha256": "93fc0542735a5fc9206d679322f05b9b54bc7fce0bee209ffb7e7b192dc6f802",
+      "bytes": 3990
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/PIA/8_tel.json",
+      "local_file": "data/raw/2024_japanese_q/PIA_8_tel.json",
+      "sha256": "18afb3cbabd76d8e0a031e17e3981e1d2c55c1e6cf95cd138c07f0a37054f4d2",
+      "bytes": 138047
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/PIA/laptimes.json",
+      "local_file": "data/raw/2024_japanese_q/PIA_laptimes.json",
+      "sha256": "f97e66f2c240cf788a02fce50a5d15f6c2e0f1c257e10bb29cfb7db047b49226",
+      "bytes": 3894
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/RIC/11_tel.json",
+      "local_file": "data/raw/2024_japanese_q/RIC_11_tel.json",
+      "sha256": "fdffe02fae70b06b1b3543afe0b24a718277c91cb063b2063f7291aa16a22604",
+      "bytes": 135247
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/RIC/laptimes.json",
+      "local_file": "data/raw/2024_japanese_q/RIC_laptimes.json",
+      "sha256": "879d957e6fed64b739eb3a98786d833e0b859e6e8677cfcf11f6d0dd0ccc53ad",
+      "bytes": 3822
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/RUS/11_tel.json",
+      "local_file": "data/raw/2024_japanese_q/RUS_11_tel.json",
+      "sha256": "9584e85e108264d40c483392ec9ae9af31475251d53b131eee4343f1ef3daf79",
+      "bytes": 135499
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/RUS/laptimes.json",
+      "local_file": "data/raw/2024_japanese_q/RUS_laptimes.json",
+      "sha256": "1c81e261a0774d6b9d1d10a809a4747b97cc5a953d9569f9b22d9cbb4aacffe1",
+      "bytes": 4803
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/SAI/8_tel.json",
+      "local_file": "data/raw/2024_japanese_q/SAI_8_tel.json",
+      "sha256": "901c3a7797dfc347e459a821c8c46032ab97651f49dcd5b0bd25133891b30597",
+      "bytes": 137133
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/SAI/laptimes.json",
+      "local_file": "data/raw/2024_japanese_q/SAI_laptimes.json",
+      "sha256": "53159bdad67382eaa406b270a63fbd3d95c65d324b2f18b26750a5da9ecbbe57",
+      "bytes": 3886
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/SAR/5_tel.json",
+      "local_file": "data/raw/2024_japanese_q/SAR_5_tel.json",
+      "sha256": "ce7cf146f20308c34431f0e9a6740d29271a85f6efd625db967184cdd80f76ee",
+      "bytes": 137381
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/SAR/laptimes.json",
+      "local_file": "data/raw/2024_japanese_q/SAR_laptimes.json",
+      "sha256": "71623a9af75dc9f880f7e2c61d14a5fae7d05e6301ad8763a8cea1a0939e6aed",
+      "bytes": 2114
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/STR/2_tel.json",
+      "local_file": "data/raw/2024_japanese_q/STR_2_tel.json",
+      "sha256": "41508259e6a7b1f62e2e2dd1342314b55f340dfd92133015c1492719a84c9202",
+      "bytes": 138987
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/STR/laptimes.json",
+      "local_file": "data/raw/2024_japanese_q/STR_laptimes.json",
+      "sha256": "578e8ec3e82a0a636513e139fbcaa30f716a482b7a5d7f6c79e28dab7de5fd2a",
+      "bytes": 2153
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/TSU/17_tel.json",
+      "local_file": "data/raw/2024_japanese_q/TSU_17_tel.json",
+      "sha256": "5b202e3d3918a3460d150f685d8d63e4a83b17b9178bb3eb46154beee62b06cb",
+      "bytes": 130639
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/TSU/laptimes.json",
+      "local_file": "data/raw/2024_japanese_q/TSU_laptimes.json",
+      "sha256": "0afbbdfc2f3e3a4cbeb35f9de2bd37e9c116f311a9472a737d025c137b4b982a",
+      "bytes": 5594
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/VER/11_tel.json",
+      "local_file": "data/raw/2024_japanese_q/VER_11_tel.json",
+      "sha256": "9900781519667013fa7edefb4d2083dfc3c2eb1f4d9364c3989ad092a009538d",
+      "bytes": 135478
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/VER/laptimes.json",
+      "local_file": "data/raw/2024_japanese_q/VER_laptimes.json",
+      "sha256": "52f66a7cc4e6187858715513d2e323229ce3e56a5fe92cb45d2d9e6beac4a678",
+      "bytes": 3977
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/ZHO/5_tel.json",
+      "local_file": "data/raw/2024_japanese_q/ZHO_5_tel.json",
+      "sha256": "bf72fddff5cc634ada6a1e116b265db8aa28e52b799317f690364a802a5031f2",
+      "bytes": 132330
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/ZHO/laptimes.json",
+      "local_file": "data/raw/2024_japanese_q/ZHO_laptimes.json",
+      "sha256": "1c26a8c7aa74b6452c8c39c5923d4f113aa34fc9fe8d8dfc5a10af191532f8f3",
+      "bytes": 2151
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/drivers.json",
+      "local_file": "data/raw/2024_japanese_q/drivers.json",
+      "sha256": "7f11ded4a185e1ffcbbf37000f6338a830bcab1d636f00f4db92f6f724037ec2",
+      "bytes": 4945
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Japanese%20Grand%20Prix/Qualifying/session_info.json",
+      "local_file": "data/raw/2024_japanese_q/session_info.json",
+      "sha256": "40ae5780814ab747ce0649cce0d66f7cdb7a983c13292ea7425a88b13dbf483f",
+      "bytes": 893
+    }
+  ],
+  "transformation": "Retain fastest valid lap metadata and source time, distance, speed, throttle, brake, x, y arrays unchanged. Resampling occurs only at comparison time.",
+  "validation": "Usable telemetry spans the lap within 0.5 s at each end, without a gap longer than 3 s. Missing fastest telemetry is reported; no slower lap is silently substituted.",
+  "unavailable_drivers": [],
+  "license_file": "data/TRACINGINSIGHTS_LICENSE.txt"
+}

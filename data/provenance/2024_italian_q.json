@@ -1,0 +1,265 @@
+{
+  "repository": "https://github.com/TracingInsights/2024",
+  "commit": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "retrieved_at_utc": "2026-11-15T13:19:01.354397+00:00",
+  "session_id": "2024_italian_q",
+  "selection": "Fastest accurate, non-deleted flying lap across Q1/Q2/Q3 for each driver.",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/ALB/17_tel.json",
+      "local_file": "data/raw/2024_italian_q/ALB_17_tel.json",
+      "sha256": "c8be5dd11c0be229b55584bfb2d9c088c54533d2751773cccb09232da523cfe6",
+      "bytes": 121224
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/ALB/laptimes.json",
+      "local_file": "data/raw/2024_italian_q/ALB_laptimes.json",
+      "sha256": "712f1d0716c2367e4cf95ae734b8b2eed4b359b3551d034bd0f0bc49d2c039ae",
+      "bytes": 5810
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/ALO/10_tel.json",
+      "local_file": "data/raw/2024_italian_q/ALO_10_tel.json",
+      "sha256": "eb4ba8037eec452e8bae1bb6db1d236844957150d22f3447c0f04cf6d1b0a98d",
+      "bytes": 121392
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/ALO/laptimes.json",
+      "local_file": "data/raw/2024_italian_q/ALO_laptimes.json",
+      "sha256": "49badf6a6ed59d4071bd7ee15b10afc5e312e32e796afd84d9f8646994b841b8",
+      "bytes": 3747
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/BOT/2_tel.json",
+      "local_file": "data/raw/2024_italian_q/BOT_2_tel.json",
+      "sha256": "0c9f3a56161331756a135b3781e75769236d0ab60979f84a5e4d82eddec1b1ed",
+      "bytes": 124978
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/BOT/laptimes.json",
+      "local_file": "data/raw/2024_italian_q/BOT_laptimes.json",
+      "sha256": "cd2a39eb1ebb335390f387a741e62ffa8959f1a82ac9f532e410aadbd1d53667",
+      "bytes": 2194
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/COL/2_tel.json",
+      "local_file": "data/raw/2024_italian_q/COL_2_tel.json",
+      "sha256": "49129b2afaf32e02ba7b207f66a3de7b22654242dba6f8421c887cd0871d492b",
+      "bytes": 121620
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/COL/laptimes.json",
+      "local_file": "data/raw/2024_italian_q/COL_laptimes.json",
+      "sha256": "f5d849653ec425f5e96878b8da9df6ab08484de6cd3556924412640d5d448351",
+      "bytes": 2194
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/GAS/11_tel.json",
+      "local_file": "data/raw/2024_italian_q/GAS_11_tel.json",
+      "sha256": "430ac74b3115957bc23d175e261b357829624762363c8bcbb7ef22e22484e292",
+      "bytes": 117239
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/GAS/laptimes.json",
+      "local_file": "data/raw/2024_italian_q/GAS_laptimes.json",
+      "sha256": "9bf132a3443e825ca2188a17bfc24037033a8bb2133bcde10ec46ccfc6928c7c",
+      "bytes": 5184
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/HAM/17_tel.json",
+      "local_file": "data/raw/2024_italian_q/HAM_17_tel.json",
+      "sha256": "b710f91864a850ad0131ef0027021534c012d76e38834a73e5658d8b7ea22c77",
+      "bytes": 120984
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/HAM/laptimes.json",
+      "local_file": "data/raw/2024_italian_q/HAM_laptimes.json",
+      "sha256": "7e87698c0c3d1ca12e1794fb74850116c06ec2153b91927ef7d3abf7810cefb2",
+      "bytes": 5826
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/HUL/17_tel.json",
+      "local_file": "data/raw/2024_italian_q/HUL_17_tel.json",
+      "sha256": "4321e5a16ab11e21e48ff375c11167b28b8c34cef2d364d29103cde9a1d39903",
+      "bytes": 122447
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/HUL/laptimes.json",
+      "local_file": "data/raw/2024_italian_q/HUL_laptimes.json",
+      "sha256": "939425812afb67ec45c0cc9ec2bddf48d5ae6424c85edc0b904eddf87325a4b7",
+      "bytes": 5888
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/LEC/20_tel.json",
+      "local_file": "data/raw/2024_italian_q/LEC_20_tel.json",
+      "sha256": "a61d871352e75db1fbc8a795c3b9d4b97b385403d22277c1ffa9c78166542f50",
+      "bytes": 116347
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/LEC/laptimes.json",
+      "local_file": "data/raw/2024_italian_q/LEC_laptimes.json",
+      "sha256": "d6b86ee5f5c44319a229d3b6b7747f8e923975d8773ed3195abf6e808b458c52",
+      "bytes": 6709
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/MAG/7_tel.json",
+      "local_file": "data/raw/2024_italian_q/MAG_7_tel.json",
+      "sha256": "d753a8a84b57f7fd9386356c67552100fda07e9186f0b964c7f6cf795990e794",
+      "bytes": 122983
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/MAG/laptimes.json",
+      "local_file": "data/raw/2024_italian_q/MAG_laptimes.json",
+      "sha256": "04a40543f2d2218c2a45f4686796e2a36c595874ea72f976d35d8065276e6093",
+      "bytes": 3731
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/NOR/11_tel.json",
+      "local_file": "data/raw/2024_italian_q/NOR_11_tel.json",
+      "sha256": "fe61cce7cf9631c5dea5829a4f4c23251b5e7a40dfb11c60be929f1f63f86393",
+      "bytes": 120907
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/NOR/laptimes.json",
+      "local_file": "data/raw/2024_italian_q/NOR_laptimes.json",
+      "sha256": "c7f778a60137377539368eeb987e08369cdfd8f6864a2c365a9162ec02d49eae",
+      "bytes": 3965
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/OCO/5_tel.json",
+      "local_file": "data/raw/2024_italian_q/OCO_5_tel.json",
+      "sha256": "26c214a9613e0683e4272f5ef303b4d0af3171ed476dea5adb72945e8aeeacfb",
+      "bytes": 120701
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/OCO/laptimes.json",
+      "local_file": "data/raw/2024_italian_q/OCO_laptimes.json",
+      "sha256": "3705dbe44d0872bf05ac37767b7a060f25d090a2264942980553404e16b953b0",
+      "bytes": 5172
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/PER/14_tel.json",
+      "local_file": "data/raw/2024_italian_q/PER_14_tel.json",
+      "sha256": "9a7235954e683b9271f855fbc51b21814b6032725c0fe6e446348d6692c074be",
+      "bytes": 120583
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/PER/laptimes.json",
+      "local_file": "data/raw/2024_italian_q/PER_laptimes.json",
+      "sha256": "43da1fa9a8dfd263a7d070274ee277614f2a5b27ea6613d443d19299c64ff8e7",
+      "bytes": 5626
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/PIA/15_tel.json",
+      "local_file": "data/raw/2024_italian_q/PIA_15_tel.json",
+      "sha256": "05bdc316a56abb4ad70d4acd2455a2dce7b09a9d33247e2cebfae40c4dac9f52",
+      "bytes": 120624
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/PIA/laptimes.json",
+      "local_file": "data/raw/2024_italian_q/PIA_laptimes.json",
+      "sha256": "c458c652084a7392667b9936acb704bc0ced039771dc88d6ff1a63d1cf177e9e",
+      "bytes": 6132
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/RIC/11_tel.json",
+      "local_file": "data/raw/2024_italian_q/RIC_11_tel.json",
+      "sha256": "4509d5ca3d56636da13375d5023bab7b9ec5c6240ed2d845a2ff448b74466d18",
+      "bytes": 121307
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/RIC/laptimes.json",
+      "local_file": "data/raw/2024_italian_q/RIC_laptimes.json",
+      "sha256": "555e98a9f6150f2751e0a6ebc6dec2a50b600fb9106d511912f26bdde85b65b0",
+      "bytes": 3918
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/RUS/17_tel.json",
+      "local_file": "data/raw/2024_italian_q/RUS_17_tel.json",
+      "sha256": "d8b595d5d061c903c4a9e20dd6cb86a0e025c2a4b052552a3ff1bb485f5060d5",
+      "bytes": 121780
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/RUS/laptimes.json",
+      "local_file": "data/raw/2024_italian_q/RUS_laptimes.json",
+      "sha256": "41bff33fcbe26f0ac03a514e093dae2b98f7c5580a78d59c8ace065040a07399",
+      "bytes": 5817
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/SAI/17_tel.json",
+      "local_file": "data/raw/2024_italian_q/SAI_17_tel.json",
+      "sha256": "cf5c9db776b7efaf74f19a82bdc6cb3277810eda6468a7ed01bbe3dcfcda4567",
+      "bytes": 121716
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/SAI/laptimes.json",
+      "local_file": "data/raw/2024_italian_q/SAI_laptimes.json",
+      "sha256": "c8ebf79c5b8743be2ce871d9d3960a02909bb17d8ea53597b1a9ac66c3506ebd",
+      "bytes": 5800
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/STR/2_tel.json",
+      "local_file": "data/raw/2024_italian_q/STR_2_tel.json",
+      "sha256": "eb3c565dd69f2ee0ced64900cc40d8825ff86faf9d858a3ebf54c1d92eaf2825",
+      "bytes": 123992
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/STR/laptimes.json",
+      "local_file": "data/raw/2024_italian_q/STR_laptimes.json",
+      "sha256": "0bbc4d9a931b255ea3c7bee1971962b549076f7fa6bd53f494c71b2c1c320677",
+      "bytes": 2204
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/TSU/5_tel.json",
+      "local_file": "data/raw/2024_italian_q/TSU_5_tel.json",
+      "sha256": "6a4463a54642c18796698ea1b26d5ea747e6224d082eff1af252e41bd5a32d2c",
+      "bytes": 126015
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/TSU/laptimes.json",
+      "local_file": "data/raw/2024_italian_q/TSU_laptimes.json",
+      "sha256": "57ae3894235d925cff3e7fdc34673abcf48c4f8c7cb58f326822f64202dae8b6",
+      "bytes": 2139
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/VER/11_tel.json",
+      "local_file": "data/raw/2024_italian_q/VER_11_tel.json",
+      "sha256": "ed75315d0ae7fb63a91f77082eb72317c1851744d54e473c54aeece0c676cf36",
+      "bytes": 120869
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/VER/laptimes.json",
+      "local_file": "data/raw/2024_italian_q/VER_laptimes.json",
+      "sha256": "17bb6985a48b3353eab8b083954a6f0d50c68f0471556d7a3bf6730104ed7738",
+      "bytes": 5926
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/ZHO/8_tel.json",
+      "local_file": "data/raw/2024_italian_q/ZHO_8_tel.json",
+      "sha256": "ee5df11785eba8ce6862f227c7eb2ced836f9af93e69fb6119f7d161dae10c8c",
+      "bytes": 121583
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/ZHO/laptimes.json",
+      "local_file": "data/raw/2024_italian_q/ZHO_laptimes.json",
+      "sha256": "4849845d46da36089fb3f7d2025fed3919918fd5f8665cb1f0d9b73e28dc231d",
+      "bytes": 3093
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/drivers.json",
+      "local_file": "data/raw/2024_italian_q/drivers.json",
+      "sha256": "aa51c0c53fcd3ff29a4f3d62cebaac20f7f06aecde65843e7caaa7597e1ea81e",
+      "bytes": 4802
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Italian%20Grand%20Prix/Qualifying/session_info.json",
+      "local_file": "data/raw/2024_italian_q/session_info.json",
+      "sha256": "a1e6793342bdd059a25c122d9a119342e98c77956d8915fb6105e305707b35e0",
+      "bytes": 940
+    }
+  ],
+  "transformation": "Retain fastest valid lap metadata and source time, distance, speed, throttle, brake, x, y arrays unchanged. Resampling occurs only at comparison time.",
+  "validation": "Usable telemetry spans the lap within 0.5 s at each end, without a gap longer than 3 s. Missing fastest telemetry is reported; no slower lap is silently substituted.",
+  "unavailable_drivers": [],
+  "license_file": "data/TRACINGINSIGHTS_LICENSE.txt"
+}

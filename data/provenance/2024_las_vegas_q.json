@@ -1,0 +1,265 @@
+{
+  "repository": "https://github.com/TracingInsights/2024",
+  "commit": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "retrieved_at_utc": "2026-11-15T13:19:02.055899+00:00",
+  "session_id": "2024_las_vegas_q",
+  "selection": "Fastest accurate, non-deleted flying lap across Q1/Q2/Q3 for each driver.",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/ALB/5_tel.json",
+      "local_file": "data/raw/2024_las_vegas_q/ALB_5_tel.json",
+      "sha256": "d87951476455a2b609221d3edd5da268b39bc4695b6261a5d2b3003f2a1086ca",
+      "bytes": 140399
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/ALB/laptimes.json",
+      "local_file": "data/raw/2024_las_vegas_q/ALB_laptimes.json",
+      "sha256": "fb9a96b18f9d53c64c271eb20b930323bf2d1c82c52b37a598a832562c48e32b",
+      "bytes": 3024
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/ALO/5_tel.json",
+      "local_file": "data/raw/2024_las_vegas_q/ALO_5_tel.json",
+      "sha256": "3eaf2e01b88b11da88cd87f7c5e8cfe516bd4869e915bcd5769ad2a7816cf62b",
+      "bytes": 138536
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/ALO/laptimes.json",
+      "local_file": "data/raw/2024_las_vegas_q/ALO_laptimes.json",
+      "sha256": "1d4dec003a5e894e16591359631b4afa3d2276fca3a590d31fd59a7148275184",
+      "bytes": 2759
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/BOT/7_tel.json",
+      "local_file": "data/raw/2024_las_vegas_q/BOT_7_tel.json",
+      "sha256": "24ed3062b0e2e8691d2b13249b1640c255f8b5b11354603956e746e6efa63e75",
+      "bytes": 142067
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/BOT/laptimes.json",
+      "local_file": "data/raw/2024_las_vegas_q/BOT_laptimes.json",
+      "sha256": "d1a89a5697a597932ee7060fad38be255fa0b7d8feb7aa56adebed63135ba111",
+      "bytes": 3019
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/COL/9_tel.json",
+      "local_file": "data/raw/2024_las_vegas_q/COL_9_tel.json",
+      "sha256": "8b773d9c971fd010062c94b65b8fd6715d1d7992cfdd5a384de54cfd24d1a3ec",
+      "bytes": 142728
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/COL/laptimes.json",
+      "local_file": "data/raw/2024_las_vegas_q/COL_laptimes.json",
+      "sha256": "bbee3a5338f351272e2deea1c380f4433d72af855295fac0d9a5a54f7fcf25a3",
+      "bytes": 4615
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/GAS/24_tel.json",
+      "local_file": "data/raw/2024_las_vegas_q/GAS_24_tel.json",
+      "sha256": "247653754f651c5a9ca05b1e6db2ae7dea35cdbe9d80c763372a6347255098e5",
+      "bytes": 134944
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/GAS/laptimes.json",
+      "local_file": "data/raw/2024_las_vegas_q/GAS_laptimes.json",
+      "sha256": "702bb92a100075cee1aaa5eea5c3afd206aca7c45f8cccaa62386a020bd24e0b",
+      "bytes": 6987
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/HAM/17_tel.json",
+      "local_file": "data/raw/2024_las_vegas_q/HAM_17_tel.json",
+      "sha256": "6fe535b826ae67b352293256d2ca0d61895e9d8bcad4d2e79eb52dcfa9170e07",
+      "bytes": 142132
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/HAM/laptimes.json",
+      "local_file": "data/raw/2024_las_vegas_q/HAM_laptimes.json",
+      "sha256": "4d16cf87f24651ea30becf5e4341e5065c1f00d240c4eceac768b9228469b23f",
+      "bytes": 6805
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/HUL/16_tel.json",
+      "local_file": "data/raw/2024_las_vegas_q/HUL_16_tel.json",
+      "sha256": "104ec353f9a0d3ada5e77d030c06f6d95a5c17f6f16bc8687954643418ae18a7",
+      "bytes": 142011
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/HUL/laptimes.json",
+      "local_file": "data/raw/2024_las_vegas_q/HUL_laptimes.json",
+      "sha256": "8a855febc007badfbb1db0c2413bb55d74c70b15ffa9a1e4f2153cea921a5346",
+      "bytes": 4969
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/LAW/9_tel.json",
+      "local_file": "data/raw/2024_las_vegas_q/LAW_9_tel.json",
+      "sha256": "af1ed9317d037cbc11b3bc4a1602652b12167549340e4ef45105249c2f4bff98",
+      "bytes": 142013
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/LAW/laptimes.json",
+      "local_file": "data/raw/2024_las_vegas_q/LAW_laptimes.json",
+      "sha256": "0b9f66cfda2b5f3c6de4c17c23652cbba933917500d4934ff05e4548ce33c737",
+      "bytes": 4788
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/LEC/22_tel.json",
+      "local_file": "data/raw/2024_las_vegas_q/LEC_22_tel.json",
+      "sha256": "73300ca50ab3badc6582368cf11459d0e960122c0d09a844c5ebcb9dd7fc7f1f",
+      "bytes": 142117
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/LEC/laptimes.json",
+      "local_file": "data/raw/2024_las_vegas_q/LEC_laptimes.json",
+      "sha256": "e4d5aca8157bf03d628c6b02d691210e8244123529868ed3295655357a85fd53",
+      "bytes": 6473
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/MAG/11_tel.json",
+      "local_file": "data/raw/2024_las_vegas_q/MAG_11_tel.json",
+      "sha256": "e48e01fa116b53528848b8cfce5528fea14366813dd796158d869146d2ffdf99",
+      "bytes": 143409
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/MAG/laptimes.json",
+      "local_file": "data/raw/2024_las_vegas_q/MAG_laptimes.json",
+      "sha256": "80a9d6cc1ee598be8fd896494e0508621d104c5ea9c304c63ec6686785840219",
+      "bytes": 3596
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/NOR/19_tel.json",
+      "local_file": "data/raw/2024_las_vegas_q/NOR_19_tel.json",
+      "sha256": "7ec039ea30fa06188df29f4ec0366f0fa789e78111e7dbe0e7033946186d715e",
+      "bytes": 140330
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/NOR/laptimes.json",
+      "local_file": "data/raw/2024_las_vegas_q/NOR_laptimes.json",
+      "sha256": "6ce52f709e65c608bb7365202d523a2477fdc4c06b7c0cda07bec43c6314e829",
+      "bytes": 5666
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/OCO/17_tel.json",
+      "local_file": "data/raw/2024_las_vegas_q/OCO_17_tel.json",
+      "sha256": "75ef2d5f56cc4fa26b25d44d3d87d7b661763ee7047bd5f63227d192503b21f1",
+      "bytes": 143169
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/OCO/laptimes.json",
+      "local_file": "data/raw/2024_las_vegas_q/OCO_laptimes.json",
+      "sha256": "33ccd4112b1cfd81d652e151c74ae8b73cb117217c0e4464bae2bd232f2fb385",
+      "bytes": 5124
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/PER/9_tel.json",
+      "local_file": "data/raw/2024_las_vegas_q/PER_9_tel.json",
+      "sha256": "6cc89b2253fc6f56c1a5683343b8bdc70bfd790cd8f3a2eca5f9892a9337f69c",
+      "bytes": 134837
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/PER/laptimes.json",
+      "local_file": "data/raw/2024_las_vegas_q/PER_laptimes.json",
+      "sha256": "31132d4e709d84d93f926b992b3f6c1beff2c5997efe22c08d6366ddc10c4bb6",
+      "bytes": 3064
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/PIA/13_tel.json",
+      "local_file": "data/raw/2024_las_vegas_q/PIA_13_tel.json",
+      "sha256": "20a530f3fe8e487451ade50857c2705d1a7459112a78593d9409a442e1cb2368",
+      "bytes": 141841
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/PIA/laptimes.json",
+      "local_file": "data/raw/2024_las_vegas_q/PIA_laptimes.json",
+      "sha256": "a1084bc956d4eda6fd4df98621abe0f8214c3edb0c04f9e60fa5ad909b70a201",
+      "bytes": 5939
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/RUS/24_tel.json",
+      "local_file": "data/raw/2024_las_vegas_q/RUS_24_tel.json",
+      "sha256": "cc5c42ba20d4131421e051e53cfeb99c12956af70ebe7fe08d909def85000de6",
+      "bytes": 142715
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/RUS/laptimes.json",
+      "local_file": "data/raw/2024_las_vegas_q/RUS_laptimes.json",
+      "sha256": "f09d1ebb2d02718aa5512019200fa93d711385c6e2f516c15df395b5bf9dfef4",
+      "bytes": 7044
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/SAI/23_tel.json",
+      "local_file": "data/raw/2024_las_vegas_q/SAI_23_tel.json",
+      "sha256": "17e451720913eaaaf84c95d11a2f9aff4cd33409dd628f2b52b6a42f8cdf307c",
+      "bytes": 141643
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/SAI/laptimes.json",
+      "local_file": "data/raw/2024_las_vegas_q/SAI_laptimes.json",
+      "sha256": "4261175008da7f8bff6d60962f9c687c05407b52fe8f0636e569d7b33213a45c",
+      "bytes": 6766
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/STR/2_tel.json",
+      "local_file": "data/raw/2024_las_vegas_q/STR_2_tel.json",
+      "sha256": "87f25e1c68b1c07db02e4f9fa818d479cfeac714c1c59828496d9b0461935e48",
+      "bytes": 142040
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/STR/laptimes.json",
+      "local_file": "data/raw/2024_las_vegas_q/STR_laptimes.json",
+      "sha256": "14609f67a9113266155780dfc7bcf04556addfa6837b638657a325426d9707cb",
+      "bytes": 1136
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/TSU/24_tel.json",
+      "local_file": "data/raw/2024_las_vegas_q/TSU_24_tel.json",
+      "sha256": "777a56e95e682cb317eb9e01011241b2a06ee6c98bc9dd5a9df168e2919e40c4",
+      "bytes": 143050
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/TSU/laptimes.json",
+      "local_file": "data/raw/2024_las_vegas_q/TSU_laptimes.json",
+      "sha256": "fdc204cfc9552289ada72c9ef127c42a174ef3b2833f52dd7c0790669b1e3a87",
+      "bytes": 6889
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/VER/20_tel.json",
+      "local_file": "data/raw/2024_las_vegas_q/VER_20_tel.json",
+      "sha256": "18c29ad54ddb5f0663841d59d137e384aa96ec26c444772168c408aca43a1202",
+      "bytes": 143465
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/VER/laptimes.json",
+      "local_file": "data/raw/2024_las_vegas_q/VER_laptimes.json",
+      "sha256": "832f656c740c59ce5406e557222765b03719e02ab3517e924c5a7c0aa4602892",
+      "bytes": 6074
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/ZHO/16_tel.json",
+      "local_file": "data/raw/2024_las_vegas_q/ZHO_16_tel.json",
+      "sha256": "97ad6d8ee6aa1fa74897d37cdff1693899785b9fc8112ebfc99b387f32331f35",
+      "bytes": 144161
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/ZHO/laptimes.json",
+      "local_file": "data/raw/2024_las_vegas_q/ZHO_laptimes.json",
+      "sha256": "2f03bc5d1bc95d80da509aa4454bb29025ed00ee8e078f9e8ec18ac0bbc8b1fa",
+      "bytes": 4939
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/drivers.json",
+      "local_file": "data/raw/2024_las_vegas_q/drivers.json",
+      "sha256": "1e38c94ae52d26b81919436bbc6e19078c58794a48342d624b887003fc6ba05b",
+      "bytes": 4650
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Las%20Vegas%20Grand%20Prix/Qualifying/session_info.json",
+      "local_file": "data/raw/2024_las_vegas_q/session_info.json",
+      "sha256": "ef04a5a6d83a062a1ffcae06c0752defb3decef890b5662f9151f91bf3b14b88",
+      "bytes": 1039
+    }
+  ],
+  "transformation": "Retain fastest valid lap metadata and source time, distance, speed, throttle, brake, x, y arrays unchanged. Resampling occurs only at comparison time.",
+  "validation": "Usable telemetry spans the lap within 0.5 s at each end, without a gap longer than 3 s. Missing fastest telemetry is reported; no slower lap is silently substituted.",
+  "unavailable_drivers": [],
+  "license_file": "data/TRACINGINSIGHTS_LICENSE.txt"
+}

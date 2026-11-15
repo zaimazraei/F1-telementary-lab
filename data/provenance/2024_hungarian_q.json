@@ -1,0 +1,265 @@
+{
+  "repository": "https://github.com/TracingInsights/2024",
+  "commit": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "retrieved_at_utc": "2026-11-15T13:19:00.509001+00:00",
+  "session_id": "2024_hungarian_q",
+  "selection": "Fastest accurate, non-deleted flying lap across Q1/Q2/Q3 for each driver.",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/ALB/15_tel.json",
+      "local_file": "data/raw/2024_hungarian_q/ALB_15_tel.json",
+      "sha256": "16075648ec51c817c2b6ced4a7666d3b1379a7332aeae85ab8912427701c9725",
+      "bytes": 111458
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/ALB/laptimes.json",
+      "local_file": "data/raw/2024_hungarian_q/ALB_laptimes.json",
+      "sha256": "852191a8a312a0ee58b663446924ee2140f823b90373e364fdfe9c30e2d90a81",
+      "bytes": 5187
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/ALO/15_tel.json",
+      "local_file": "data/raw/2024_hungarian_q/ALO_15_tel.json",
+      "sha256": "db4eb2a8287ba4ec43f0f256a46a977b8ecf40d92295cd880f6307e689b48f77",
+      "bytes": 113440
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/ALO/laptimes.json",
+      "local_file": "data/raw/2024_hungarian_q/ALO_laptimes.json",
+      "sha256": "6c1a8559ce1fb6522cec7d3553751e8c8bf6ce2db0e43990414800fab8105af4",
+      "bytes": 5858
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/BOT/18_tel.json",
+      "local_file": "data/raw/2024_hungarian_q/BOT_18_tel.json",
+      "sha256": "47e0a446601b69154f4dc81d3df95b6fbb05182203baf5b35f764603f9b6efc5",
+      "bytes": 114890
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/BOT/laptimes.json",
+      "local_file": "data/raw/2024_hungarian_q/BOT_laptimes.json",
+      "sha256": "a6c8eab5dde8babe257f81e6b759ee4b713e4a9f410809c72f24708dc958b6b4",
+      "bytes": 6144
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/GAS/5_tel.json",
+      "local_file": "data/raw/2024_hungarian_q/GAS_5_tel.json",
+      "sha256": "02574e64fe41319e6ded53822487b89add9dc304afa3984f162ded522b05d537",
+      "bytes": 119407
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/GAS/laptimes.json",
+      "local_file": "data/raw/2024_hungarian_q/GAS_laptimes.json",
+      "sha256": "ad59ba32f3a42d328521595c8d65f57cbd48a929b067ba25d4c838bfb8a89cb6",
+      "bytes": 2149
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/HAM/20_tel.json",
+      "local_file": "data/raw/2024_hungarian_q/HAM_20_tel.json",
+      "sha256": "224596d32650909fbe60b9d5f1759ef922317a354961b7e4d50583029f446454",
+      "bytes": 112612
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/HAM/laptimes.json",
+      "local_file": "data/raw/2024_hungarian_q/HAM_laptimes.json",
+      "sha256": "13fdd65e1b327e6454ef58ce51834d1c85140e555790419871977a3a2e90271d",
+      "bytes": 7602
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/HUL/15_tel.json",
+      "local_file": "data/raw/2024_hungarian_q/HUL_15_tel.json",
+      "sha256": "60828bbc0e48a00324428986122aef152126dc9b32d58db5828ec1cf1c918637",
+      "bytes": 115194
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/HUL/laptimes.json",
+      "local_file": "data/raw/2024_hungarian_q/HUL_laptimes.json",
+      "sha256": "22145da183e52ad5bbd00ca16cf77ab6ef3bddfa0ed3a7ae9a4aba009f66ecff",
+      "bytes": 5238
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/LEC/15_tel.json",
+      "local_file": "data/raw/2024_hungarian_q/LEC_15_tel.json",
+      "sha256": "4e5d44d2c394e02b1ac6fa6e470b78d4dca4eefcc259fc2b6d2c2e571a625bca",
+      "bytes": 114253
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/LEC/laptimes.json",
+      "local_file": "data/raw/2024_hungarian_q/LEC_laptimes.json",
+      "sha256": "c0c4b95780bde917801a7e59d7f26676c474d37231e4c395ca1ad892b9087134",
+      "bytes": 6968
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/MAG/14_tel.json",
+      "local_file": "data/raw/2024_hungarian_q/MAG_14_tel.json",
+      "sha256": "a72e361520062d3ad3586e9acebf1822b46536bb640a380bf75583dd477cea5d",
+      "bytes": 114412
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/MAG/laptimes.json",
+      "local_file": "data/raw/2024_hungarian_q/MAG_laptimes.json",
+      "sha256": "607646444b02f32fff8f606bfa58dc36a2b71a4c6473da61224c19ceef1f43c9",
+      "bytes": 4937
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/NOR/17_tel.json",
+      "local_file": "data/raw/2024_hungarian_q/NOR_17_tel.json",
+      "sha256": "6b2418a8b6a9e9e64042c6573573e3ac5638481dc7511bdf068fd343fda3f98b",
+      "bytes": 113373
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/NOR/laptimes.json",
+      "local_file": "data/raw/2024_hungarian_q/NOR_laptimes.json",
+      "sha256": "c1ad9fac89209c7568ed882fd8dcb1fbe44eaf9e113a8f2bdcdd248754135de2",
+      "bytes": 6951
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/OCO/5_tel.json",
+      "local_file": "data/raw/2024_hungarian_q/OCO_5_tel.json",
+      "sha256": "dddb8190c7755516a974fdaa204cddbc1b96c0f94441108303dc3e183baa355a",
+      "bytes": 120437
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/OCO/laptimes.json",
+      "local_file": "data/raw/2024_hungarian_q/OCO_laptimes.json",
+      "sha256": "16d485d37670acafedb5fd7a63bc236d67fc3b7540df6c63dbc62aeb6f0e12d0",
+      "bytes": 2159
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/PER/2_tel.json",
+      "local_file": "data/raw/2024_hungarian_q/PER_2_tel.json",
+      "sha256": "e8a9e5b26efdef45cccc65d4ea07e7323eb3e3d156461ae2ced4c3a60cf63984",
+      "bytes": 120278
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/PER/laptimes.json",
+      "local_file": "data/raw/2024_hungarian_q/PER_laptimes.json",
+      "sha256": "088aebe49de6c25eb2d13845493c63317434a7f343bb64756e459f9f5a5b9e48",
+      "bytes": 2202
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/PIA/18_tel.json",
+      "local_file": "data/raw/2024_hungarian_q/PIA_18_tel.json",
+      "sha256": "dc5c48e70d4fa7d4f511c54d01ebeb15c61bae38b4768e5af142ec76f651ce47",
+      "bytes": 112660
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/PIA/laptimes.json",
+      "local_file": "data/raw/2024_hungarian_q/PIA_laptimes.json",
+      "sha256": "4074ce43b7b1e7ec2d879f78f910b1b8f73e25c43dc3c14ec5a824d1be88d105",
+      "bytes": 6673
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/RIC/11_tel.json",
+      "local_file": "data/raw/2024_hungarian_q/RIC_11_tel.json",
+      "sha256": "510e0440d5bcdad999adca8b696bc0598fc8181e140c9d01ca0b02a1c5771ccf",
+      "bytes": 113863
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/RIC/laptimes.json",
+      "local_file": "data/raw/2024_hungarian_q/RIC_laptimes.json",
+      "sha256": "bb5c3432417e66c83a0a84ce3920f2b212087fa19e22ed6891514bbcdf37a96a",
+      "bytes": 6241
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/RUS/8_tel.json",
+      "local_file": "data/raw/2024_hungarian_q/RUS_8_tel.json",
+      "sha256": "918d5e06993d2257c868619babf8eba701e8b2e42314dedf5a1598ae72d633a0",
+      "bytes": 119300
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/RUS/laptimes.json",
+      "local_file": "data/raw/2024_hungarian_q/RUS_laptimes.json",
+      "sha256": "d2ef921dbca6bfac21533e5a3268b1e0d1f8686e62ab9f1e03c4b36439792554",
+      "bytes": 3067
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/SAI/24_tel.json",
+      "local_file": "data/raw/2024_hungarian_q/SAI_24_tel.json",
+      "sha256": "16d42abfc4c6b5fcd7764324f119230ff207f5cfbf94d2ac47818111832cfce8",
+      "bytes": 105440
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/SAI/laptimes.json",
+      "local_file": "data/raw/2024_hungarian_q/SAI_laptimes.json",
+      "sha256": "1398276744dbafdeda9053a86979fe303cb8be35fa2e403fa29c294eb6dec54c",
+      "bytes": 8179
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/SAR/12_tel.json",
+      "local_file": "data/raw/2024_hungarian_q/SAR_12_tel.json",
+      "sha256": "63dc22ee5ed2f9fd499e1d964ac426d05aa6a502b42b15e7571352537c7d0d31",
+      "bytes": 114033
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/SAR/laptimes.json",
+      "local_file": "data/raw/2024_hungarian_q/SAR_laptimes.json",
+      "sha256": "01c5317be1d94bce5f49e6062180e98abb3edaf22f2e8a6ce2bff72330ded699",
+      "bytes": 4253
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/STR/15_tel.json",
+      "local_file": "data/raw/2024_hungarian_q/STR_15_tel.json",
+      "sha256": "829658ee320127dccfc0a83bda1e33f548f3d0ae546074eb5f9cf55205312469",
+      "bytes": 113949
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/STR/laptimes.json",
+      "local_file": "data/raw/2024_hungarian_q/STR_laptimes.json",
+      "sha256": "475996b744d8c129fb275b06ab87883b0a3990070dd0da7384d0cac30f340051",
+      "bytes": 7081
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/TSU/14_tel.json",
+      "local_file": "data/raw/2024_hungarian_q/TSU_14_tel.json",
+      "sha256": "f092467610d3ad6a927ed9385a52ebbb116c7bef855036566a589dfb105fe6bc",
+      "bytes": 113286
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/TSU/laptimes.json",
+      "local_file": "data/raw/2024_hungarian_q/TSU_laptimes.json",
+      "sha256": "62d9831ae3c864db27113f25d5face89da28b6ce50c1082de773ad4987109c4e",
+      "bytes": 6280
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/VER/20_tel.json",
+      "local_file": "data/raw/2024_hungarian_q/VER_20_tel.json",
+      "sha256": "c9a1684073aaa7d12f2d080d7119cdb69b13b837992e89137dbc5ab6cd8ae674",
+      "bytes": 109385
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/VER/laptimes.json",
+      "local_file": "data/raw/2024_hungarian_q/VER_laptimes.json",
+      "sha256": "2df84f20ba44f3979b98d0022f29e4b9eeff9bc8df206d70c1eca654903996f8",
+      "bytes": 6819
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/ZHO/11_tel.json",
+      "local_file": "data/raw/2024_hungarian_q/ZHO_11_tel.json",
+      "sha256": "f42ec095386f67d5a79ce51c36bb62d70d07fa0b5bf124c14573326f4e81cc0a",
+      "bytes": 117461
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/ZHO/laptimes.json",
+      "local_file": "data/raw/2024_hungarian_q/ZHO_laptimes.json",
+      "sha256": "4d25e7c02aa705d07c26cacfcceb8a2a64a18955c23a3c415414e9284f125438",
+      "bytes": 3999
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/drivers.json",
+      "local_file": "data/raw/2024_hungarian_q/drivers.json",
+      "sha256": "197d7433092b833c5df59b00ba78959fa8713c60d7c516895c88fbf85c1270b2",
+      "bytes": 809
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Hungarian%20Grand%20Prix/Qualifying/session_info.json",
+      "local_file": "data/raw/2024_hungarian_q/session_info.json",
+      "sha256": "f86bb5058e312b4e916783e9b88ba71f141a3bb6790e27969b7ccd7c0b306e77",
+      "bytes": 1186
+    }
+  ],
+  "transformation": "Retain fastest valid lap metadata and source time, distance, speed, throttle, brake, x, y arrays unchanged. Resampling occurs only at comparison time.",
+  "validation": "Usable telemetry spans the lap within 0.5 s at each end, without a gap longer than 3 s. Missing fastest telemetry is reported; no slower lap is silently substituted.",
+  "unavailable_drivers": [],
+  "license_file": "data/TRACINGINSIGHTS_LICENSE.txt"
+}

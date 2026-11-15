@@ -1,0 +1,265 @@
+{
+  "repository": "https://github.com/TracingInsights/2024",
+  "commit": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "retrieved_at_utc": "2026-11-15T13:18:57.426459+00:00",
+  "session_id": "2024_azerbaijan_q",
+  "selection": "Fastest accurate, non-deleted flying lap across Q1/Q2/Q3 for each driver.",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/ALB/13_tel.json",
+      "local_file": "data/raw/2024_azerbaijan_q/ALB_13_tel.json",
+      "sha256": "54d9221f4b94fe53057f6b5d2f737b631673f1a0bf8d9a843d899d2a2dc6e909",
+      "bytes": 158240
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/ALB/laptimes.json",
+      "local_file": "data/raw/2024_azerbaijan_q/ALB_laptimes.json",
+      "sha256": "09e9ead249c14daaf0a447fdb9d447f33fb2eb6ada31fbad2b7dff04e2073e32",
+      "bytes": 5449
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/ALO/18_tel.json",
+      "local_file": "data/raw/2024_azerbaijan_q/ALO_18_tel.json",
+      "sha256": "81a41b173ce52845cdef5b3c322fd72d01eb2d6eaf143d379c7d00de3c0691dc",
+      "bytes": 157146
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/ALO/laptimes.json",
+      "local_file": "data/raw/2024_azerbaijan_q/ALO_laptimes.json",
+      "sha256": "45ce757718d51f3d90c5a55a8ea03dda5596c1eefb9f603cb74797a2f4773297",
+      "bytes": 5525
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/BEA/13_tel.json",
+      "local_file": "data/raw/2024_azerbaijan_q/BEA_13_tel.json",
+      "sha256": "dcff7664a56fccd0e9ad158784144d2c51238c8f3c510d61bbbcb71c2e19f296",
+      "bytes": 158417
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/BEA/laptimes.json",
+      "local_file": "data/raw/2024_azerbaijan_q/BEA_laptimes.json",
+      "sha256": "403afb2c3a6a6d10b5916c96de0cd57cc18c5cc536b55f277ccd5517d5ecb786",
+      "bytes": 4153
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/BOT/6_tel.json",
+      "local_file": "data/raw/2024_azerbaijan_q/BOT_6_tel.json",
+      "sha256": "5c81c0c3314c7d7454227a90d6ed604aa45bacee87320e40da0529355e10958d",
+      "bytes": 156337
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/BOT/laptimes.json",
+      "local_file": "data/raw/2024_azerbaijan_q/BOT_laptimes.json",
+      "sha256": "b22e58322e8d9ec70ee4957065de1bfdfcc16a1da0777b5b1d4ed62252879558",
+      "bytes": 2223
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/COL/13_tel.json",
+      "local_file": "data/raw/2024_azerbaijan_q/COL_13_tel.json",
+      "sha256": "a0c32db7f5cb364fd5630c8cb01199ee36ae0e1a508583c16b597907b3144d99",
+      "bytes": 157097
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/COL/laptimes.json",
+      "local_file": "data/raw/2024_azerbaijan_q/COL_laptimes.json",
+      "sha256": "1413f6675ee45552e6434d351fa3b9be9ca39dcd37b5ba4070a19c47aee22a13",
+      "bytes": 5720
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/GAS/8_tel.json",
+      "local_file": "data/raw/2024_azerbaijan_q/GAS_8_tel.json",
+      "sha256": "9b8ce8e46ccd4ee7c38b364461e8b60281b89488863ef07387691d1c00a7944e",
+      "bytes": 156644
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/GAS/laptimes.json",
+      "local_file": "data/raw/2024_azerbaijan_q/GAS_laptimes.json",
+      "sha256": "2337ea159efe051123705db3929374386412ec46bb0cbef71d27a61ca92ec943",
+      "bytes": 4339
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/HAM/21_tel.json",
+      "local_file": "data/raw/2024_azerbaijan_q/HAM_21_tel.json",
+      "sha256": "ce7830214e6456b23bb4c70f6b19c2aeafcb45dc507eb0db42c20c792f951cab",
+      "bytes": 158514
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/HAM/laptimes.json",
+      "local_file": "data/raw/2024_azerbaijan_q/HAM_laptimes.json",
+      "sha256": "f0864382f63091379b93c4042f9d7d70a12b803a5f9b1c20283b20697c1c875c",
+      "bytes": 6265
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/HUL/7_tel.json",
+      "local_file": "data/raw/2024_azerbaijan_q/HUL_7_tel.json",
+      "sha256": "8b0ac07b43319642168d4ddd7f1997ad6f412cbb5db0dffba7b6e7ffb8e4d67f",
+      "bytes": 154454
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/HUL/laptimes.json",
+      "local_file": "data/raw/2024_azerbaijan_q/HUL_laptimes.json",
+      "sha256": "7115a2c78bce76e5bba8457d9f5161e97999aa5213ac8033bc8af79b69ca2f5a",
+      "bytes": 4152
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/LEC/19_tel.json",
+      "local_file": "data/raw/2024_azerbaijan_q/LEC_19_tel.json",
+      "sha256": "303c5d4db392b361b8c264fe0982ac933ded19681ebeeb1bb22094440dd83413",
+      "bytes": 158394
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/LEC/laptimes.json",
+      "local_file": "data/raw/2024_azerbaijan_q/LEC_laptimes.json",
+      "sha256": "27474b0266be0edbb5f78f02e148475974799f2b41351e56b024ff6bc5249a8d",
+      "bytes": 5714
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/NOR/4_tel.json",
+      "local_file": "data/raw/2024_azerbaijan_q/NOR_4_tel.json",
+      "sha256": "c0f0bc672c98fab0039ad940c181a84b9aad45c6434d0d7287cdb59f708f951c",
+      "bytes": 156593
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/NOR/laptimes.json",
+      "local_file": "data/raw/2024_azerbaijan_q/NOR_laptimes.json",
+      "sha256": "54b6aa8051de4791dfab3ba6c7247154006026fe47288717dad152abf0000cc3",
+      "bytes": 2193
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/OCO/5_tel.json",
+      "local_file": "data/raw/2024_azerbaijan_q/OCO_5_tel.json",
+      "sha256": "cd6493a5ab7b75bfc7384b3e796acf13adb2e577a6da2bc90aea802fb494bc98",
+      "bytes": 157630
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/OCO/laptimes.json",
+      "local_file": "data/raw/2024_azerbaijan_q/OCO_laptimes.json",
+      "sha256": "70f80d242831ab2cad1fd6af6158911170a0fa355447147d7d1916ed07082146",
+      "bytes": 2456
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/PER/14_tel.json",
+      "local_file": "data/raw/2024_azerbaijan_q/PER_14_tel.json",
+      "sha256": "7b281e8f5bedfee57620b275ab231d6f72b0438150034fe2ac83186d36c66b6e",
+      "bytes": 156663
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/PER/laptimes.json",
+      "local_file": "data/raw/2024_azerbaijan_q/PER_laptimes.json",
+      "sha256": "02ac62ba2ab214851016df9a3884f24621e57e328ce8789be1ce151be12f2888",
+      "bytes": 4469
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/PIA/18_tel.json",
+      "local_file": "data/raw/2024_azerbaijan_q/PIA_18_tel.json",
+      "sha256": "806045b02e6b8d61a1321ebf678b3fde2caeebb5c03a44ee4299a09931aecdd3",
+      "bytes": 158684
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/PIA/laptimes.json",
+      "local_file": "data/raw/2024_azerbaijan_q/PIA_laptimes.json",
+      "sha256": "c6e0a68ba284c697e274d5392737b3de2d32ba5e20f1c248fb185c6764ff2c5c",
+      "bytes": 5436
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/RIC/7_tel.json",
+      "local_file": "data/raw/2024_azerbaijan_q/RIC_7_tel.json",
+      "sha256": "8faaee8989d0aad0e88b57ca066ec74cca17f2f4a42bf06ac4fa3a622acd2b01",
+      "bytes": 154984
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/RIC/laptimes.json",
+      "local_file": "data/raw/2024_azerbaijan_q/RIC_laptimes.json",
+      "sha256": "08e9ddb82bff0adea1ff337894907cde63bb7a4a482d1fe9ae17c6fe578ac1b8",
+      "bytes": 2673
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/RUS/19_tel.json",
+      "local_file": "data/raw/2024_azerbaijan_q/RUS_19_tel.json",
+      "sha256": "990eb78d794b68e63f8edca6961aed961c149c5d7b1d002ecd439d56cc2fd45e",
+      "bytes": 158249
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/RUS/laptimes.json",
+      "local_file": "data/raw/2024_azerbaijan_q/RUS_laptimes.json",
+      "sha256": "a712a26276f590d29d42e9000e4adbe4a780f4f1a70bdd446709b9d51bad370d",
+      "bytes": 5736
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/SAI/22_tel.json",
+      "local_file": "data/raw/2024_azerbaijan_q/SAI_22_tel.json",
+      "sha256": "078afad7fe1883d267d54b9c99d864a482a8e7d2c4bd7c02c61604c0ab866b9b",
+      "bytes": 151552
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/SAI/laptimes.json",
+      "local_file": "data/raw/2024_azerbaijan_q/SAI_laptimes.json",
+      "sha256": "a176a8d6b81c89f978c8bc1b0b5c0f8435703891f95897679f2cdbad2ea54ad2",
+      "bytes": 6528
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/STR/7_tel.json",
+      "local_file": "data/raw/2024_azerbaijan_q/STR_7_tel.json",
+      "sha256": "5fc47961ef5681ece88f53166b72d6d67a84bcd8ab53f2dc64a2f75f4abaa6c5",
+      "bytes": 154570
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/STR/laptimes.json",
+      "local_file": "data/raw/2024_azerbaijan_q/STR_laptimes.json",
+      "sha256": "20671a8de3f0dcf5677ec96a4a98e685b8dadc61e53cba9195bc7cd09b568d0a",
+      "bytes": 4152
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/TSU/15_tel.json",
+      "local_file": "data/raw/2024_azerbaijan_q/TSU_15_tel.json",
+      "sha256": "4b8b05c76e7df3aebb1d3e4b9ea0ee356c8675811809d6501146336921f74323",
+      "bytes": 159445
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/TSU/laptimes.json",
+      "local_file": "data/raw/2024_azerbaijan_q/TSU_laptimes.json",
+      "sha256": "5772ceb805c1f7f8d6b9b2f06712c6c8d74a8eabdfa4de9a495a0ebcde279168",
+      "bytes": 4530
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/VER/19_tel.json",
+      "local_file": "data/raw/2024_azerbaijan_q/VER_19_tel.json",
+      "sha256": "4eea8e7a1bbedb1535b63a3f3ef2f57fac4d490d258074b254320d6b232614e5",
+      "bytes": 158192
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/VER/laptimes.json",
+      "local_file": "data/raw/2024_azerbaijan_q/VER_laptimes.json",
+      "sha256": "4fac0af2bf1cd2ea4e7f07e60c7f15c34a7f86c302a075a18223f08ce06a3ed5",
+      "bytes": 5846
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/ZHO/9_tel.json",
+      "local_file": "data/raw/2024_azerbaijan_q/ZHO_9_tel.json",
+      "sha256": "c69b65997ab4d6d95b579a2324f2775162bc762958917172ee0d55c9ecbb1c9a",
+      "bytes": 159892
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/ZHO/laptimes.json",
+      "local_file": "data/raw/2024_azerbaijan_q/ZHO_laptimes.json",
+      "sha256": "6e6f795bf6d34e38c476fd152764433f66a41b0746e6c450fc657d82973cdab0",
+      "bytes": 3042
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/drivers.json",
+      "local_file": "data/raw/2024_azerbaijan_q/drivers.json",
+      "sha256": "58fd21cae78ed8c077626a9d354bf133c0341118993b0ce74250c890a814eb86",
+      "bytes": 4654
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Azerbaijan%20Grand%20Prix/Qualifying/session_info.json",
+      "local_file": "data/raw/2024_azerbaijan_q/session_info.json",
+      "sha256": "78563c3d91968bf527a7f973da023c5caa87885091c8ce71c8954a1a8f28dc9e",
+      "bytes": 1245
+    }
+  ],
+  "transformation": "Retain fastest valid lap metadata and source time, distance, speed, throttle, brake, x, y arrays unchanged. Resampling occurs only at comparison time.",
+  "validation": "Usable telemetry spans the lap within 0.5 s at each end, without a gap longer than 3 s. Missing fastest telemetry is reported; no slower lap is silently substituted.",
+  "unavailable_drivers": [],
+  "license_file": "data/TRACINGINSIGHTS_LICENSE.txt"
+}

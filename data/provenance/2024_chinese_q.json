@@ -1,0 +1,265 @@
+{
+  "repository": "https://github.com/TracingInsights/2024",
+  "commit": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "retrieved_at_utc": "2026-11-15T13:18:59.891951+00:00",
+  "session_id": "2024_chinese_q",
+  "selection": "Fastest accurate, non-deleted flying lap across Q1/Q2/Q3 for each driver.",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/ALB/13_tel.json",
+      "local_file": "data/raw/2024_chinese_q/ALB_13_tel.json",
+      "sha256": "6e0b6b1ac75be2cf77088cb3b197aea467016e0bbd7b4dce03d34454857bd98a",
+      "bytes": 140754
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/ALB/laptimes.json",
+      "local_file": "data/raw/2024_chinese_q/ALB_laptimes.json",
+      "sha256": "f2dd53e9361471b773c2f16590a557074a4a3ba8d3eb805b1bd1b3d6a2348ed6",
+      "bytes": 4500
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/ALO/14_tel.json",
+      "local_file": "data/raw/2024_chinese_q/ALO_14_tel.json",
+      "sha256": "978d803709d1294d1baba3c0aece761698d380d478cbf05a3ee6a9c24c22f199",
+      "bytes": 143442
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/ALO/laptimes.json",
+      "local_file": "data/raw/2024_chinese_q/ALO_laptimes.json",
+      "sha256": "38ad1047665638de60a20c8b2be8b16c01d52a6c9088ea9c468d46dda9fb36f6",
+      "bytes": 4854
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/BOT/14_tel.json",
+      "local_file": "data/raw/2024_chinese_q/BOT_14_tel.json",
+      "sha256": "f7ae69faf593ccca548e823b8c49da05e855772f3a7ddd826a8709d4ebdcb771",
+      "bytes": 145540
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/BOT/laptimes.json",
+      "local_file": "data/raw/2024_chinese_q/BOT_laptimes.json",
+      "sha256": "79ec83c2f78b8c9083f59960fa491f2ccf2d936ae7cafc098ab20827d2dca641",
+      "bytes": 4842
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/GAS/8_tel.json",
+      "local_file": "data/raw/2024_chinese_q/GAS_8_tel.json",
+      "sha256": "9ad602c9221ed00081ae34e3bd542ac73b43ccb5190c752783ba24497f53e064",
+      "bytes": 142317
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/GAS/laptimes.json",
+      "local_file": "data/raw/2024_chinese_q/GAS_laptimes.json",
+      "sha256": "dc5e8dbbc2da2e08971726c4f063e9f722f47f545c075ae5dca856b64f4a55e4",
+      "bytes": 4762
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/HAM/5_tel.json",
+      "local_file": "data/raw/2024_chinese_q/HAM_5_tel.json",
+      "sha256": "70d5d12bb646a4524ec1bc5142e89ceb864539d8d3c708e7a80d081d17ce9673",
+      "bytes": 144127
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/HAM/laptimes.json",
+      "local_file": "data/raw/2024_chinese_q/HAM_laptimes.json",
+      "sha256": "819b5b640032b2dc801c0592ca62026b67bff406db1c4f0ff76f709efb7dbf5a",
+      "bytes": 2127
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/HUL/20_tel.json",
+      "local_file": "data/raw/2024_chinese_q/HUL_20_tel.json",
+      "sha256": "039ca9908ad95ac72b8e8151476119768c690ee1f27b05fa81c27b0cdddb0ee7",
+      "bytes": 138415
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/HUL/laptimes.json",
+      "local_file": "data/raw/2024_chinese_q/HUL_laptimes.json",
+      "sha256": "9c2c26d6d03be63b3228e2f976bc7b5ec4cd07e7d71b3df0fc5276a5f8050aed",
+      "bytes": 6662
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/LEC/19_tel.json",
+      "local_file": "data/raw/2024_chinese_q/LEC_19_tel.json",
+      "sha256": "f56ac63c1a47c0062e7c3944d7e9f709e036198b7e2058d1215fdd41d10ab427",
+      "bytes": 145129
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/LEC/laptimes.json",
+      "local_file": "data/raw/2024_chinese_q/LEC_laptimes.json",
+      "sha256": "d9db7f4bebd54620494b73c30b3b96d709a4aca362e4f5aead318308388d429b",
+      "bytes": 6248
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/MAG/5_tel.json",
+      "local_file": "data/raw/2024_chinese_q/MAG_5_tel.json",
+      "sha256": "e50ad600057abaa6d4ac082a77e312c86ad05f5d506c3a27c037ec3ea6902f1f",
+      "bytes": 145837
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/MAG/laptimes.json",
+      "local_file": "data/raw/2024_chinese_q/MAG_laptimes.json",
+      "sha256": "84d799a8d2db2d35e683ea5199d29454a91b0d0f118128a7ccd2bdb1bae0e83c",
+      "bytes": 2143
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/NOR/14_tel.json",
+      "local_file": "data/raw/2024_chinese_q/NOR_14_tel.json",
+      "sha256": "dea7fc5822e559d85c8330c95b36cb416a98ffffca74640a3a657db0bd6e8887",
+      "bytes": 145111
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/NOR/laptimes.json",
+      "local_file": "data/raw/2024_chinese_q/NOR_laptimes.json",
+      "sha256": "0ba70d332cb40a71f4de54a24b2a201a513bd51614ccf938d90db5ae0b142d16",
+      "bytes": 4759
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/OCO/14_tel.json",
+      "local_file": "data/raw/2024_chinese_q/OCO_14_tel.json",
+      "sha256": "6cfb942d6d8b7617a520030128b112ae7943a7c5ddd880137e2513a79453b68e",
+      "bytes": 138425
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/OCO/laptimes.json",
+      "local_file": "data/raw/2024_chinese_q/OCO_laptimes.json",
+      "sha256": "f39dc73f43545e9e2ac75ec8e1096419cb3b0cf65101f269ccf55191eba5da69",
+      "bytes": 4758
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/PER/18_tel.json",
+      "local_file": "data/raw/2024_chinese_q/PER_18_tel.json",
+      "sha256": "4dd2fca66140d9d23a1395092dec2bf55d34ddb43540d1119a795b8e02853b4b",
+      "bytes": 143797
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/PER/laptimes.json",
+      "local_file": "data/raw/2024_chinese_q/PER_laptimes.json",
+      "sha256": "3cb4ea001b43b483a96e72b7ecc2cf27738107372217f4f77c798df40f5c3adc",
+      "bytes": 5812
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/PIA/15_tel.json",
+      "local_file": "data/raw/2024_chinese_q/PIA_15_tel.json",
+      "sha256": "4bb6a8a85af7c044fbd85dab344b1264a09ce9aec5abddaa7ecd6aafc83e2a4f",
+      "bytes": 143563
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/PIA/laptimes.json",
+      "local_file": "data/raw/2024_chinese_q/PIA_laptimes.json",
+      "sha256": "2a2afdfe8fe530c958cb296f1964db4c4f339437770e06fa4f5dcf755c5e2455",
+      "bytes": 5077
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/RIC/11_tel.json",
+      "local_file": "data/raw/2024_chinese_q/RIC_11_tel.json",
+      "sha256": "7b41531c2b109bd1e4afe421d72e50d4cb0016c86ffc9978899b7e6f94cc93f2",
+      "bytes": 139264
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/RIC/laptimes.json",
+      "local_file": "data/raw/2024_chinese_q/RIC_laptimes.json",
+      "sha256": "b213b351d0cc8ab17e8e05f9e989e5660894998bd2c8d453129fd5c90cf363d9",
+      "bytes": 3811
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/RUS/19_tel.json",
+      "local_file": "data/raw/2024_chinese_q/RUS_19_tel.json",
+      "sha256": "3039f1167191bb3d74d0c1b60df30434b08954ceb61eed2b8b174b6e4cb3ec0d",
+      "bytes": 144679
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/RUS/laptimes.json",
+      "local_file": "data/raw/2024_chinese_q/RUS_laptimes.json",
+      "sha256": "5c5faf7705f55566af6998eeca02a593195be795890e2f1f875eeacb53870c44",
+      "bytes": 6266
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/SAI/16_tel.json",
+      "local_file": "data/raw/2024_chinese_q/SAI_16_tel.json",
+      "sha256": "39c3bb9efb5bb3c6f5f05baca6e98eae769f7e82b669ab54de3847880098fc6d",
+      "bytes": 143962
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/SAI/laptimes.json",
+      "local_file": "data/raw/2024_chinese_q/SAI_laptimes.json",
+      "sha256": "cdec0d25ca6eba5c2870da0728491742a1bcea7daf962aa972fc56da28a4414d",
+      "bytes": 5377
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/SAR/4_tel.json",
+      "local_file": "data/raw/2024_chinese_q/SAR_4_tel.json",
+      "sha256": "d282cb580801c8ccc7ba513f5c28e643d82113939e0f73e2342ba6b575d362a8",
+      "bytes": 146358
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/SAR/laptimes.json",
+      "local_file": "data/raw/2024_chinese_q/SAR_laptimes.json",
+      "sha256": "29cc2b61abdbdc22f137b7bd70163f47088ff00af06c8f6c93111a1beae61ef4",
+      "bytes": 2417
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/STR/11_tel.json",
+      "local_file": "data/raw/2024_chinese_q/STR_11_tel.json",
+      "sha256": "739535964c75cbffed636c2d274b23bb3b2de35394753db4d45392d6eef12a67",
+      "bytes": 139185
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/STR/laptimes.json",
+      "local_file": "data/raw/2024_chinese_q/STR_laptimes.json",
+      "sha256": "32c8041ebf4adfb4df941004a3813f0469994c714bf9f405c6a0e19c5772f03d",
+      "bytes": 3954
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/TSU/8_tel.json",
+      "local_file": "data/raw/2024_chinese_q/TSU_8_tel.json",
+      "sha256": "fda30291a29042ad9e4c7318efc2d8b26584c267384851962715ba05139d9a25",
+      "bytes": 143872
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/TSU/laptimes.json",
+      "local_file": "data/raw/2024_chinese_q/TSU_laptimes.json",
+      "sha256": "5ae2ff38b999032adedb1d73023530ce6e70f98a2cf6915701679e1573f30b27",
+      "bytes": 2953
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/VER/17_tel.json",
+      "local_file": "data/raw/2024_chinese_q/VER_17_tel.json",
+      "sha256": "d216d68253a6df6083152692ae6df4efe3a1712efb332ec60d7020b0073c53e3",
+      "bytes": 144284
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/VER/laptimes.json",
+      "local_file": "data/raw/2024_chinese_q/VER_laptimes.json",
+      "sha256": "5610960f94d1d3064afffa9964be096fcda7917656a33f3634429db2d7e51db7",
+      "bytes": 5800
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/ZHO/7_tel.json",
+      "local_file": "data/raw/2024_chinese_q/ZHO_7_tel.json",
+      "sha256": "bca5fbb060ab44ba2ad84c9dbfe5e849addd140dccf0ba1134fb165955a75382",
+      "bytes": 142054
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/ZHO/laptimes.json",
+      "local_file": "data/raw/2024_chinese_q/ZHO_laptimes.json",
+      "sha256": "62494d9d848f5b31372673191c51c4772091531cefffd1e36d0a87376a7fa5a9",
+      "bytes": 2734
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/drivers.json",
+      "local_file": "data/raw/2024_chinese_q/drivers.json",
+      "sha256": "b3f7b39c9b82fc5aa7327b080a5a3a3ff1f5d2a907bbcd30775aeea40391151e",
+      "bytes": 4945
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Chinese%20Grand%20Prix/Qualifying/session_info.json",
+      "local_file": "data/raw/2024_chinese_q/session_info.json",
+      "sha256": "8b10062bff4631a79187b125af19d8d820592d26a9f4cdbb111a173f690c43c4",
+      "bytes": 1255
+    }
+  ],
+  "transformation": "Retain fastest valid lap metadata and source time, distance, speed, throttle, brake, x, y arrays unchanged. Resampling occurs only at comparison time.",
+  "validation": "Usable telemetry spans the lap within 0.5 s at each end, without a gap longer than 3 s. Missing fastest telemetry is reported; no slower lap is silently substituted.",
+  "unavailable_drivers": [],
+  "license_file": "data/TRACINGINSIGHTS_LICENSE.txt"
+}

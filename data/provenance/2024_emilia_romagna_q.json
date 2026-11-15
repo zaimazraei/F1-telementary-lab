@@ -1,0 +1,266 @@
+{
+  "repository": "https://github.com/TracingInsights/2024",
+  "commit": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "retrieved_at_utc": "2026-11-15T13:19:00.507421+00:00",
+  "session_id": "2024_emilia_romagna_q",
+  "selection": "Fastest accurate, non-deleted flying lap across Q1/Q2/Q3 for each driver.",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/ALB/11_tel.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/ALB_11_tel.json",
+      "sha256": "399251240b5a98dc1fb20ba3f2ca33267495f968b582e490053f2345855c1f68",
+      "bytes": 113624
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/ALB/laptimes.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/ALB_laptimes.json",
+      "sha256": "f03f2c3d3f05b480ef9378d9adc7c00d9f43af034dc12302cdc008b99da57274",
+      "bytes": 3936
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/ALO/2_tel.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/ALO_2_tel.json",
+      "sha256": "b034c4aafc90a522adee2e706cdd0c3b06aaaada651797ba5698479e7d6d2046",
+      "bytes": 117014
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/ALO/laptimes.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/ALO_laptimes.json",
+      "sha256": "a3f40f8cea11bf93f052863774cce4e5c6aac1a0c12fea6e9797998a2630ca71",
+      "bytes": 2465
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/BOT/5_tel.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/BOT_5_tel.json",
+      "sha256": "84acd71cd61f452811cb030ab599bd83d6adb2487178bd575c94d6d38d719285",
+      "bytes": 115368
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/BOT/laptimes.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/BOT_laptimes.json",
+      "sha256": "66d5e2bf02eae353f706d74b461cdd6db5787c8f6cd143b955e918506aa752ed",
+      "bytes": 2146
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/GAS/5_tel.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/GAS_5_tel.json",
+      "sha256": "35d78b54872c392a1a194f1683bad85e0c8d13f907dd7ce20c4836416d802054",
+      "bytes": 118437
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/GAS/laptimes.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/GAS_laptimes.json",
+      "sha256": "77d4aadddfdbea5ab8ded5adaeb9b032073cf9eb456bb2073d1701ebc35f98e5",
+      "bytes": 4489
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/HAM/19_tel.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/HAM_19_tel.json",
+      "sha256": "88789c016fbb5dba3865418e1e7e308ce3fed2f014bd29059bf42e3142f3a039",
+      "bytes": 114688
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/HAM/laptimes.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/HAM_laptimes.json",
+      "sha256": "eb39101ae3d71c210c9c246a8a731191a4e2ad8c6bf8f5757b0d6d144d4e7d63",
+      "bytes": 6277
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/HUL/14_tel.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/HUL_14_tel.json",
+      "sha256": "42c8fb21289ef5967efc9f634a2e305b65217b6709c579758419804f59d01ac7",
+      "bytes": 113433
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/HUL/laptimes.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/HUL_laptimes.json",
+      "sha256": "bd31e1d9187cbd25ed44189bef44f86624dd005bb4cabbbefdccd1a00a808671",
+      "bytes": 6658
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/LEC/20_tel.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/LEC_20_tel.json",
+      "sha256": "e2d1eb5ac0f4a6813be5e140f78ec18eb0878ea328455a8c54f39eb0aa6d60c5",
+      "bytes": 117219
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/LEC/laptimes.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/LEC_laptimes.json",
+      "sha256": "29ef8b04ff5d5221daa80d3bec8cbf62957c1267bf3e926dad34089164c84070",
+      "bytes": 6567
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/MAG/5_tel.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/MAG_5_tel.json",
+      "sha256": "22d3e43fbd8379e98291a5043ade2180019d1b563fd036abca7d16eede465948",
+      "bytes": 114886
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/MAG/laptimes.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/MAG_laptimes.json",
+      "sha256": "eb91409a71feb546f425da91a5c504e5c893e8f0e969269b9bcdd0fe121324c8",
+      "bytes": 2747
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/NOR/18_tel.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/NOR_18_tel.json",
+      "sha256": "63f45b0caec808af1e824f02ce892a38db3a442caf6d27a0ba17e5407f270886",
+      "bytes": 111565
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/NOR/laptimes.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/NOR_laptimes.json",
+      "sha256": "11f94acfee5106c37ec9901a9f5bc8c8324e65f3227dfd80bf4df51a43e70e5e",
+      "bytes": 5951
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/OCO/14_tel.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/OCO_14_tel.json",
+      "sha256": "7fd3730badf79012852c0e986471d15c3bdd41a2301644dc5af5d5cfd18b2b19",
+      "bytes": 112674
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/OCO/laptimes.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/OCO_laptimes.json",
+      "sha256": "ebc70ca576768bd9ad361185fea16b51f4c4d1a32e19c22ad4f01a625947861d",
+      "bytes": 4758
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/PER/9_tel.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/PER_9_tel.json",
+      "sha256": "6c46b6cf8b275a893cd0a03b772bdde82af7fee52ce115999a913f7cda30eedf",
+      "bytes": 114366
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/PER/laptimes.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/PER_laptimes.json",
+      "sha256": "22580eeab2f18c612742e7e7a1121f099a2b3293b2da88188eeba6f1200fab28",
+      "bytes": 3377
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/PIA/14_tel.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/PIA_14_tel.json",
+      "sha256": "79df253eb2851a982ab26dcba8020879d80d27d414aa34fc008da1c5cb264141",
+      "bytes": 109730
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/PIA/laptimes.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/PIA_laptimes.json",
+      "sha256": "f9a74e3272fd879f4f83788ada5e0a598bfad0c117f941db6c08da94a6d6b931",
+      "bytes": 4792
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/RIC/14_tel.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/RIC_14_tel.json",
+      "sha256": "814e072a8cd372a4c02638fb14327b442a798e4d0ee993b83c27e3147672cbb8",
+      "bytes": 115521
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/RIC/laptimes.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/RIC_laptimes.json",
+      "sha256": "688557267a615e7ae814918b45208d2f093b2250078b2a059c7a2da00132eb80",
+      "bytes": 4687
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/RUS/17_tel.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/RUS_17_tel.json",
+      "sha256": "2b5a811550e309f14aaf0e8e80b8464c6fb11d68394b033e58e524577fc9df3f",
+      "bytes": 114724
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/RUS/laptimes.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/RUS_laptimes.json",
+      "sha256": "c9b2283226d637f5c516f7290d54b1fe5ffb5a60b89309327cddcb51cc47cc02",
+      "bytes": 5690
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/SAI/19_tel.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/SAI_19_tel.json",
+      "sha256": "ec5baa8cb73a826825b46415afe8437673628f0f0ba05b462555e9d0363c50c9",
+      "bytes": 116360
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/SAI/laptimes.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/SAI_laptimes.json",
+      "sha256": "789239674678153a35d5ebab5103cab169d078d9607ffc60201b6c284ac4eb86",
+      "bytes": 6273
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/SAR/laptimes.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/SAR_laptimes.json",
+      "sha256": "114eeb2838f62dbc9da81089667d9cf0497958dffff81c1208eac4da8a3dcebe",
+      "bytes": 2744
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/STR/14_tel.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/STR_14_tel.json",
+      "sha256": "f6718f83b3c29fb5cf51fbc99c6e7cf76a94fc431245fa8f0641e8893b495116",
+      "bytes": 114799
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/STR/laptimes.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/STR_laptimes.json",
+      "sha256": "4b87dde74e5b8ad5e955ebc5bdbd23f956356d9d52a314a3ff3c21b547ee74e1",
+      "bytes": 4860
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/TSU/8_tel.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/TSU_8_tel.json",
+      "sha256": "04476ca6014eddbf5694a96fcb84c6fd65d330d2d915082dfcb6a0189e1ca615",
+      "bytes": 116836
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/TSU/laptimes.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/TSU_laptimes.json",
+      "sha256": "771d14fbf9046967b0141800b8bcd5bcd480a9b02984146333b7d46d9e63862e",
+      "bytes": 4708
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/VER/17_tel.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/VER_17_tel.json",
+      "sha256": "4aa7ebbbdd371fa000371cfdda14684f49770ff1b7ea1a460c20135ff63f25cf",
+      "bytes": 110743
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/VER/laptimes.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/VER_laptimes.json",
+      "sha256": "8feea9b4251f2fa27c9f5fc6b414f8a7511bd7646bb26ec32cce781e4fec100a",
+      "bytes": 5805
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/ZHO/8_tel.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/ZHO_8_tel.json",
+      "sha256": "bf491ad21c43e3ff163a5c4cdb06240db7b54df77b69e35e43931fbe83314d29",
+      "bytes": 117032
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/ZHO/laptimes.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/ZHO_laptimes.json",
+      "sha256": "125c56ea72bb3c49be3f1398a1ec82d9b997898edffd1df9a4d7ea812bef220f",
+      "bytes": 3044
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/drivers.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/drivers.json",
+      "sha256": "e70f571cd624216972a30946c289948e68445289dc24b8d1cb4951ef84d83cad",
+      "bytes": 4945
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Emilia%20Romagna%20Grand%20Prix/Qualifying/session_info.json",
+      "local_file": "data/raw/2024_emilia_romagna_q/session_info.json",
+      "sha256": "f8007306f867a90ef36220ed24027fa3baddec038b614efd92761bcb369ce023",
+      "bytes": 1029
+    }
+  ],
+  "transformation": "Retain fastest valid lap metadata and source time, distance, speed, throttle, brake, x, y arrays unchanged. Resampling occurs only at comparison time.",
+  "validation": "Usable telemetry spans the lap within 0.5 s at each end, without a gap longer than 3 s. Missing fastest telemetry is reported; no slower lap is silently substituted.",
+  "unavailable_drivers": [
+    {
+      "code": "SAR",
+      "name": "Logan Sargeant",
+      "reason": "No accurate, non-deleted flying lap with a valid lap time in this qualifying session.",
+      "kind": "data_unavailable"
+    }
+  ],
+  "license_file": "data/TRACINGINSIGHTS_LICENSE.txt"
+}

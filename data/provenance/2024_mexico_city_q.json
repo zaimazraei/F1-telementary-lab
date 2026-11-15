@@ -1,0 +1,265 @@
+{
+  "repository": "https://github.com/TracingInsights/2024",
+  "commit": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "retrieved_at_utc": "2026-11-15T13:19:01.971501+00:00",
+  "session_id": "2024_mexico_city_q",
+  "selection": "Fastest accurate, non-deleted flying lap across Q1/Q2/Q3 for each driver.",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/ALB/11_tel.json",
+      "local_file": "data/raw/2024_mexico_city_q/ALB_11_tel.json",
+      "sha256": "2a66ed37b130545b7ad18cf553430ef45a5630b70b4ba871290a79031050b943",
+      "bytes": 114767
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/ALB/laptimes.json",
+      "local_file": "data/raw/2024_mexico_city_q/ALB_laptimes.json",
+      "sha256": "2b8c8fc1622bc5d9c3f802b75e2a1f6e6f366f8da89aab78ae238e312611184f",
+      "bytes": 5182
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/ALO/10_tel.json",
+      "local_file": "data/raw/2024_mexico_city_q/ALO_10_tel.json",
+      "sha256": "f554d23fec492f5f4ad6ac4a7493e5e6fc0a8aaf087ce2bd4bcaed5e207e3518",
+      "bytes": 116134
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/ALO/laptimes.json",
+      "local_file": "data/raw/2024_mexico_city_q/ALO_laptimes.json",
+      "sha256": "1f595edbe28398900e15392fe8b1c1e3a5db49c05432ce689c22458ba598d85f",
+      "bytes": 3874
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/BOT/8_tel.json",
+      "local_file": "data/raw/2024_mexico_city_q/BOT_8_tel.json",
+      "sha256": "0b229d9bc5d3958f2a24c5cd1a60d7df84562b7e7f06455a08b6676b18ed71bf",
+      "bytes": 116884
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/BOT/laptimes.json",
+      "local_file": "data/raw/2024_mexico_city_q/BOT_laptimes.json",
+      "sha256": "7e60ddf14c636327ec744b5e6d497d6c08e3361440507f16ef4ac396851ba622",
+      "bytes": 4130
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/COL/5_tel.json",
+      "local_file": "data/raw/2024_mexico_city_q/COL_5_tel.json",
+      "sha256": "00bf1462d9c919afec29691eacff2953a424605e13afafa49b25e73bc6ff559c",
+      "bytes": 123317
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/COL/laptimes.json",
+      "local_file": "data/raw/2024_mexico_city_q/COL_laptimes.json",
+      "sha256": "6a52da82485465e65d5335a69e1c54740ff6770ca12907a8ae7b23d38b37445a",
+      "bytes": 1932
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/GAS/17_tel.json",
+      "local_file": "data/raw/2024_mexico_city_q/GAS_17_tel.json",
+      "sha256": "b6faece31c76084bf0d4a0c504755f93cc119ec0005e2472aac709f6d2a9b3fe",
+      "bytes": 118576
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/GAS/laptimes.json",
+      "local_file": "data/raw/2024_mexico_city_q/GAS_laptimes.json",
+      "sha256": "26b10a502f11378aae0097c324f428a0b81f5357e0abc77969fd129e23ed6d67",
+      "bytes": 5143
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/HAM/15_tel.json",
+      "local_file": "data/raw/2024_mexico_city_q/HAM_15_tel.json",
+      "sha256": "b3e2f1c381f0c2f597d1a9e07c86157fac61b832072ef697e8db9704f791bd56",
+      "bytes": 116758
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/HAM/laptimes.json",
+      "local_file": "data/raw/2024_mexico_city_q/HAM_laptimes.json",
+      "sha256": "b2904f0aa288405d0814e4b060807aabc13d8103682629438e7f7cf80073444f",
+      "bytes": 5474
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/HUL/11_tel.json",
+      "local_file": "data/raw/2024_mexico_city_q/HUL_11_tel.json",
+      "sha256": "5d48270ec0adc0513126700d903406cdd1e4c7cba729bdcc9b43e43daac6bd22",
+      "bytes": 118414
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/HUL/laptimes.json",
+      "local_file": "data/raw/2024_mexico_city_q/HUL_laptimes.json",
+      "sha256": "db17c32562a499e270c0e75f7fb01871b7eeb5df933758809994a2545fec9ea6",
+      "bytes": 5248
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/LAW/8_tel.json",
+      "local_file": "data/raw/2024_mexico_city_q/LAW_8_tel.json",
+      "sha256": "b204d268eb5f26c2113b6947bfbdf701934504b46af1888872261e2d571f759f",
+      "bytes": 117624
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/LAW/laptimes.json",
+      "local_file": "data/raw/2024_mexico_city_q/LAW_laptimes.json",
+      "sha256": "6a806065ff20cdcae5ca3b49d59fce4bd4cd03318a679edb0525275c0224ebc7",
+      "bytes": 3223
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/LEC/20_tel.json",
+      "local_file": "data/raw/2024_mexico_city_q/LEC_20_tel.json",
+      "sha256": "f70ac4c95de1649b0b74abce8d826882f33970840fc324a500c795b0d8dca9e1",
+      "bytes": 111459
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/LEC/laptimes.json",
+      "local_file": "data/raw/2024_mexico_city_q/LEC_laptimes.json",
+      "sha256": "7360c0250f37454885652b87d622b870820a76a88d86a2f4608bc415af461fb1",
+      "bytes": 6007
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/MAG/17_tel.json",
+      "local_file": "data/raw/2024_mexico_city_q/MAG_17_tel.json",
+      "sha256": "e2e54d6bde9e0fe30c09475f2745a866986adba809fa4a61bfdc6e6d813f1241",
+      "bytes": 120154
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/MAG/laptimes.json",
+      "local_file": "data/raw/2024_mexico_city_q/MAG_laptimes.json",
+      "sha256": "3ea545ce11d013e877ecd02bf3ecebe4df5ac73a59c88a5ae5fcb1ffcbd7b953",
+      "bytes": 5250
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/NOR/14_tel.json",
+      "local_file": "data/raw/2024_mexico_city_q/NOR_14_tel.json",
+      "sha256": "0f5a98892add6d9d0a7611427b4a1f09d7bb79743a4603b756aaa8ce4aecb0b7",
+      "bytes": 114963
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/NOR/laptimes.json",
+      "local_file": "data/raw/2024_mexico_city_q/NOR_laptimes.json",
+      "sha256": "8dfaa03c2efc0372856441068044d28fa310378823b3978d28a947cef59b593a",
+      "bytes": 4337
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/OCO/8_tel.json",
+      "local_file": "data/raw/2024_mexico_city_q/OCO_8_tel.json",
+      "sha256": "002af843e6a0a9f4cb43cf850fd4d514f384a76fc9f056f527ce41aa8b7dd1c8",
+      "bytes": 119632
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/OCO/laptimes.json",
+      "local_file": "data/raw/2024_mexico_city_q/OCO_laptimes.json",
+      "sha256": "7b9c59d5fa520b7d0c250c420990e427e24cc24335a7dba06be4c9e63e1bc23b",
+      "bytes": 2716
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/PER/8_tel.json",
+      "local_file": "data/raw/2024_mexico_city_q/PER_8_tel.json",
+      "sha256": "45d3dcf048e16d166582cf730ce1cdc50dafa868a3586dfa5a907c1ff943133c",
+      "bytes": 113671
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/PER/laptimes.json",
+      "local_file": "data/raw/2024_mexico_city_q/PER_laptimes.json",
+      "sha256": "ec0d9058419ceb97a05210f8bcc1a112a86f5beb3dab2463bd7d4e38b9c0a615",
+      "bytes": 2798
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/PIA/7_tel.json",
+      "local_file": "data/raw/2024_mexico_city_q/PIA_7_tel.json",
+      "sha256": "452003e541774ab3b0b20f523872c1838147eb56c7209d4c7c5b77cff9fbdbb4",
+      "bytes": 118937
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/PIA/laptimes.json",
+      "local_file": "data/raw/2024_mexico_city_q/PIA_laptimes.json",
+      "sha256": "8c228b0132e1f6b5a6ffdd46db5f851975a398ed1a470738154da6aa13596a33",
+      "bytes": 2491
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/RUS/18_tel.json",
+      "local_file": "data/raw/2024_mexico_city_q/RUS_18_tel.json",
+      "sha256": "edb5f431beedd35d0c124b8a70a7592d8348b0ed8411c972aaf32a1ad941b9d1",
+      "bytes": 117101
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/RUS/laptimes.json",
+      "local_file": "data/raw/2024_mexico_city_q/RUS_laptimes.json",
+      "sha256": "400b223f0891693466efc259d9a8bb175e8f515a80c9a4424644e98fdf9ece1f",
+      "bytes": 5463
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/SAI/20_tel.json",
+      "local_file": "data/raw/2024_mexico_city_q/SAI_20_tel.json",
+      "sha256": "29ca9a5c44b1c1abd16553e4ff4764b5bbc0d4e4aa1e748ca2b73ba18de39cd2",
+      "bytes": 117225
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/SAI/laptimes.json",
+      "local_file": "data/raw/2024_mexico_city_q/SAI_laptimes.json",
+      "sha256": "7efc10d1cc3bc6eb60172ed356dc10d11042ff8f08ba7ee6a1200c1548751da2",
+      "bytes": 5975
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/STR/11_tel.json",
+      "local_file": "data/raw/2024_mexico_city_q/STR_11_tel.json",
+      "sha256": "22d9620f6c22826dcc9e887b84e8806c557dbb9b144ce7b92a77bfeea70783ae",
+      "bytes": 116897
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/STR/laptimes.json",
+      "local_file": "data/raw/2024_mexico_city_q/STR_laptimes.json",
+      "sha256": "0d22b8eca75668b35e9201e345ad415869c4da0664a98e8fb0bf49ff4fa30109",
+      "bytes": 4149
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/TSU/8_tel.json",
+      "local_file": "data/raw/2024_mexico_city_q/TSU_8_tel.json",
+      "sha256": "1365407202e656235e84f84ff9a2d9f16b4c3a306f7d4d6b705490919180bf5f",
+      "bytes": 116627
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/TSU/laptimes.json",
+      "local_file": "data/raw/2024_mexico_city_q/TSU_laptimes.json",
+      "sha256": "fe4d8ea36e6fff9031e0aa8c32f7ca5362cf8159a34aa1850bf621c8f3c040d4",
+      "bytes": 3220
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/VER/17_tel.json",
+      "local_file": "data/raw/2024_mexico_city_q/VER_17_tel.json",
+      "sha256": "2293fab9ee83eb62a39a0c25a4451a35f2b3fac2e3398cbba4fb43ae234751cd",
+      "bytes": 116048
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/VER/laptimes.json",
+      "local_file": "data/raw/2024_mexico_city_q/VER_laptimes.json",
+      "sha256": "4d0182c586996df467d51fa13f1c46084057cff38fa61e732cdbbbdcc7a99a16",
+      "bytes": 5309
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/ZHO/8_tel.json",
+      "local_file": "data/raw/2024_mexico_city_q/ZHO_8_tel.json",
+      "sha256": "bf249913d3492f6cf073d9e7b76d37c92fc1768f2b63ca62814aebb5c2ec0def",
+      "bytes": 118939
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/ZHO/laptimes.json",
+      "local_file": "data/raw/2024_mexico_city_q/ZHO_laptimes.json",
+      "sha256": "f30b084458042fd11ed03bafa9c84a0171266c32d7593bac93d215bfbb62b5ee",
+      "bytes": 2757
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/drivers.json",
+      "local_file": "data/raw/2024_mexico_city_q/drivers.json",
+      "sha256": "f26703043afe6dc91accb044329bbd6217d436ba932a64eb26e10b618a622b69",
+      "bytes": 809
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Mexico%20City%20Grand%20Prix/Qualifying/session_info.json",
+      "local_file": "data/raw/2024_mexico_city_q/session_info.json",
+      "sha256": "0702c256600cc8f96c2ceb9634b476a24c5d53598aeb2806cd2b43e50adf6a1f",
+      "bytes": 1011
+    }
+  ],
+  "transformation": "Retain fastest valid lap metadata and source time, distance, speed, throttle, brake, x, y arrays unchanged. Resampling occurs only at comparison time.",
+  "validation": "Usable telemetry spans the lap within 0.5 s at each end, without a gap longer than 3 s. Missing fastest telemetry is reported; no slower lap is silently substituted.",
+  "unavailable_drivers": [],
+  "license_file": "data/TRACINGINSIGHTS_LICENSE.txt"
+}

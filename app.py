@@ -12,12 +12,15 @@ from datetime import datetime
 from pathlib import Path
 
 from flask import Flask, Response, jsonify, render_template, request
+from jinja2 import TemplateNotFound
 
 from telemetry import compare_laps, get_catalog, import_fastf1
 
 ROOT = Path(__file__).resolve().parent
-app = Flask(__name__)
+app = Flask(__name__, template_folder=str(ROOT / "templates"),
+            static_folder=str(ROOT / "static"), static_url_path="/static")
 app.config["MAX_CONTENT_LENGTH"] = 16 * 1024
+app.config["FASTF1_IMPORT_ENABLED"] = os.environ.get("VERCEL") != "1"
 jobs: dict[str, dict] = {}
 jobs_lock = threading.Lock()
 imports = ThreadPoolExecutor(max_workers=1, thread_name_prefix="fastf1-import")
@@ -25,7 +28,7 @@ imports = ThreadPoolExecutor(max_workers=1, thread_name_prefix="fastf1-import")
 
 @app.get("/")
 def index():
-    return render_template("index.html")
+    return render_template("index.html", fastf1_import_enabled=app.config["FASTF1_IMPORT_ENABLED"])
 
 
 @app.get("/api/health")
@@ -35,7 +38,10 @@ def health():
 
 @app.get("/api/catalog")
 def catalog():
-    return jsonify(get_catalog())
+    data = get_catalog()
+    if not data["sessions"]:
+        return jsonify(error="The saved dataset is missing from this deployment. Include the data folder and redeploy."), 503
+    return jsonify(data)
 
 
 def selected_comparison():
@@ -93,6 +99,8 @@ def run_import(job_id: str, year: int, event: str):
 
 @app.post("/api/import")
 def import_session():
+    if not app.config["FASTF1_IMPORT_ENABLED"]:
+        return jsonify(error="Live FastF1 imports are available in the local app. This hosted dashboard uses the saved 2024 dataset."), 403
     body = request.get_json(silent=True)
     if not isinstance(body, dict):
         raise ValueError("Send a year and an event name.")
@@ -142,7 +150,13 @@ def missing_data(exc):
 
 @app.errorhandler(500)
 def server_error(exc):
-    return jsonify(error="The comparison could not be loaded. See the VS Code terminal for details."), 500
+    return jsonify(error="The request could not be completed. Check the server or deployment logs for details."), 500
+
+
+@app.errorhandler(TemplateNotFound)
+def missing_template(exc):
+    app.logger.error("Dashboard template missing: %s", exc)
+    return jsonify(error="Dashboard template is missing from this deployment. Include templates/index.html and redeploy."), 500
 
 
 if __name__ == "__main__":

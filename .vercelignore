@@ -1,0 +1,15 @@
+.venv/
+.cache/
+.pytest_cache/
+.vscode/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.log
+.env
+.env.*
+data/raw/
+data/provenance/
+tests/
+dashboard-preview.jpg
+*.zip

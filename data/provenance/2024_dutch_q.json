@@ -1,0 +1,253 @@
+{
+  "repository": "https://github.com/TracingInsights/2024",
+  "commit": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "retrieved_at_utc": "2026-11-15T13:19:00.405326+00:00",
+  "session_id": "2024_dutch_q",
+  "selection": "Fastest accurate, non-deleted flying lap across Q1/Q2/Q3 for each driver.",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/ALB/17_tel.json",
+      "local_file": "data/raw/2024_dutch_q/ALB_17_tel.json",
+      "sha256": "28065be65aa4613d9037f44ebfb2476faf733ae2f2280c94ada63e5501d50f8a",
+      "bytes": 107578
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/ALB/laptimes.json",
+      "local_file": "data/raw/2024_dutch_q/ALB_laptimes.json",
+      "sha256": "48224f9d5ffd4e941871f7e62ead3d3b4e7c772cf06b2d43eba402c2880a8c44",
+      "bytes": 5871
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/ALO/15_tel.json",
+      "local_file": "data/raw/2024_dutch_q/ALO_15_tel.json",
+      "sha256": "6ea7321e9f133c70db9f6ad1a0608a99b49f5d514a5f70f4aeead649ff2fa640",
+      "bytes": 108353
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/ALO/laptimes.json",
+      "local_file": "data/raw/2024_dutch_q/ALO_laptimes.json",
+      "sha256": "50eff09ef4a3fd0931ff9a28a61c384332c6560d66995ad6aea8be3c896e1a7d",
+      "bytes": 5328
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/BOT/8_tel.json",
+      "local_file": "data/raw/2024_dutch_q/BOT_8_tel.json",
+      "sha256": "d0d40ebf13be6d2f1d51d15d6ead6749c8bcae89c5806ae7174a7060b01464fe",
+      "bytes": 102863
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/BOT/laptimes.json",
+      "local_file": "data/raw/2024_dutch_q/BOT_laptimes.json",
+      "sha256": "c82a9ac1bad5d79338f35ef1488da39a7ef75f26105886458aa99f7daa329a48",
+      "bytes": 3141
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/GAS/13_tel.json",
+      "local_file": "data/raw/2024_dutch_q/GAS_13_tel.json",
+      "sha256": "8bb3c589eef19f13fea8b69dd29fd57a294d9dbb0af3811b6ccc6b9523f31a47",
+      "bytes": 109011
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/GAS/laptimes.json",
+      "local_file": "data/raw/2024_dutch_q/GAS_laptimes.json",
+      "sha256": "dbe9438b1f7795fd0c92f5311f73e45b919a414bbb611b4567f2c08b50876798",
+      "bytes": 6462
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/HAM/12_tel.json",
+      "local_file": "data/raw/2024_dutch_q/HAM_12_tel.json",
+      "sha256": "d27f9d4b69cb60b4b67be7a53b42c2d0a08f7262cc837386aea336bb14a95cf9",
+      "bytes": 108296
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/HAM/laptimes.json",
+      "local_file": "data/raw/2024_dutch_q/HAM_laptimes.json",
+      "sha256": "d7675dffdf916c6232cd7cc1a5b74ddc0baf7e2c2473c34ad616c3930a3126b4",
+      "bytes": 4352
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/HUL/16_tel.json",
+      "local_file": "data/raw/2024_dutch_q/HUL_16_tel.json",
+      "sha256": "c4418e86ed7249a202d9f7e7c2999333d698513b5e18eb46d6aa11583e658f96",
+      "bytes": 107934
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/HUL/laptimes.json",
+      "local_file": "data/raw/2024_dutch_q/HUL_laptimes.json",
+      "sha256": "9f2403ad31453d61b2709bea715f14f0d294ca83ab4689bee04e32da05e12793",
+      "bytes": 5616
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/LEC/23_tel.json",
+      "local_file": "data/raw/2024_dutch_q/LEC_23_tel.json",
+      "sha256": "ba8b0d0d9ddc51282c5bd2ef04769e60fac28ec01e24773b6e6442d06ad5c06b",
+      "bytes": 102764
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/LEC/laptimes.json",
+      "local_file": "data/raw/2024_dutch_q/LEC_laptimes.json",
+      "sha256": "c7e39285d5e97651586f0502d586bf24868fac10168debf7b50e2269b35e3154",
+      "bytes": 7714
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/MAG/11_tel.json",
+      "local_file": "data/raw/2024_dutch_q/MAG_11_tel.json",
+      "sha256": "3600af353cfd39df1b59154d20ff19e44e2edfaebb9e9368dbe56034732178f0",
+      "bytes": 108899
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/MAG/laptimes.json",
+      "local_file": "data/raw/2024_dutch_q/MAG_laptimes.json",
+      "sha256": "142e6cf777f5e310b5164b9a2b484279a7689cfccf93aadd1e6b81e76faae7ce",
+      "bytes": 5021
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/NOR/13_tel.json",
+      "local_file": "data/raw/2024_dutch_q/NOR_13_tel.json",
+      "sha256": "273cfee7b97306231f8c381d7f01ef5448e7a83f4eabb39c896bd1edd5385a99",
+      "bytes": 104587
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/NOR/laptimes.json",
+      "local_file": "data/raw/2024_dutch_q/NOR_laptimes.json",
+      "sha256": "de61faf7e4c7eaa88beccfa6f2d7c4063f45ffe01dbc9895928a2c5bfa2ef112",
+      "bytes": 4619
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/OCO/8_tel.json",
+      "local_file": "data/raw/2024_dutch_q/OCO_8_tel.json",
+      "sha256": "270e7b959312a09dc340ebc518bfa54abcc5acc037f4ca971d74730fc1c8500f",
+      "bytes": 103140
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/OCO/laptimes.json",
+      "local_file": "data/raw/2024_dutch_q/OCO_laptimes.json",
+      "sha256": "0ae27c5744c6cf255f7b016f0ae9877380040242a89de98fa600c0feee067b3d",
+      "bytes": 3089
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/PER/16_tel.json",
+      "local_file": "data/raw/2024_dutch_q/PER_16_tel.json",
+      "sha256": "e088fca8d1fa0aac2edda08d0ec03a3014eabab3d8946e7a29c0627c0aaf7c49",
+      "bytes": 106492
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/PER/laptimes.json",
+      "local_file": "data/raw/2024_dutch_q/PER_laptimes.json",
+      "sha256": "a9b462b78242d7beabc79778da110a31362984570655d1a2b754c3f6097ca494",
+      "bytes": 5679
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/PIA/15_tel.json",
+      "local_file": "data/raw/2024_dutch_q/PIA_15_tel.json",
+      "sha256": "0fb505a7ef7205dcba9efe57ca3a5e31c8435aea094cf5eabc8d53829e5bcefd",
+      "bytes": 106794
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/PIA/laptimes.json",
+      "local_file": "data/raw/2024_dutch_q/PIA_laptimes.json",
+      "sha256": "b6f95718d3e63e6407608ccc82383a4e305120028ddc2d2e5f4d106da8e61663",
+      "bytes": 5247
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/RIC/8_tel.json",
+      "local_file": "data/raw/2024_dutch_q/RIC_8_tel.json",
+      "sha256": "e3999ac974136bdce294e32ee655c9f16f3470cefb7a70b6d03a4098ad2ec395",
+      "bytes": 103771
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/RIC/laptimes.json",
+      "local_file": "data/raw/2024_dutch_q/RIC_laptimes.json",
+      "sha256": "a330d11ead676498c725672f42bb3bd4c57a73cf3ed707ea57c22e9f43e7b71c",
+      "bytes": 3044
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/RUS/17_tel.json",
+      "local_file": "data/raw/2024_dutch_q/RUS_17_tel.json",
+      "sha256": "133769e3ca9c66929232948afb7a056b1b53f5464630ea706820b3638ee1c78f",
+      "bytes": 106651
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/RUS/laptimes.json",
+      "local_file": "data/raw/2024_dutch_q/RUS_laptimes.json",
+      "sha256": "59140e8c1ec2b18520b4934ce9b478b061ccda89475a832c2e1fee68b723ca34",
+      "bytes": 5879
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/SAI/17_tel.json",
+      "local_file": "data/raw/2024_dutch_q/SAI_17_tel.json",
+      "sha256": "71730a13af7bc9e6fdd8da93a6d511029e68b62ee5ea12f75f6772591ad65d1f",
+      "bytes": 111146
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/SAI/laptimes.json",
+      "local_file": "data/raw/2024_dutch_q/SAI_laptimes.json",
+      "sha256": "e5d54efc0d58d83bccdb8aaeb676aba70b0d76ce7e6fb5bdeb2f292d2807ca54",
+      "bytes": 5866
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/STR/15_tel.json",
+      "local_file": "data/raw/2024_dutch_q/STR_15_tel.json",
+      "sha256": "6b741734604ba2e83ce9cef38433b7b920db01c661c5278ff4c0bfb90e5acf88",
+      "bytes": 108772
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/STR/laptimes.json",
+      "local_file": "data/raw/2024_dutch_q/STR_laptimes.json",
+      "sha256": "8bcb4b42bdb6deb555878551a0a7803fc3aaffd468bf5f68e8ee27c9276b569e",
+      "bytes": 6255
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/TSU/14_tel.json",
+      "local_file": "data/raw/2024_dutch_q/TSU_14_tel.json",
+      "sha256": "f31350a18b97a699b94c0645f40378a138c548d09645ba7e5bcf1d533a67b4c3",
+      "bytes": 109111
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/TSU/laptimes.json",
+      "local_file": "data/raw/2024_dutch_q/TSU_laptimes.json",
+      "sha256": "39ee70f68820d4426a7ab998bbd31d11499a44f682b089068399e0353c5649d5",
+      "bytes": 4866
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/VER/13_tel.json",
+      "local_file": "data/raw/2024_dutch_q/VER_13_tel.json",
+      "sha256": "32b8aa585badf1ce2711b774ee7448e0426eb8688b6624d6134d1e68e677203b",
+      "bytes": 105377
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/VER/laptimes.json",
+      "local_file": "data/raw/2024_dutch_q/VER_laptimes.json",
+      "sha256": "a0d1e1384081ea34e915bf23c2fd5a1d09447f6fc0e7d00b5659b66d1caaaa3a",
+      "bytes": 4726
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/ZHO/8_tel.json",
+      "local_file": "data/raw/2024_dutch_q/ZHO_8_tel.json",
+      "sha256": "e4c2fc8ad780cfcf5e7450afb4ad64705c0e81841b4c8b3dbf3a9f001ee76869",
+      "bytes": 104988
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/ZHO/laptimes.json",
+      "local_file": "data/raw/2024_dutch_q/ZHO_laptimes.json",
+      "sha256": "edee39127e5578516394ccfb0d15c36d10cbfb773a28349f00a4bb2a796fb4fb",
+      "bytes": 3140
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/drivers.json",
+      "local_file": "data/raw/2024_dutch_q/drivers.json",
+      "sha256": "443de96cc15d1c6ae9e1c2ebcef91dcee3ad692e12365996bb3aeadf1e0eb32c",
+      "bytes": 770
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Dutch%20Grand%20Prix/Qualifying/session_info.json",
+      "local_file": "data/raw/2024_dutch_q/session_info.json",
+      "sha256": "aa1b9646f099856ed1997c00f4cfec587a3d1b6521bbe3f857b133802a4543eb",
+      "bytes": 955
+    }
+  ],
+  "transformation": "Retain fastest valid lap metadata and source time, distance, speed, throttle, brake, x, y arrays unchanged. Resampling occurs only at comparison time.",
+  "validation": "Usable telemetry spans the lap within 0.5 s at each end, without a gap longer than 3 s. Missing fastest telemetry is reported; no slower lap is silently substituted.",
+  "unavailable_drivers": [],
+  "license_file": "data/TRACINGINSIGHTS_LICENSE.txt"
+}

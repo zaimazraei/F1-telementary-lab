@@ -1,0 +1,265 @@
+{
+  "repository": "https://github.com/TracingInsights/2024",
+  "commit": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "retrieved_at_utc": "2026-11-15T13:19:04.897145+00:00",
+  "session_id": "2024_united_states_q",
+  "selection": "Fastest accurate, non-deleted flying lap across Q1/Q2/Q3 for each driver.",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/ALB/7_tel.json",
+      "local_file": "data/raw/2024_united_states_q/ALB_7_tel.json",
+      "sha256": "a4c8c281f3abd060d26c70c53ec96c75694cd45a32201007dee315fd51aea4d0",
+      "bytes": 138832
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/ALB/laptimes.json",
+      "local_file": "data/raw/2024_united_states_q/ALB_laptimes.json",
+      "sha256": "7f781421e60cab544768acdd35de0cadd1f92dff4ee40d34cf4f8c30af596bbf",
+      "bytes": 2787
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/ALO/17_tel.json",
+      "local_file": "data/raw/2024_united_states_q/ALO_17_tel.json",
+      "sha256": "dea6c62d273f684695c13143f0a1a8967ddc3fb8eca94f151e6aa04c27ffb09f",
+      "bytes": 137313
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/ALO/laptimes.json",
+      "local_file": "data/raw/2024_united_states_q/ALO_laptimes.json",
+      "sha256": "8a9c98d97c66c06ba3e7ac2a94744a6b5e506c420c8fc211eaf75337d0a1ef0a",
+      "bytes": 5915
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/BOT/8_tel.json",
+      "local_file": "data/raw/2024_united_states_q/BOT_8_tel.json",
+      "sha256": "a244dedce6a5bc11695cc3297e5b87522b9a9e8e2a7d272f2b907b9f9d402d0f",
+      "bytes": 141430
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/BOT/laptimes.json",
+      "local_file": "data/raw/2024_united_states_q/BOT_laptimes.json",
+      "sha256": "d12e8b74b5c6f651e114fc521c4b3db70f617959ecd4db8f268def6a172e195e",
+      "bytes": 3114
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/COL/3_tel.json",
+      "local_file": "data/raw/2024_united_states_q/COL_3_tel.json",
+      "sha256": "27850b95431c1460406abb36a0241b5fbb47eba960bf78a9c44c2ef45ffa2a13",
+      "bytes": 142801
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/COL/laptimes.json",
+      "local_file": "data/raw/2024_united_states_q/COL_laptimes.json",
+      "sha256": "87b2f54444078b3c75802f80ff401d02451a72ffa1befcadded62618950bf1f5",
+      "bytes": 2182
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/GAS/17_tel.json",
+      "local_file": "data/raw/2024_united_states_q/GAS_17_tel.json",
+      "sha256": "c9886bd49852fdd6cc09131e0a0e07109ca79989457202a147152f86321d934b",
+      "bytes": 139602
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/GAS/laptimes.json",
+      "local_file": "data/raw/2024_united_states_q/GAS_laptimes.json",
+      "sha256": "db55235571efc477c7cf58175c0c75375c657500623b2f6c0ef81102fbf486cf",
+      "bytes": 6457
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/HAM/5_tel.json",
+      "local_file": "data/raw/2024_united_states_q/HAM_5_tel.json",
+      "sha256": "a862a7efca2378f60cacf1f4ea362c00cec5eebf1e1e34df9f287a85bceb115d",
+      "bytes": 142812
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/HAM/laptimes.json",
+      "local_file": "data/raw/2024_united_states_q/HAM_laptimes.json",
+      "sha256": "c5cab0e58d35453e35fc5c079c1d3fe577b49bf8c82becff578ac2c46c28e181",
+      "bytes": 2181
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/HUL/8_tel.json",
+      "local_file": "data/raw/2024_united_states_q/HUL_8_tel.json",
+      "sha256": "8d6289a02f7f659b8d2c03326f8e8e03216a03ce9cacc0ceb641661f1183655c",
+      "bytes": 139901
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/HUL/laptimes.json",
+      "local_file": "data/raw/2024_united_states_q/HUL_laptimes.json",
+      "sha256": "2b122704c52d047e61f9e86c5ce1a723d612f77878c2520842f560858ff4ad84",
+      "bytes": 4056
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/LAW/7_tel.json",
+      "local_file": "data/raw/2024_united_states_q/LAW_7_tel.json",
+      "sha256": "4a57024c809527b42a120be0c53945b0f59d9c4f50b6bf352712b2c7dc4a48f8",
+      "bytes": 139380
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/LAW/laptimes.json",
+      "local_file": "data/raw/2024_united_states_q/LAW_laptimes.json",
+      "sha256": "80edfd7ba9bf5ec24ec1ac5c52ff7247085208ca0aaf10f06f88abac617502b3",
+      "bytes": 3643
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/LEC/17_tel.json",
+      "local_file": "data/raw/2024_united_states_q/LEC_17_tel.json",
+      "sha256": "697cdd6ea0e543783a3e42132176c062900fba699abdd6184da445f20da528c6",
+      "bytes": 132263
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/LEC/laptimes.json",
+      "local_file": "data/raw/2024_united_states_q/LEC_laptimes.json",
+      "sha256": "f3578f8753b54b23ddf83adf377b9e0d5783b4eba10d2d4e430dbb648b9cdf01",
+      "bytes": 6454
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/MAG/11_tel.json",
+      "local_file": "data/raw/2024_united_states_q/MAG_11_tel.json",
+      "sha256": "0dbabae054b3f0456e7ef3eab7ae0aa17c802f2abc4deca43a674840ba617c7a",
+      "bytes": 143389
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/MAG/laptimes.json",
+      "local_file": "data/raw/2024_united_states_q/MAG_laptimes.json",
+      "sha256": "04247a6eee2a6e1506fa9b87f00a9c0a0c5c014407ab88f81b98ec13493037f4",
+      "bytes": 5613
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/NOR/13_tel.json",
+      "local_file": "data/raw/2024_united_states_q/NOR_13_tel.json",
+      "sha256": "332d5615c180d84f642865e9f9b557f0773facadfdfda3bfc69b50b4d7076d0d",
+      "bytes": 138813
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/NOR/laptimes.json",
+      "local_file": "data/raw/2024_united_states_q/NOR_laptimes.json",
+      "sha256": "be9ed627e059535ccc0f8aaf7569e64a9041165f87a7fc849c830111601b194d",
+      "bytes": 5192
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/OCO/14_tel.json",
+      "local_file": "data/raw/2024_united_states_q/OCO_14_tel.json",
+      "sha256": "dd8df10a34bab4a4287d3ac418bcd52f35d4d7bf95f24f3d85449c314533d9ef",
+      "bytes": 144035
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/OCO/laptimes.json",
+      "local_file": "data/raw/2024_united_states_q/OCO_laptimes.json",
+      "sha256": "45b5173eb5ee4cb90e389ff3db28e0476dc836950c5c2ee3d9d26fd7f76e09b2",
+      "bytes": 4921
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/PER/11_tel.json",
+      "local_file": "data/raw/2024_united_states_q/PER_11_tel.json",
+      "sha256": "18a8ccf3339259b63101babb384205ef2381c70bac23680ae72b8de99310b5de",
+      "bytes": 141665
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/PER/laptimes.json",
+      "local_file": "data/raw/2024_united_states_q/PER_laptimes.json",
+      "sha256": "53660abe72b9cfdc0134bd94d8ac1fa600d9a16a7d663483b27bf3b8c30764df",
+      "bytes": 5669
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/PIA/16_tel.json",
+      "local_file": "data/raw/2024_united_states_q/PIA_16_tel.json",
+      "sha256": "af23d89e883f57adf81e5e35f91590b5e8117c6982152c81dea2db0f9caa33b0",
+      "bytes": 139255
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/PIA/laptimes.json",
+      "local_file": "data/raw/2024_united_states_q/PIA_laptimes.json",
+      "sha256": "0023c5342dcb51ac17e79113e5ca1479c22dceb9f0b9c64b8dd93130d6e15cf1",
+      "bytes": 6124
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/RUS/12_tel.json",
+      "local_file": "data/raw/2024_united_states_q/RUS_12_tel.json",
+      "sha256": "0f1fb4563098c01d787ef89ed359b5410dcdfda0a5719a75bd4e7cbec90e6170",
+      "bytes": 139261
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/RUS/laptimes.json",
+      "local_file": "data/raw/2024_united_states_q/RUS_laptimes.json",
+      "sha256": "f52e8a9565868f2a67f146e9f2551d5259da85230ef8ed260ca951e054ccbb84",
+      "bytes": 4633
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/SAI/16_tel.json",
+      "local_file": "data/raw/2024_united_states_q/SAI_16_tel.json",
+      "sha256": "274eaecd7a40392096a69a7cfc3e113a9ae4c96f05221e07ded20911016e4e90",
+      "bytes": 138158
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/SAI/laptimes.json",
+      "local_file": "data/raw/2024_united_states_q/SAI_laptimes.json",
+      "sha256": "d35ad396c85d0be39afeedbc0cc4a2f1b3d387b380d10b3c239770cbab09cd3f",
+      "bytes": 6133
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/STR/10_tel.json",
+      "local_file": "data/raw/2024_united_states_q/STR_10_tel.json",
+      "sha256": "005c1cc933d6e910917f64280e82280ad1be4341a664fd562747e0f30c1abc3f",
+      "bytes": 141133
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/STR/laptimes.json",
+      "local_file": "data/raw/2024_united_states_q/STR_laptimes.json",
+      "sha256": "a8c561d78eca05fd99b2ac72f16850536b2cdea6f0f386930093d997deb164f1",
+      "bytes": 4686
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/TSU/13_tel.json",
+      "local_file": "data/raw/2024_united_states_q/TSU_13_tel.json",
+      "sha256": "79dbb21ff3d0471bda0309376186848ed60a046d67aa7b7f39bf93abef136dca",
+      "bytes": 143903
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/TSU/laptimes.json",
+      "local_file": "data/raw/2024_united_states_q/TSU_laptimes.json",
+      "sha256": "081c5f53bde4803f6e45655efd83d9c0583106fd4311bfe73747a163ca99b871",
+      "bytes": 4566
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/VER/14_tel.json",
+      "local_file": "data/raw/2024_united_states_q/VER_14_tel.json",
+      "sha256": "d32f68b229c1001db82e7d4e91ce5e42ccc21300e9c58fec43f0f2c03f687441",
+      "bytes": 139580
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/VER/laptimes.json",
+      "local_file": "data/raw/2024_united_states_q/VER_laptimes.json",
+      "sha256": "74d4428c77b89947229700f4be81b176a05de36e072067af98c63e93e4eada78",
+      "bytes": 5652
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/ZHO/8_tel.json",
+      "local_file": "data/raw/2024_united_states_q/ZHO_8_tel.json",
+      "sha256": "dcf019b1306ada2d55c8a33d47518cbfb1094d09269c9dd47effc7e45337086d",
+      "bytes": 139795
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/ZHO/laptimes.json",
+      "local_file": "data/raw/2024_united_states_q/ZHO_laptimes.json",
+      "sha256": "87c3a2e1cd1c087246bc7cf1ba94a3efce2d2f565563da81e06012f11a90cf02",
+      "bytes": 3142
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/drivers.json",
+      "local_file": "data/raw/2024_united_states_q/drivers.json",
+      "sha256": "aef80dbb07d312527947af16488e28f74d7d0c996cabfcdcf5c726829c494127",
+      "bytes": 809
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/United%20States%20Grand%20Prix/Qualifying/session_info.json",
+      "local_file": "data/raw/2024_united_states_q/session_info.json",
+      "sha256": "71599c08581951c5b12bbd9c17e5d673e4e91047d8bf793658044320de9ce771",
+      "bytes": 945
+    }
+  ],
+  "transformation": "Retain fastest valid lap metadata and source time, distance, speed, throttle, brake, x, y arrays unchanged. Resampling occurs only at comparison time.",
+  "validation": "Usable telemetry spans the lap within 0.5 s at each end, without a gap longer than 3 s. Missing fastest telemetry is reported; no slower lap is silently substituted.",
+  "unavailable_drivers": [],
+  "license_file": "data/TRACINGINSIGHTS_LICENSE.txt"
+}

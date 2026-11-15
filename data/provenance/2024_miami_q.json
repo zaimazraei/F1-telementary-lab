@@ -1,0 +1,265 @@
+{
+  "repository": "https://github.com/TracingInsights/2024",
+  "commit": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "retrieved_at_utc": "2026-11-15T13:19:02.829047+00:00",
+  "session_id": "2024_miami_q",
+  "selection": "Fastest accurate, non-deleted flying lap across Q1/Q2/Q3 for each driver.",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/ALB/8_tel.json",
+      "local_file": "data/raw/2024_miami_q/ALB_8_tel.json",
+      "sha256": "e1aa3b152f1ee85e6dfe259031f6399a152845c3d6fdcaff732a8672e57a1414",
+      "bytes": 132927
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/ALB/laptimes.json",
+      "local_file": "data/raw/2024_miami_q/ALB_laptimes.json",
+      "sha256": "8cb11b9facb32c23676da5a4b411151e0432808d59a09ccd4ae82e7bdf198751",
+      "bytes": 4792
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/ALO/14_tel.json",
+      "local_file": "data/raw/2024_miami_q/ALO_14_tel.json",
+      "sha256": "d6abe4b69d70c596340e6d1768a04ac576492c7729a660ec2a4e932d987f9128",
+      "bytes": 134302
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/ALO/laptimes.json",
+      "local_file": "data/raw/2024_miami_q/ALO_laptimes.json",
+      "sha256": "fe3c6c40b7ccd7e0dfafd1cd131cb64b84f49fad27303a8ca86e511098d5a1c6",
+      "bytes": 4856
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/BOT/5_tel.json",
+      "local_file": "data/raw/2024_miami_q/BOT_5_tel.json",
+      "sha256": "1db45f46ff87ac5c8afbec6ca688c3ecf5e171767715979dd5d8e0f76011f95d",
+      "bytes": 133280
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/BOT/laptimes.json",
+      "local_file": "data/raw/2024_miami_q/BOT_laptimes.json",
+      "sha256": "e5b061ccdd344de8b34021719f1294e0c6ca5b048c28627d473a8b4c5b28b989",
+      "bytes": 2146
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/GAS/8_tel.json",
+      "local_file": "data/raw/2024_miami_q/GAS_8_tel.json",
+      "sha256": "777418ea4f415143c1fa1caa83305d43a858725a7a2018217e5cf29000091c1b",
+      "bytes": 131665
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/GAS/laptimes.json",
+      "local_file": "data/raw/2024_miami_q/GAS_laptimes.json",
+      "sha256": "2eaee1fe52298a4fe80b496012ff5a5f60421b8d369e5c9811b474250de6f878",
+      "bytes": 4769
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/HAM/14_tel.json",
+      "local_file": "data/raw/2024_miami_q/HAM_14_tel.json",
+      "sha256": "97cb557becea5a975bc39938184330a8cd2c5bcc7acdb4e88cb9fb24737c04bb",
+      "bytes": 134426
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/HAM/laptimes.json",
+      "local_file": "data/raw/2024_miami_q/HAM_laptimes.json",
+      "sha256": "6e3fc1ab7afcdc4a5b44dcd73ce57f0e522e0fbf5d914602720811a6644d84f3",
+      "bytes": 6580
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/HUL/20_tel.json",
+      "local_file": "data/raw/2024_miami_q/HUL_20_tel.json",
+      "sha256": "7110ce11a8f83e5dea9cc738999bc087be296edc7207931e065f9792e5dd4c07",
+      "bytes": 128801
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/HUL/laptimes.json",
+      "local_file": "data/raw/2024_miami_q/HUL_laptimes.json",
+      "sha256": "8c6356e6452961cc4ee668e3d9f0d89f07d7551940335b0e37a41f738114261c",
+      "bytes": 6659
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/LEC/17_tel.json",
+      "local_file": "data/raw/2024_miami_q/LEC_17_tel.json",
+      "sha256": "ffb3032e70427c03527db68b2c7b83f8dab758446b86bede06df61ea3083801b",
+      "bytes": 130066
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/LEC/laptimes.json",
+      "local_file": "data/raw/2024_miami_q/LEC_laptimes.json",
+      "sha256": "5d32a6a1d1085733d53d35b66bddf6a3ca560f2e92a79e0a009876114da90d82",
+      "bytes": 6562
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/MAG/8_tel.json",
+      "local_file": "data/raw/2024_miami_q/MAG_8_tel.json",
+      "sha256": "747f9129405cd48091c6022748c4b0b6234f3864c7160becf4b8367cf54d5cf9",
+      "bytes": 132441
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/MAG/laptimes.json",
+      "local_file": "data/raw/2024_miami_q/MAG_laptimes.json",
+      "sha256": "181bedf2292feef3d75a7421b92d306e7a0f50639f396a71237b83167c9cf601",
+      "bytes": 3045
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/NOR/20_tel.json",
+      "local_file": "data/raw/2024_miami_q/NOR_20_tel.json",
+      "sha256": "19906b290f29cd910857061480924b12259cec3c2a6b6e8835ad5d9b373ee6df",
+      "bytes": 135285
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/NOR/laptimes.json",
+      "local_file": "data/raw/2024_miami_q/NOR_laptimes.json",
+      "sha256": "d722388347e90b029369a3408694542fe415641a68e6e5993e055dcd2cf3336b",
+      "bytes": 6544
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/OCO/8_tel.json",
+      "local_file": "data/raw/2024_miami_q/OCO_8_tel.json",
+      "sha256": "ab31465a4c0e4b3811e0068c9b1377754f4d87849a440b359eb3e7835dfcbd54",
+      "bytes": 133335
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/OCO/laptimes.json",
+      "local_file": "data/raw/2024_miami_q/OCO_laptimes.json",
+      "sha256": "c5a7b9c5b58cfe0df89773caef2995314a44ec6247eb8dd2c49940d3acb03915",
+      "bytes": 4757
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/PER/17_tel.json",
+      "local_file": "data/raw/2024_miami_q/PER_17_tel.json",
+      "sha256": "bf62c84c98a786d930f5880490018c45386d75203b40b50eccc4e052303405a7",
+      "bytes": 134471
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/PER/laptimes.json",
+      "local_file": "data/raw/2024_miami_q/PER_laptimes.json",
+      "sha256": "c87a5642500d92aa9c40d901f4fa68b72ea650fcb0d75e6d09ea702ae5fc4101",
+      "bytes": 5817
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/PIA/15_tel.json",
+      "local_file": "data/raw/2024_miami_q/PIA_15_tel.json",
+      "sha256": "fff0003b941ce80cb362f2eb976100a86156c0bf9a8ee87a3c09cb2db9f73d30",
+      "bytes": 129482
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/PIA/laptimes.json",
+      "local_file": "data/raw/2024_miami_q/PIA_laptimes.json",
+      "sha256": "f247040970fbe1867537d4c3e4048bd9510b5f68bf50f2d6a7cd73f35b3b6844",
+      "bytes": 5974
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/RIC/2_tel.json",
+      "local_file": "data/raw/2024_miami_q/RIC_2_tel.json",
+      "sha256": "486c6660479f01df0b17fdb2fa5c88850211ac91980b2fda36aab2b7de3a1465",
+      "bytes": 132130
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/RIC/laptimes.json",
+      "local_file": "data/raw/2024_miami_q/RIC_laptimes.json",
+      "sha256": "240025df840262935784096cc7e04f6e2a72921f1c15f2403e4a1d2ca39ec8a3",
+      "bytes": 2958
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/RUS/17_tel.json",
+      "local_file": "data/raw/2024_miami_q/RUS_17_tel.json",
+      "sha256": "63b7d4fcc80812df3a964a40df1adcdb93b3ef2ba0707b01a7b29d4bb8ad9bb2",
+      "bytes": 133267
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/RUS/laptimes.json",
+      "local_file": "data/raw/2024_miami_q/RUS_laptimes.json",
+      "sha256": "9ebc7d5648158851f281e8ccdd095d3553b4539818f1ed0a1a6b912fdf6f2cc0",
+      "bytes": 6584
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/SAI/17_tel.json",
+      "local_file": "data/raw/2024_miami_q/SAI_17_tel.json",
+      "sha256": "552b468777fbc9af85702e1689996661908e950d55fc7abf447eb86e7f42a7c6",
+      "bytes": 129546
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/SAI/laptimes.json",
+      "local_file": "data/raw/2024_miami_q/SAI_laptimes.json",
+      "sha256": "5a210b44950545b8f0547d6c4110e8dfcbac827bb518d839ede0f341e8cae6d2",
+      "bytes": 6557
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/SAR/7_tel.json",
+      "local_file": "data/raw/2024_miami_q/SAR_7_tel.json",
+      "sha256": "0544577c08da5657fbd743cbf0ea41964f2b554a0d4278f98698a0ec846cc5b4",
+      "bytes": 132439
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/SAR/laptimes.json",
+      "local_file": "data/raw/2024_miami_q/SAR_laptimes.json",
+      "sha256": "814b2bf184ac24af0c5b0802e4f813f98ef7525caff5dc49afa01872c347342b",
+      "bytes": 2700
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/STR/8_tel.json",
+      "local_file": "data/raw/2024_miami_q/STR_8_tel.json",
+      "sha256": "9192970ac600f76fbcb866c8ab0c2bf7d7d2dd9b48b3409006aa9c281624793f",
+      "bytes": 133398
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/STR/laptimes.json",
+      "local_file": "data/raw/2024_miami_q/STR_laptimes.json",
+      "sha256": "daa9712f8f01481c31589640fa2666c88d09ea1f317a661c6d02295a408e4fa2",
+      "bytes": 4855
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/TSU/14_tel.json",
+      "local_file": "data/raw/2024_miami_q/TSU_14_tel.json",
+      "sha256": "5b235defc9c9270b0469640fabb7b86b566ac2f9afc7fcdaf9c5c7f81397140e",
+      "bytes": 133185
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/TSU/laptimes.json",
+      "local_file": "data/raw/2024_miami_q/TSU_laptimes.json",
+      "sha256": "aac10266d482242c33427aa78e92481b5b26d9296e99955b922df2e6617d68d0",
+      "bytes": 6444
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/VER/14_tel.json",
+      "local_file": "data/raw/2024_miami_q/VER_14_tel.json",
+      "sha256": "84ee4b72a0b7df179d433284d8cac16fbeb779d318acca0f57795040100408ef",
+      "bytes": 131314
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/VER/laptimes.json",
+      "local_file": "data/raw/2024_miami_q/VER_laptimes.json",
+      "sha256": "561fbbe355da6219b5f78ffec695d48a2debfc442f43476aed58cca0369f2cf1",
+      "bytes": 5800
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/ZHO/5_tel.json",
+      "local_file": "data/raw/2024_miami_q/ZHO_5_tel.json",
+      "sha256": "8e0e42316fc6aaf1e9d3933d46a535a489777536c99a34d8f2091c2180dc8bc1",
+      "bytes": 133459
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/ZHO/laptimes.json",
+      "local_file": "data/raw/2024_miami_q/ZHO_laptimes.json",
+      "sha256": "60e15572c64536d7a06b70e17b2905eec1bcdaf262b30e21e28059aae0ea0eb1",
+      "bytes": 3045
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/drivers.json",
+      "local_file": "data/raw/2024_miami_q/drivers.json",
+      "sha256": "52900a68e1631b760982d1a8cc3f50d1498b06abf2d90f85e00edcd159c94a48",
+      "bytes": 809
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Miami%20Grand%20Prix/Qualifying/session_info.json",
+      "local_file": "data/raw/2024_miami_q/session_info.json",
+      "sha256": "6909a1ae1933a85a3fafbf3f604f8864a4267d5a345f9825b80fd304a47e0c62",
+      "bytes": 958
+    }
+  ],
+  "transformation": "Retain fastest valid lap metadata and source time, distance, speed, throttle, brake, x, y arrays unchanged. Resampling occurs only at comparison time.",
+  "validation": "Usable telemetry spans the lap within 0.5 s at each end, without a gap longer than 3 s. Missing fastest telemetry is reported; no slower lap is silently substituted.",
+  "unavailable_drivers": [],
+  "license_file": "data/TRACINGINSIGHTS_LICENSE.txt"
+}

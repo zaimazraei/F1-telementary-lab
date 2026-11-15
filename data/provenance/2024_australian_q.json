@@ -1,0 +1,253 @@
+{
+  "repository": "https://github.com/TracingInsights/2024",
+  "commit": "d1543a71370d9b617b627319f8ad80b2f85dfd5e",
+  "retrieved_at_utc": "2026-11-15T13:18:57.281019+00:00",
+  "session_id": "2024_australian_q",
+  "selection": "Fastest accurate, non-deleted flying lap across Q1/Q2/Q3 for each driver.",
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/ALB/8_tel.json",
+      "local_file": "data/raw/2024_australian_q/ALB_8_tel.json",
+      "sha256": "e1ca168b526ff5a48e2b4227920663514da73d1c547713361ea71e923cfb9e0e",
+      "bytes": 114663
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/ALB/laptimes.json",
+      "local_file": "data/raw/2024_australian_q/ALB_laptimes.json",
+      "sha256": "3470224c3e83615aae46e0d8fac7c23452764bcbef7976365ea14d1dee52ac96",
+      "bytes": 4804
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/ALO/14_tel.json",
+      "local_file": "data/raw/2024_australian_q/ALO_14_tel.json",
+      "sha256": "21601371487acb9abd22189d40525f3da59b0bb5c3dbd91a50c1a432f391e49b",
+      "bytes": 116191
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/ALO/laptimes.json",
+      "local_file": "data/raw/2024_australian_q/ALO_laptimes.json",
+      "sha256": "fdcdbe8edf706a47de203a1a47240e3ad2174582477b962fc981a74976811fcb",
+      "bytes": 6335
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/BOT/14_tel.json",
+      "local_file": "data/raw/2024_australian_q/BOT_14_tel.json",
+      "sha256": "97d82106eeb94dfb24fa002b15351dc39e859033eeeb6269dce24ccdbf661e66",
+      "bytes": 116689
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/BOT/laptimes.json",
+      "local_file": "data/raw/2024_australian_q/BOT_laptimes.json",
+      "sha256": "4e8a5d933533f98ef48a4649f158035c1f88aee02c37cd3a655ffc394e477378",
+      "bytes": 4827
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/GAS/7_tel.json",
+      "local_file": "data/raw/2024_australian_q/GAS_7_tel.json",
+      "sha256": "7c8ca86ae592f908bfdfbf65ff45fb2a97541b83bdc3b63f0ded9ffe1de7128b",
+      "bytes": 118096
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/GAS/laptimes.json",
+      "local_file": "data/raw/2024_australian_q/GAS_laptimes.json",
+      "sha256": "458dda4074f632b28372927701213542ef0c26aa1a3097f4106a1464f4e609f1",
+      "bytes": 3576
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/HAM/14_tel.json",
+      "local_file": "data/raw/2024_australian_q/HAM_14_tel.json",
+      "sha256": "f68210b17e3aeb5978851b9e54569f7d4af32e50ee0a5f54fbdfbb39de74b80d",
+      "bytes": 117548
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/HAM/laptimes.json",
+      "local_file": "data/raw/2024_australian_q/HAM_laptimes.json",
+      "sha256": "3a2d73ac3db11ab1cdfba8cd094394a38eb27b9697fbf638906b789c5bdbec52",
+      "bytes": 4772
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/HUL/7_tel.json",
+      "local_file": "data/raw/2024_australian_q/HUL_7_tel.json",
+      "sha256": "cc8542c9b8cfbf6aca6992b3f2a1f435748e91f58ca13aff6ca8e5f6d6c6fd64",
+      "bytes": 116919
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/HUL/laptimes.json",
+      "local_file": "data/raw/2024_australian_q/HUL_laptimes.json",
+      "sha256": "142f8b3bf35e51c7c7c9bd655ab766c1fbcb1543e0a566a57c8518ec3582c3d2",
+      "bytes": 2741
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/LEC/14_tel.json",
+      "local_file": "data/raw/2024_australian_q/LEC_14_tel.json",
+      "sha256": "ba481efe169f0c30345748c788d33adc8748d87c566f069f222976752d458e8e",
+      "bytes": 114449
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/LEC/laptimes.json",
+      "local_file": "data/raw/2024_australian_q/LEC_laptimes.json",
+      "sha256": "a8155ecaddbebcd4c0a2803776f90627908c6c0e0c7c277c0f262ff8322cd57f",
+      "bytes": 6257
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/MAG/12_tel.json",
+      "local_file": "data/raw/2024_australian_q/MAG_12_tel.json",
+      "sha256": "d48dec0b0b56f11eeb479d7e07aabd52940841366533d635b67b456c6988db77",
+      "bytes": 116645
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/MAG/laptimes.json",
+      "local_file": "data/raw/2024_australian_q/MAG_laptimes.json",
+      "sha256": "4377f02bb455e146aa30b50ec29a9d8d42aed064ced2ccf3a5b0073c04f34aae",
+      "bytes": 4248
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/NOR/18_tel.json",
+      "local_file": "data/raw/2024_australian_q/NOR_18_tel.json",
+      "sha256": "0dd19902d89b01e1c332b3e5354d177294e7867225d50301e688826b41fa73ae",
+      "bytes": 118439
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/NOR/laptimes.json",
+      "local_file": "data/raw/2024_australian_q/NOR_laptimes.json",
+      "sha256": "b232ffd6bb51825a710b4c3d1e4a97d9276a2553c65a442b8b179fcd4d3a4a6b",
+      "bytes": 5650
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/OCO/10_tel.json",
+      "local_file": "data/raw/2024_australian_q/OCO_10_tel.json",
+      "sha256": "72166ba7cc765c2c1a3ea4bc850de2a4035a658087428db979a313ebc6e01123",
+      "bytes": 116600
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/OCO/laptimes.json",
+      "local_file": "data/raw/2024_australian_q/OCO_laptimes.json",
+      "sha256": "c0ddf8f62480415d368efc01007a2778bd97001af3b5685a33a8b6ff0b7d9e8c",
+      "bytes": 6508
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/PER/21_tel.json",
+      "local_file": "data/raw/2024_australian_q/PER_21_tel.json",
+      "sha256": "eda97547daf8a54f54045c91d61c825da2d46a579910d98aa98e223ba91a8baa",
+      "bytes": 116777
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/PER/laptimes.json",
+      "local_file": "data/raw/2024_australian_q/PER_laptimes.json",
+      "sha256": "0ad6b8e28ac365e48a9d8980fa71852ec2d5f1010d3088b2164652df2371c1ee",
+      "bytes": 7028
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/PIA/17_tel.json",
+      "local_file": "data/raw/2024_australian_q/PIA_17_tel.json",
+      "sha256": "fa7e08010a39fff71802172391195992e832613872276da99e257a8d156befae",
+      "bytes": 118144
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/PIA/laptimes.json",
+      "local_file": "data/raw/2024_australian_q/PIA_laptimes.json",
+      "sha256": "e0eab3b09faf5a06e23ede5d945f45a6ecf525f8bf126f3349ae3cbf56edb1dc",
+      "bytes": 5373
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/RIC/2_tel.json",
+      "local_file": "data/raw/2024_australian_q/RIC_2_tel.json",
+      "sha256": "8397a38043f161717c2de24bd072c57fd4758b9dea00d1d23d9d7f07bdb0d235",
+      "bytes": 120961
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/RIC/laptimes.json",
+      "local_file": "data/raw/2024_australian_q/RIC_laptimes.json",
+      "sha256": "ca6fefec5f5f179a8493172561ad6b240ef923d004add7e13459f8dba90af82a",
+      "bytes": 2114
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/RUS/22_tel.json",
+      "local_file": "data/raw/2024_australian_q/RUS_22_tel.json",
+      "sha256": "2fa9e3c90fd972855c2339514864bd826283d55c49111ce2f74caa13e7d895b1",
+      "bytes": 114013
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/RUS/laptimes.json",
+      "local_file": "data/raw/2024_australian_q/RUS_laptimes.json",
+      "sha256": "4917bebff105f5bde5453435cc458dfc432d238b6b6ac09654fde5c5741c1588",
+      "bytes": 6867
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/SAI/17_tel.json",
+      "local_file": "data/raw/2024_australian_q/SAI_17_tel.json",
+      "sha256": "9bfc2a3d2eb1cc74fe61af02ecaf5c4b20b1b1cecbfedae9b0a568d3ea4d6d1f",
+      "bytes": 117741
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/SAI/laptimes.json",
+      "local_file": "data/raw/2024_australian_q/SAI_laptimes.json",
+      "sha256": "a65440d9830fe235da0f21181701515683a94b1d79f2a3efe154768f16191394",
+      "bytes": 5668
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/STR/17_tel.json",
+      "local_file": "data/raw/2024_australian_q/STR_17_tel.json",
+      "sha256": "0e2fd6ba130e5c35f3abaa928886db74468c3d35d5acd089d809180dba0ad151",
+      "bytes": 116196
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/STR/laptimes.json",
+      "local_file": "data/raw/2024_australian_q/STR_laptimes.json",
+      "sha256": "2e56007c512fb5fd9d976b8c3c6b7146b9d59952f57f412b0b9087a75d1a85b7",
+      "bytes": 6945
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/TSU/17_tel.json",
+      "local_file": "data/raw/2024_australian_q/TSU_17_tel.json",
+      "sha256": "a8e06d1a3a3b96a7fe9955727b1c2b134cd355b99340059e0e605a1cecac2370",
+      "bytes": 116117
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/TSU/laptimes.json",
+      "local_file": "data/raw/2024_australian_q/TSU_laptimes.json",
+      "sha256": "41d69d8b384e3cd14d3f38510c63c02d47fe382ce03a2a66555b18fc7df8c886",
+      "bytes": 5288
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/VER/20_tel.json",
+      "local_file": "data/raw/2024_australian_q/VER_20_tel.json",
+      "sha256": "4e555f295b41592ce934b8fb64f9d01a9a2eb45e949bc291ab2a272934a9ea81",
+      "bytes": 115924
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/VER/laptimes.json",
+      "local_file": "data/raw/2024_australian_q/VER_laptimes.json",
+      "sha256": "b5b190abc1d6cfe6fc745e1613101b397a82eb02951695b797bbf9cf42626c9a",
+      "bytes": 6717
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/ZHO/5_tel.json",
+      "local_file": "data/raw/2024_australian_q/ZHO_5_tel.json",
+      "sha256": "449f5114bd90558a7dbc78cb6278e24a7cc670f8693e63ec4a92d95f0b5ad7de",
+      "bytes": 120163
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/ZHO/laptimes.json",
+      "local_file": "data/raw/2024_australian_q/ZHO_laptimes.json",
+      "sha256": "815e48827a7401df55961f5c49fb0bc90144148933f463b9b66c5328beda41ec",
+      "bytes": 3040
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/drivers.json",
+      "local_file": "data/raw/2024_australian_q/drivers.json",
+      "sha256": "865da5a418a7164ac5a1d76153c2005186d1f2abdf9a4415c4fc502942682db6",
+      "bytes": 4699
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TracingInsights/2024/d1543a71370d9b617b627319f8ad80b2f85dfd5e/Australian%20Grand%20Prix/Qualifying/session_info.json",
+      "local_file": "data/raw/2024_australian_q/session_info.json",
+      "sha256": "9086e8edfa6c8b184613549044cc9a6cde2a19d12f9821eb0ea5e4f814affd86",
+      "bytes": 924
+    }
+  ],
+  "transformation": "Retain fastest valid lap metadata and source time, distance, speed, throttle, brake, x, y arrays unchanged. Resampling occurs only at comparison time.",
+  "validation": "Usable telemetry spans the lap within 0.5 s at each end, without a gap longer than 3 s. Missing fastest telemetry is reported; no slower lap is silently substituted.",
+  "unavailable_drivers": [],
+  "license_file": "data/TRACINGINSIGHTS_LICENSE.txt"
+}
